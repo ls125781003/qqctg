@@ -74,7 +74,7 @@
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
-            "ext": "\"./js/kanqiu.js\""
+            "ext": "./js/kanqiu.js"
         },
         {
             "key": "瓜子",
@@ -164,7 +164,7 @@
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
-            "ext": "\"./js/xiongmao.js\""
+            "ext": "./js/xiongmao.js"
         },
         {
             "key": "hipy_js_腾云驾雾[官]",
@@ -177,7 +177,7 @@
             "playerType": 2,
             "order_num": 0,
             "changeable": 0,
-            "ext": "\"./js/tm.js\""
+            "ext": "./js/tm.js"
         },
         {
             "key": "guoguo",
@@ -189,7 +189,7 @@
             "filterable": 1,
             "order_num": 0,
             "changeable": 0,
-            "ext": "\"./js/guoguo.js\""
+            "ext": "./js/guoguo.js"
         },
         {
             "key": "csp_NanGua",
@@ -226,7 +226,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "\"./json/Bili.json\""
+            "ext": "./json/Bili.json"
         },
         {
             "key": "荐片",
