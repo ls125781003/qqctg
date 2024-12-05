@@ -439,6 +439,19 @@
             }
         },
         {
+            "key": "xzso",
+            "name": "👻盘它┃三盘",
+            "type": 3,
+            "api": "csp_xzso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
             "key": "米搜",
             "name": "🦋米搜┃夸父",
             "type": 3,
@@ -447,6 +460,20 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "夸搜",
+            "name": "😻夸搜┃夸父",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "pan": "quark",
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             }

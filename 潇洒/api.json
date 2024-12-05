@@ -261,6 +261,19 @@
             }
         },
         {
+            "key": "哔嘀弹幕",
+            "name": "哔嘀｜弹幕",
+            "type": 3,
+            "api": "csp_Bdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "site": "https://www.xlys01.com",
+                "danmu": true
+            }
+        },
+        {
             "key": "玩偶弹幕",
             "name": "玩偶哥哥｜4K弹幕",
             "type": 3,
@@ -289,6 +302,23 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "site": "https://wogg.xxooo.cf",
+                "danmu": true
+            }
+        },
+        {
+            "key": "夸克肥猫弹幕",
+            "name": "肥猫｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "http://feimaouc.cloud:666",
                 "danmu": true
             }
         },
@@ -369,7 +399,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://mihdr.top",
+                "site": "https://xiaomiai.site",
                 "danmu": true
             }
         },
@@ -495,13 +525,6 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
-        },
-        {
-            "key": "天堂短剧",
-            "name": "天堂｜短剧",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/天堂短剧.js"
         },
         {
             "key": "爱你短剧",
@@ -870,16 +893,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "新视觉",
-            "name": "新视觉｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XBPQ/新视觉.json"
         },
         {
             "key": "电影牛",
