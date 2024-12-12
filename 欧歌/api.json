@@ -14,14 +14,14 @@
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "📢o榜单u.nxog.top",
+            "name": "📢o榜单nxog.top",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "豆瓣1",
-            "name": "📢o公告❤更新:12/08❤",
+            "name": "📢o公告❤更新:12/11❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
@@ -242,25 +242,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "KhY021WelCEl+6MsvwnzaLK5sg6yEQRc8CLY+R2wReBS99eCRx9APeYSJ5VWzBI5XnVfjFiTSsduqSYOWQC3AqI3+tLwmZ/aT2z/PZuRbHjEUNX8RMiGfg8bkgTbOVjmN6hVB1V3ZE4DTbUbATLmIUci/wOblS2T54u1dxfP2owIfTg1nKSiYD1ndF3VotBmw5u8hM7jpJZ3Ugcaqy/mTj7oMr8="
-        },
-        {
-            "key": "云云影视",
-            "name": "💡云云｜影视",
-            "type": 3,
-            "api": "csp_AppLma",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "KhY021WelCEl+6MsvwnzaPusskyiDwxc/zHc8gWyReBS+prQb0FAAvlCb5Uoj4LihPmHGDbnCYo/risaDE3tISvdDENCSVt4yNkc/84/jK0C1mB7qQzP6tbIGNAuvYFQ5GG9wtLMcQNCCr0aUEOhalQ68ReunWqH5JzX96l/BDfD/4KyVQlAKaurrptTFwKIRcQ7DU0yNCOv0eHPd48jyYXnc/YzNv9jY54k0unLa6z06bdWLsj4G0aNHwcp3IxydlT/taKaA0S27Tmdq7nkMyq26a39g1MHcVEvL6x7xZmF+nOYuZBIiIxzh36dj2ues4Nt2ukFtac="
-        },
-        {
-            "key": "凡人影视",
-            "name": "💡凡人｜影视",
-            "type": 3,
-            "api": "csp_AppFr",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "全网影视",
