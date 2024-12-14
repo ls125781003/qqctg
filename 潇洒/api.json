@@ -524,11 +524,14 @@
             "filterable": 0
         },
         {
-            "key": "爱你短剧",
-            "name": "爱你｜短剧",
+            "key": "爱我短剧",
+            "name": "爱我｜短剧",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/爱你短剧.js"
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/爱我短剧.json"
         },
         {
             "key": "短剧屋",
@@ -807,6 +810,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XBPQ/可可影视.json"
+        },
+        {
+            "key": "海纳影视",
+            "name": "海纳｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XBPQ/海纳影视.json"
         },
         {
             "key": "金牌影视",
@@ -1798,6 +1811,35 @@
             }
         },
         {
+            "name": "优选",
+            "type": 1,
+            "url": "http://1.94.221.189:88/algorithm.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
             "name": "线路1",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
@@ -2068,6 +2110,18 @@
             "name": "肥羊YY轮播",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&url=http://127.0.0.1:35345/yylunbo.m3u",
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "肥羊咪咕电视直播",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=http://127.0.0.1:35345/migu.m3u",
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "肥羊咪咕赛事直播",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=http://127.0.0.1:35345/miguevent.m3u",
             "ua": "okhttp/3.15"
         }
     ],
