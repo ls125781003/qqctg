@@ -21,7 +21,7 @@
         },
         {
             "key": "豆瓣1",
-            "name": "📢o公告❤更新:12/11❤",
+            "name": "📢o公告❤更新:12/15❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
@@ -391,6 +391,89 @@
             "ext": {
                 "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+            }
+        },
+        {
+            "key": "大师兄",
+            "name": "🧿大师┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+                "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+            }
+        },
+        {
+            "key": "疯狗",
+            "name": "🧿疯狗┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "线路数组": "page-header\">&&</div>",
+                "播放数组": "list-unstyledrowtext-centerff-playurl-lineff-playurl\"&&</ul>",
+                "分类url": "https://m.fenggoudy3.com/list-select-id-{cateId}-type-{class}-area-{area}-year-{year}-star--state--order-addtime-p-{catePg}.html;;d0",
+                "分类": "电视剧$2#电影$1#动漫$3#综艺$4"
+            }
+        },
+        {
+            "key": "奈飞中文",
+            "name": "🧿奈飞┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.netfly.tv/vod/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+                "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+            }
+        },
+        {
+            "key": "四个圈",
+            "name": "🧿四圈┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://pg.fenwe078.cf/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}.html",
+                "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+            }
+        },
+        {
+            "key": "可可影视",
+            "name": "🧿可可┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "线路数组": "source-item\">&&</a>",
+                "分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}--{year}-3-{catePg}.html",
+                "分类": "电视剧$2#电影$1#动漫$3#综艺$4#短剧$6"
+            }
+        },
+        {
+            "key": "万家影视",
+            "name": "🧿万家┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.lwjtv.com/ystop/{cateId}/area/{area}/page/{catePg}/year/{year}.html",
+                "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongmna"
+            }
+        },
+        {
+            "key": "电影驿站",
+            "name": "🧿电影┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.dyyz1.app/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+                "分类": "电视剧$2#电影$1#综艺$3#动漫$4"
+            }
+        },
+        {
+            "key": "免费看影视",
+            "name": "🧿免费┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://qzy998-wap-1.ysgq.xyz/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录片$5"
             }
         },
         {
