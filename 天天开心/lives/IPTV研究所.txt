@@ -306,131 +306,247 @@ https://iptv.vip-tptv.xyz/beesport.php?id=Fox_Sports_2_Live_TV
 
 
 
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="AKTV「免梯➊」",翡翠台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="AKTV「免梯➊」",翡翠台4K
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/4k/AKTV.m3u8
+#EXTINF:-1,tvg-id="tvb翡翠" tvg-name="tvb翡翠" tvg-logo="https://epg.v1.mk/logo/tvb翡翠.png" group-title="AKTV「免梯➊」",翡翠综合台(北美)
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1,tvg-id="tvb翡翠" tvg-name="tvb翡翠" tvg-logo="https://epg.v1.mk/logo/tvb翡翠.png" group-title="AKTV「免梯➊」",翡翠剧集台(北美)
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1,tvg-id="tvb明珠" tvg-name="tvb明珠" tvg-logo="https://epg.v1.mk/logo/tvb明珠.png" group-title="AKTV「免梯➊」",明珠剧集台(北美)
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="AKTV「免梯➊」",明珠台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1,tvg-id="iFun动漫台" tvg-name="iFun动漫台" tvg-logo="https://epg.v1.mk/logo/iFun动漫台.png" group-title="AKTV「免梯➊」",i-Fun 動漫台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/ifun/AKTV.m3u8
+#EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="AKTV「免梯➊」",Now星影台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/now/AKTV.m3u8
+#EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="AKTV「免梯➊」",Now爆谷台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/now-1/AKTV.m3u8
+#EXTINF:-1,tvg-id="ALL THE K-POP" tvg-name="ALL THE K-POP" tvg-logo="https://epg.v1.mk/logo/ALL THE K-POP.png" group-title="AKTV「免梯➊」",PopC
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="AKTV「免梯➊」",無線新聞台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="AKTV「免梯➊」",美亞電影台(HK)
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1,tvg-id="20240102074128324TEMPIMAGE" tvg-name="20240102074128324TEMPIMAGE" tvg-logo="https://epg.v1.mk/logo/20240102074128324TEMPIMAGE.png" group-title="AKTV「免梯➊」",28 AI 智慧賽馬
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/28ai/AKTV.m3u8
+#EXTINF:-1,tvg-id="channel5" tvg-name="channel5" tvg-logo="https://epg.v1.mk/logo/channel5.png" group-title="AKTV「免梯➊」",Channel 5 HD
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1,tvg-id="92PX-TENNIS_CHANNEL_LOGO" tvg-name="92PX-TENNIS_CHANNEL_LOGO" tvg-logo="https://epg.v1.mk/logo/92PX-TENNIS_CHANNEL_LOGO.png" group-title="AKTV「免梯➊」",Channel 8 HD
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1,tvg-id="92PX-TENNIS_CHANNEL_LOGO" tvg-name="92PX-TENNIS_CHANNEL_LOGO" tvg-logo="https://epg.v1.mk/logo/92PX-TENNIS_CHANNEL_LOGO.png" group-title="AKTV「免梯➊」",Channel U HD
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="AKTV「免梯➊」",myTV SUPER 18台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1,tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://epg.v1.mk/logo/VIUTV6.png" group-title="AKTV「免梯➊」",viutv 99
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:-1,tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://epg.v1.mk/logo/VIUTV6.png" group-title="AKTV「免梯➊」",viutv6 96
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/viutv696/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVB无线新闻台png" tvg-name="TVB无线新闻台png" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻台png.png" group-title="AKTV「免梯➊」",无线新闻台(北美)
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="AKTV「免梯➊」",東森新聞
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/null/AKTV.m3u8
+#EXTINF:-1,tvg-id="ANIMAXHK" tvg-name="ANIMAXHK" tvg-logo="https://epg.v1.mk/logo/ANIMAXHK.png" group-title="AKTV「免梯➊」",Animax(HK)
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1,tvg-id="DW Deutsch" tvg-name="DW Deutsch" tvg-logo="https://epg.v1.mk/logo/DW Deutsch.png" group-title="AKTV「免梯➊」",DW
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1,tvg-id="france24" tvg-name="france24" tvg-logo="https://epg.v1.mk/logo/france24.png" group-title="AKTV「免梯➊」",France 24
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/france24/AKTV.m3u8
+#EXTINF:-1,tvg-id="kix" tvg-name="kix" tvg-logo="https://epg.v1.mk/logo/kix.png" group-title="AKTV「免梯➊」",KIX
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="AKTV「免梯➊」",Love Nature HD
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1,tvg-id="NHKWORLDJAPAN" tvg-name="NHKWORLDJAPAN" tvg-logo="https://epg.v1.mk/logo/NHKWORLDJAPAN.png" group-title="AKTV「免梯➊」",NHK World-Japan
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1,tvg-id="AXNHK" tvg-name="AXNHK" tvg-logo="https://epg.v1.mk/logo/AXNHK.png" group-title="AKTV「免梯➊」",NHK東京総合
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1,tvg-id="NickJr" tvg-name="NickJr" tvg-logo="https://epg.v1.mk/logo/NickJr.png" group-title="AKTV「免梯➊」",Nick Jr
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.v1.mk/logo/NICKELODEON.png" group-title="AKTV「免梯➊」",Nickelodeon
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1,tvg-id="thrill" tvg-name="thrill" tvg-logo="https://epg.v1.mk/logo/thrill.png" group-title="AKTV「免梯➊」",Thrill
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1,tvg-id="ASIAZONGHE" tvg-name="ASIAZONGHE" tvg-logo="https://epg.v1.mk/logo/ASIAZONGHE.png" group-title="AKTV「免梯➊」",ZooMoo
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="AKTV「免梯➊」",亞洲新聞台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="AKTV「免梯➊」",東方衛視國際頻道
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/null/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="AKTV「免梯➊」",無線衛星新聞台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1,tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="AKTV「免梯➊」",ROCK Action
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="AKTV「免梯➊」",TVB Plus
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.v1.mk/logo/tvbs.png" group-title="AKTV「免梯➊」",TVBS
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="AKTV「免梯➊」",TVBS-新聞台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://epg.v1.mk/logo/tvn.png" group-title="AKTV「免梯➊」",tvN
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.v1.mk/logo/中天亚洲台.png" group-title="AKTV「免梯➊」",中天亞洲台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="AKTV「免梯➊」",中天新聞台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="AKTV「免梯➊」",中視
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="AKTV「免梯➊」",千禧經典台(HK)
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="AKTV「免梯➊」",娛樂新聞台(HK)
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台.png" group-title="AKTV「免梯➊」",寰宇新聞台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="AKTV「免梯➊」",日本全天新聞
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-13/AKTV.m3u8
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="AKTV「免梯➊」",華視
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1,tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://epg.v1.mk/logo/靖天电影台.png" group-title="AKTV「免梯➊」",靖天電影台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="AKTV「免梯➊」",鳳凰中文
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="AKTV「免梯➊」",鳳凰資訊
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="AKTV「免梯➊」",鳳凰香港
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1,tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://epg.v1.mk/logo/黄金翡翠台.png" group-title="AKTV「免梯➊」",黃金翡翠台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1,tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://epg.v1.mk/logo/龙华日韩台.png" group-title="AKTV「免梯➊」",龍華日韓台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1,tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.v1.mk/logo/龙华经典.png" group-title="AKTV「免梯➊」",龍華經典台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1,tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://epg.v1.mk/logo/龙华电影台.png" group-title="AKTV「免梯➊」",龍華電影台
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1,tvg-id="axn" tvg-name="axn" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="AKTV「免梯➊」",AXN
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv2/axn/AKTV.m3u8
+#EXTINF:-1,tvg-id="ASIAZONGHE" tvg-name="ASIAZONGHE" tvg-logo="https://epg.v1.mk/logo/ASIAZONGHE.png" group-title="AKTV「免梯➊」",ZooMoo
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="AKTV「免梯➊」",Love Nature HD
+https://aktv.mytvsuper.com.mp/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 
 
 
 
 
 
-
-
-#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="AKTV「免梯」",翡翠台
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="AKTV「免梯➋」",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="AKTV「免梯」",翡翠台4K
+#EXTINF:-1,tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="AKTV「免梯➋」",翡翠台4K
 http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
-#EXTINF:-1,tvg-id="tvb翡翠" tvg-name="tvb翡翠" tvg-logo="https://epg.v1.mk/logo/tvb翡翠.png" group-title="AKTV「免梯」",翡翠综合台(北美)
+#EXTINF:-1,tvg-id="tvb翡翠" tvg-name="tvb翡翠" tvg-logo="https://epg.v1.mk/logo/tvb翡翠.png" group-title="AKTV「免梯➋」",翡翠综合台(北美)
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1,tvg-id="tvb翡翠" tvg-name="tvb翡翠" tvg-logo="https://epg.v1.mk/logo/tvb翡翠.png" group-title="AKTV「免梯」",翡翠剧集台(北美)
+#EXTINF:-1,tvg-id="tvb翡翠" tvg-name="tvb翡翠" tvg-logo="https://epg.v1.mk/logo/tvb翡翠.png" group-title="AKTV「免梯➋」",翡翠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1,tvg-id="tvb明珠" tvg-name="tvb明珠" tvg-logo="https://epg.v1.mk/logo/tvb明珠.png" group-title="AKTV「免梯」",明珠剧集台(北美)
+#EXTINF:-1,tvg-id="tvb明珠" tvg-name="tvb明珠" tvg-logo="https://epg.v1.mk/logo/tvb明珠.png" group-title="AKTV「免梯➋」",明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="AKTV「免梯」",明珠台
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="AKTV「免梯➋」",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1,tvg-id="iFun动漫台" tvg-name="iFun动漫台" tvg-logo="https://epg.v1.mk/logo/iFun动漫台.png" group-title="AKTV「免梯」",i-Fun 動漫台
+#EXTINF:-1,tvg-id="iFun动漫台" tvg-name="iFun动漫台" tvg-logo="https://epg.v1.mk/logo/iFun动漫台.png" group-title="AKTV「免梯➋」",i-Fun 動漫台
 http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
-#EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="AKTV「免梯」",Now星影台
+#EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="AKTV「免梯➋」",Now星影台
 http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-#EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="AKTV「免梯」",Now爆谷台
+#EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="AKTV「免梯➋」",Now爆谷台
 http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
-#EXTINF:-1,tvg-id="ALL THE K-POP" tvg-name="ALL THE K-POP" tvg-logo="https://epg.v1.mk/logo/ALL THE K-POP.png" group-title="AKTV「免梯」",PopC
+#EXTINF:-1,tvg-id="ALL THE K-POP" tvg-name="ALL THE K-POP" tvg-logo="https://epg.v1.mk/logo/ALL THE K-POP.png" group-title="AKTV「免梯➋」",PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="AKTV「免梯」",無線新聞台
+#EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="AKTV「免梯➋」",無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="AKTV「免梯」",美亞電影台(HK)
+#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="AKTV「免梯➋」",美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1,tvg-id="20240102074128324TEMPIMAGE" tvg-name="20240102074128324TEMPIMAGE" tvg-logo="https://epg.v1.mk/logo/20240102074128324TEMPIMAGE.png" group-title="AKTV「免梯」",28 AI 智慧賽馬
-http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-#EXTINF:-1,tvg-id="channel5" tvg-name="channel5" tvg-logo="https://epg.v1.mk/logo/channel5.png" group-title="AKTV「免梯」",Channel 5 HD
-http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1,tvg-id="92PX-TENNIS_CHANNEL_LOGO" tvg-name="92PX-TENNIS_CHANNEL_LOGO" tvg-logo="https://epg.v1.mk/logo/92PX-TENNIS_CHANNEL_LOGO.png" group-title="AKTV「免梯」",Channel 8 HD
-http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1,tvg-id="92PX-TENNIS_CHANNEL_LOGO" tvg-name="92PX-TENNIS_CHANNEL_LOGO" tvg-logo="https://epg.v1.mk/logo/92PX-TENNIS_CHANNEL_LOGO.png" group-title="AKTV「免梯」",Channel U HD
-http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="AKTV「免梯」",myTV SUPER 18台
-http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1,tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://epg.v1.mk/logo/VIUTV6.png" group-title="AKTV「免梯」",viutv 99
-http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1,tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://epg.v1.mk/logo/VIUTV6.png" group-title="AKTV「免梯」",viutv6 96
-http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVB无线新闻台png" tvg-name="TVB无线新闻台png" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻台png.png" group-title="AKTV「免梯」",无线新闻台(北美)
-http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="AKTV「免梯」",東森新聞
-http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="ANIMAXHK" tvg-name="ANIMAXHK" tvg-logo="https://epg.v1.mk/logo/ANIMAXHK.png" group-title="AKTV「免梯」",Animax(HK)
-http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1,tvg-id="DW Deutsch" tvg-name="DW Deutsch" tvg-logo="https://epg.v1.mk/logo/DW Deutsch.png" group-title="AKTV「免梯」",DW
-http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1,tvg-id="france24" tvg-name="france24" tvg-logo="https://epg.v1.mk/logo/france24.png" group-title="AKTV「免梯」",France 24
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1,tvg-id="kix" tvg-name="kix" tvg-logo="https://epg.v1.mk/logo/kix.png" group-title="AKTV「免梯」",KIX
-http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="AKTV「免梯」",Love Nature HD
-http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:-1,tvg-id="NHKWORLDJAPAN" tvg-name="NHKWORLDJAPAN" tvg-logo="https://epg.v1.mk/logo/NHKWORLDJAPAN.png" group-title="AKTV「免梯」",NHK World-Japan
-http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1,tvg-id="AXNHK" tvg-name="AXNHK" tvg-logo="https://epg.v1.mk/logo/AXNHK.png" group-title="AKTV「免梯」",NHK東京総合
-http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
-#EXTINF:-1,tvg-id="NickJr" tvg-name="NickJr" tvg-logo="https://epg.v1.mk/logo/NickJr.png" group-title="AKTV「免梯」",Nick Jr
-http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.v1.mk/logo/NICKELODEON.png" group-title="AKTV「免梯」",Nickelodeon
-http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1,tvg-id="thrill" tvg-name="thrill" tvg-logo="https://epg.v1.mk/logo/thrill.png" group-title="AKTV「免梯」",Thrill
-http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1,tvg-id="ASIAZONGHE" tvg-name="ASIAZONGHE" tvg-logo="https://epg.v1.mk/logo/ASIAZONGHE.png" group-title="AKTV「免梯」",ZooMoo
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="AKTV「免梯」",亞洲新聞台
-http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="AKTV「免梯」",東方衛視國際頻道
-http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="AKTV「免梯」",無線衛星新聞台
-http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1,tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="AKTV「免梯」",ROCK Action
-http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="AKTV「免梯」",TVB Plus
-http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.v1.mk/logo/tvbs.png" group-title="AKTV「免梯」",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="AKTV「免梯」",TVBS-新聞台
-http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://epg.v1.mk/logo/tvn.png" group-title="AKTV「免梯」",tvN
-http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.v1.mk/logo/中天亚洲台.png" group-title="AKTV「免梯」",中天亞洲台
-http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="AKTV「免梯」",中天新聞台
-http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="AKTV「免梯」",中視
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="AKTV「免梯」",千禧經典台(HK)
-http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="AKTV「免梯」",娛樂新聞台(HK)
-http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台.png" group-title="AKTV「免梯」",寰宇新聞台
-http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="AKTV「免梯」",日本全天新聞
-http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="AKTV「免梯」",華視
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1,tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://epg.v1.mk/logo/靖天电影台.png" group-title="AKTV「免梯」",靖天電影台
-http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="AKTV「免梯」",鳳凰中文
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="AKTV「免梯➋」",鳳凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="AKTV「免梯」",鳳凰資訊
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="AKTV「免梯➋」",鳳凰資訊
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="AKTV「免梯」",鳳凰香港
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="AKTV「免梯➋」",鳳凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1,tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://epg.v1.mk/logo/黄金翡翠台.png" group-title="AKTV「免梯」",黃金翡翠台
-http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1,tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://epg.v1.mk/logo/龙华日韩台.png" group-title="AKTV「免梯」",龍華日韓台
-http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1,tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.v1.mk/logo/龙华经典.png" group-title="AKTV「免梯」",龍華經典台
-http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1,tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://epg.v1.mk/logo/龙华电影台.png" group-title="AKTV「免梯」",龍華電影台
-http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1,tvg-id="axn" tvg-name="axn" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="AKTV「免梯」",AXN
-http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
-#EXTINF:-1,tvg-id="ASIAZONGHE" tvg-name="ASIAZONGHE" tvg-logo="https://epg.v1.mk/logo/ASIAZONGHE.png" group-title="AKTV「免梯」",ZooMoo
+#EXTINF:-1,tvg-id="20240102074128324TEMPIMAGE" tvg-name="20240102074128324TEMPIMAGE" tvg-logo="https://epg.v1.mk/logo/20240102074128324TEMPIMAGE.png" group-title="AKTV「免梯➋」",28 AI 智慧賽馬
+http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+#EXTINF:-1,tvg-id="channel5" tvg-name="channel5" tvg-logo="https://epg.v1.mk/logo/channel5.png" group-title="AKTV「免梯➋」",Channel 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1,tvg-id="92PX-TENNIS_CHANNEL_LOGO" tvg-name="92PX-TENNIS_CHANNEL_LOGO" tvg-logo="https://epg.v1.mk/logo/92PX-TENNIS_CHANNEL_LOGO.png" group-title="AKTV「免梯➋」",Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1,tvg-id="92PX-TENNIS_CHANNEL_LOGO" tvg-name="92PX-TENNIS_CHANNEL_LOGO" tvg-logo="https://epg.v1.mk/logo/92PX-TENNIS_CHANNEL_LOGO.png" group-title="AKTV「免梯➋」",Channel U HD
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="AKTV「免梯➋」",myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1,tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://epg.v1.mk/logo/VIUTV6.png" group-title="AKTV「免梯➋」",viutv 99
+http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+#EXTINF:-1,tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://epg.v1.mk/logo/VIUTV6.png" group-title="AKTV「免梯➋」",viutv6 96
+http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVB无线新闻台png" tvg-name="TVB无线新闻台png" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻台png.png" group-title="AKTV「免梯➋」",无线新闻台(北美)
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="AKTV「免梯➋」",東森新聞
+http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+#EXTINF:-1,tvg-id="ANIMAXHK" tvg-name="ANIMAXHK" tvg-logo="https://epg.v1.mk/logo/ANIMAXHK.png" group-title="AKTV「免梯➋」",Animax(HK)
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1,tvg-id="DW Deutsch" tvg-name="DW Deutsch" tvg-logo="https://epg.v1.mk/logo/DW Deutsch.png" group-title="AKTV「免梯➋」",DW
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1,tvg-id="france24" tvg-name="france24" tvg-logo="https://epg.v1.mk/logo/france24.png" group-title="AKTV「免梯➋」",France 24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+#EXTINF:-1,tvg-id="kix" tvg-name="kix" tvg-logo="https://epg.v1.mk/logo/kix.png" group-title="AKTV「免梯➋」",KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="AKTV「免梯➋」",Love Nature HD
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1,tvg-id="NHKWORLDJAPAN" tvg-name="NHKWORLDJAPAN" tvg-logo="https://epg.v1.mk/logo/NHKWORLDJAPAN.png" group-title="AKTV「免梯➋」",NHK World-Japan
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1,tvg-id="AXNHK" tvg-name="AXNHK" tvg-logo="https://epg.v1.mk/logo/AXNHK.png" group-title="AKTV「免梯➋」",NHK東京総合
+http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1,tvg-id="NickJr" tvg-name="NickJr" tvg-logo="https://epg.v1.mk/logo/NickJr.png" group-title="AKTV「免梯➋」",Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.v1.mk/logo/NICKELODEON.png" group-title="AKTV「免梯➋」",Nickelodeon
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1,tvg-id="thrill" tvg-name="thrill" tvg-logo="https://epg.v1.mk/logo/thrill.png" group-title="AKTV「免梯➋」",Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1,tvg-id="ASIAZONGHE" tvg-name="ASIAZONGHE" tvg-logo="https://epg.v1.mk/logo/ASIAZONGHE.png" group-title="AKTV「免梯➋」",ZooMoo
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="AKTV「免梯」",Love Nature HD
+#EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="AKTV「免梯➋」",亞洲新聞台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="AKTV「免梯➋」",東方衛視國際頻道
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻PNG.png" group-title="AKTV「免梯➋」",無線衛星新聞台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1,tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="AKTV「免梯➋」",ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="AKTV「免梯➋」",TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.v1.mk/logo/tvbs.png" group-title="AKTV「免梯➋」",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="AKTV「免梯➋」",TVBS-新聞台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://epg.v1.mk/logo/tvn.png" group-title="AKTV「免梯➋」",tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.v1.mk/logo/中天亚洲台.png" group-title="AKTV「免梯➋」",中天亞洲台
+http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="AKTV「免梯➋」",中天新聞台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="AKTV「免梯➋」",中視
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="AKTV「免梯➋」",千禧經典台(HK)
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="AKTV「免梯➋」",娛樂新聞台(HK)
+http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+#EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台.png" group-title="AKTV「免梯➋」",寰宇新聞台
+http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="AKTV「免梯➋」",日本全天新聞
+http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="AKTV「免梯➋」",華視
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1,tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://epg.v1.mk/logo/靖天电影台.png" group-title="AKTV「免梯➋」",靖天電影台
+http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1,tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://epg.v1.mk/logo/黄金翡翠台.png" group-title="AKTV「免梯➋」",黃金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1,tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://epg.v1.mk/logo/龙华日韩台.png" group-title="AKTV「免梯➋」",龍華日韓台
+http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+#EXTINF:-1,tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.v1.mk/logo/龙华经典.png" group-title="AKTV「免梯➋」",龍華經典台
+http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1,tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://epg.v1.mk/logo/龙华电影台.png" group-title="AKTV「免梯➋」",龍華電影台
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+#EXTINF:-1,tvg-id="axn" tvg-name="axn" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="AKTV「免梯➋」",AXN
+http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+#EXTINF:-1,tvg-id="ASIAZONGHE" tvg-name="ASIAZONGHE" tvg-logo="https://epg.v1.mk/logo/ASIAZONGHE.png" group-title="AKTV「免梯➋」",ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="AKTV「免梯➋」",Love Nature HD
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 
 
@@ -1022,6 +1138,1462 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-chno="215" ch-number="215" tvg-id="DLTV15" tvg-name="DLTV15" group-title="泰国视频「🅐」" tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png",DLTV15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
+
+
+
+#EXTINF:-1 group-title="欧美视频「源」",BR Globo SP HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/21020
+#EXTINF:-1 group-title="欧美视频「源」",CA : APTN
+http://xxx.v2ssr.xyz/4wVQA7/625159/57320
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) Canal D SD (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57479
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) CinePOP SD (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57480
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) Evasion SD (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57482
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) Historia HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/57483
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) ICI Tele Montreal HD (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57484
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) ICI Tele Quebec HD (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57493
+#EXTINF:-1 group-title="欧美视频「源」",CA-FR | ICI VANCOUVER FR
+http://xxx.v2ssr.xyz/4wVQA7/625159/57485
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) LCN (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57968
+#EXTINF:-1 group-title="欧美视频「源」",CA-FR | MOI ET CIE
+http://xxx.v2ssr.xyz/4wVQA7/625159/57487
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) Prise  (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57488
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) RDS2 HD (B)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57490
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) Super Ecran 1 (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/66363
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) Super Ecran 2 SD (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/66364
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) Super Ecran 3 SD (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/66365
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) Super Ecran 4 SD (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/66366
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) SERIES Plus SD (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57492
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) TFO HD (R)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57495
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) TVA Montreal FHD (B)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57497
+#EXTINF:-1 group-title="欧美视频「源」",CA-FR | TVA SPORTS 1
+http://xxx.v2ssr.xyz/4wVQA7/625159/57498
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) NOOVO (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57501
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) Zeste HD  (B)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57502
+#EXTINF:-1 group-title="欧美视频「源」",CA Sportsnet East (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/41836
+#EXTINF:-1 group-title="欧美视频「源」",CA Sportsnet One (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/10247
+#EXTINF:-1 group-title="欧美视频「源」",CA TSN 4 HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/16130
+#EXTINF:-1 group-title="欧美视频「源」",CA YTV East
+http://xxx.v2ssr.xyz/4wVQA7/625159/63850
+#EXTINF:-1 group-title="欧美视频「源」",CA: A&E
+http://xxx.v2ssr.xyz/4wVQA7/625159/57476
+#EXTINF:-1 group-title="欧美视频「源」",CA A&E
+http://xxx.v2ssr.xyz/4wVQA7/625159/57264
+#EXTINF:-1 group-title="欧美视频「源」",CA: ABC SPARK
+http://xxx.v2ssr.xyz/4wVQA7/625159/57375
+#EXTINF:-1 group-title="欧美视频「源」",CA: AMC
+http://xxx.v2ssr.xyz/4wVQA7/625159/57376
+#EXTINF:-1 group-title="欧美视频「源」",CA: Animal Planet
+http://xxx.v2ssr.xyz/4wVQA7/625159/57377
+#EXTINF:-1 group-title="欧美视频「源」",CA: Bravo
+http://xxx.v2ssr.xyz/4wVQA7/625159/57379
+#EXTINF:-1 group-title="欧美视频「源」",CA CBC Calgary HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/57381
+#EXTINF:-1 group-title="欧美视频「源」",CA CHCH (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57393
+#EXTINF:-1 group-title="欧美视频「源」",CA: CHRGD
+http://xxx.v2ssr.xyz/4wVQA7/625159/75653
+#EXTINF:-1 group-title="欧美视频「源」",CA CITY TV CALGARY (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/75652
+#EXTINF:-1 group-title="欧美视频「源」",CA City TV Toronto (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57394
+#EXTINF:-1 group-title="欧美视频「源」",CA: CITY TV TORONTO HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/57307
+#EXTINF:-1 group-title="欧美视频「源」",CA CITY TV VANCOUVER (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57395
+#EXTINF:-1 group-title="欧美视频「源」",CA CMT
+http://xxx.v2ssr.xyz/4wVQA7/625159/57258
+#EXTINF:-1 group-title="欧美视频「源」",CA Cottage Life HD (B)
+http://xxx.v2ssr.xyz/4wVQA7/625159/47217
+#EXTINF:-1 group-title="欧美视频「源」",CA: CRAVE 1 HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/57309
+#EXTINF:-1 group-title="欧美视频「源」",CA: CRAVE 2 HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/57310
+#EXTINF:-1 group-title="欧美视频「源」",CA: CRAVE 3
+http://xxx.v2ssr.xyz/4wVQA7/625159/57322
+#EXTINF:-1 group-title="欧美视频「源」",CA: CRAVE 4 HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/57311
+#EXTINF:-1 group-title="欧美视频「源」",CA: CRIME & INVESTIGATION
+http://xxx.v2ssr.xyz/4wVQA7/625159/57256
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV Two Atlantic
+http://xxx.v2ssr.xyz/4wVQA7/625159/79547
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV CALGARY (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57964
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV Comedy Channel
+http://xxx.v2ssr.xyz/4wVQA7/625159/57408
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV Drama Channel (R)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57254
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV Edmonton Alberta HD (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/58725
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV Halifax Nova Scotia HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/57410
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV 2 London HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/58546
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV Montreal HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/47234
+#EXTINF:-1 group-title="欧美视频「源」",CA: CTV OTTAWA
+http://xxx.v2ssr.xyz/4wVQA7/625159/47237
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV Regina Saskatchewan HD (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/66381
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV Saskatoon Saskatchewan HD (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/66382
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV Sci-Fi Channel (B)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57253
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV Toronto HD (R)
+http://xxx.v2ssr.xyz/4wVQA7/625159/47296
+#EXTINF:-1 group-title="欧美视频「源」",CA: CTV2 Vancouver
+http://xxx.v2ssr.xyz/4wVQA7/625159/57316
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV Barrie Ontario HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/57373
+#EXTINF:-1 group-title="欧美视频「源」",CA Discovery Channel
+http://xxx.v2ssr.xyz/4wVQA7/625159/57252
+#EXTINF:-1 group-title="欧美视频「源」",CA: Discovery Science
+http://xxx.v2ssr.xyz/4wVQA7/625159/57418
+#EXTINF:-1 group-title="欧美视频「源」",CA: Ginx esports TV
+http://xxx.v2ssr.xyz/4wVQA7/625159/57431
+#EXTINF:-1 group-title="欧美视频「源」",CA Global Saskatoon (B)
+http://xxx.v2ssr.xyz/4wVQA7/625159/66383
+#EXTINF:-1 group-title="欧美视频「源」",CA GLOBAL TORONTO
+http://xxx.v2ssr.xyz/4wVQA7/625159/57435
+#EXTINF:-1 group-title="欧美视频「源」",CA: GLOBAL TORONTO
+http://xxx.v2ssr.xyz/4wVQA7/625159/57302
+#EXTINF:-1 group-title="欧美视频「源」",CA: Global Vancouver
+http://xxx.v2ssr.xyz/4wVQA7/625159/57436
+#EXTINF:-1 group-title="欧美视频「源」",CA: HBO 1
+http://xxx.v2ssr.xyz/4wVQA7/625159/57437
+#EXTINF:-1 group-title="欧美视频「源」",CA HBO 2 (R)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57438
+#EXTINF:-1 group-title="欧美视频「源」",CA HGTV
+http://xxx.v2ssr.xyz/4wVQA7/625159/57273
+#EXTINF:-1 group-title="欧美视频「源」",CA HISTORY
+http://xxx.v2ssr.xyz/4wVQA7/625159/47302
+#EXTINF:-1 group-title="欧美视频「源」",CA HISTORY (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57272
+#EXTINF:-1 group-title="欧美视频「源」",CA: HLN
+http://xxx.v2ssr.xyz/4wVQA7/625159/57441
+#EXTINF:-1 group-title="欧美视频「源」",CA Investigation Discovery HD (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57442
+#EXTINF:-1 group-title="欧美视频「源」",CA Lifetime
+http://xxx.v2ssr.xyz/4wVQA7/625159/57271
+#EXTINF:-1 group-title="欧美视频「源」",CA: Lifetime Movie Network
+http://xxx.v2ssr.xyz/4wVQA7/625159/57444
+#EXTINF:-1 group-title="欧美视频「源」",CA Love Nature HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/47324
+#EXTINF:-1 group-title="欧美视频「源」",CA: MAKEFUL
+http://xxx.v2ssr.xyz/4wVQA7/625159/57270
+#EXTINF:-1 group-title="欧美视频「源」",CA: MOVIETIME HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/47331
+#EXTINF:-1 group-title="欧美视频「源」",CA: MTV
+http://xxx.v2ssr.xyz/4wVQA7/625159/57446
+#EXTINF:-1 group-title="欧美视频「源」",CA MTV2 (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57447
+#EXTINF:-1 group-title="欧美视频「源」",CA: MTV HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/57368
+#EXTINF:-1 group-title="欧美视频「源」",CA: National Geographics
+http://xxx.v2ssr.xyz/4wVQA7/625159/57281
+#EXTINF:-1 group-title="欧美视频「源」",CA: National Geographic  HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/47338
+#EXTINF:-1 group-title="欧美视频「源」",CA National Geographic Wild (R)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57450
+#EXTINF:-1 group-title="欧美视频「源」",CA National Geographic Wild
+http://xxx.v2ssr.xyz/4wVQA7/625159/57280
+#EXTINF:-1 group-title="欧美视频「源」",CA: NATIONAL GEOGRAPHIC
+http://xxx.v2ssr.xyz/4wVQA7/625159/47339
+#EXTINF:-1 group-title="欧美视频「源」",CA (ZH) NTD (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/58023
+#EXTINF:-1 group-title="欧美视频「源」",CA NTV St. John`s
+http://xxx.v2ssr.xyz/4wVQA7/625159/57478
+#EXTINF:-1 group-title="欧美视频「源」",CA OLN (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57366
+#EXTINF:-1 group-title="欧美视频「源」",CA: OMNI1 HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/57365
+#EXTINF:-1 group-title="欧美视频「源」",CA: PBS HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/57276
+#EXTINF:-1 group-title="欧美视频「源」",CA Peachtree TV HD (R)
+http://xxx.v2ssr.xyz/4wVQA7/625159/47362
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) RDS (R)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57325
+#EXTINF:-1 group-title="欧美视频「源」",CA: Showcase HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/47366
+#EXTINF:-1 group-title="欧美视频「源」",CA Slice TV
+http://xxx.v2ssr.xyz/4wVQA7/625159/57274
+#EXTINF:-1 group-title="欧美视频「源」",CA Smithsonian Channel (B)
+http://xxx.v2ssr.xyz/4wVQA7/625159/47369
+#EXTINF:-1 group-title="欧美视频「源」",CA Sportsnet 360 HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/2219
+#EXTINF:-1 group-title="欧美视频「源」",CA Sportsnet 360 (HD)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57299
+#EXTINF:-1 group-title="欧美视频「源」",CA Sportsnet East HD (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57298
+#EXTINF:-1 group-title="欧美视频「源」",CA Sportsnet One (FHD)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57297
+#EXTINF:-1 group-title="欧美视频「源」",CA Sportsnet One (HD)
+http://xxx.v2ssr.xyz/4wVQA7/625159/47379
+#EXTINF:-1 group-title="欧美视频「源」",CA: Sportsnet Ontario
+http://xxx.v2ssr.xyz/4wVQA7/625159/57463
+#EXTINF:-1 group-title="欧美视频「源」",CA Sportsnet Ontario HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/57296
+#EXTINF:-1 group-title="欧美视频「源」",CA Sportsnet Ontario (FHD)
+http://xxx.v2ssr.xyz/4wVQA7/625159/11649
+#EXTINF:-1 group-title="欧美视频「源」",CA Sportsnet Pacific (FHD)
+http://xxx.v2ssr.xyz/4wVQA7/625159/9860
+#EXTINF:-1 group-title="欧美视频「源」",CA Sportsnet Pacific HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/47387
+#EXTINF:-1 group-title="欧美视频「源」",CA Sportsnet West (FHD)
+http://xxx.v2ssr.xyz/4wVQA7/625159/20975
+#EXTINF:-1 group-title="欧美视频「源」",CA: SPORTSNET WEST
+http://xxx.v2ssr.xyz/4wVQA7/625159/57300
+#EXTINF:-1 group-title="欧美视频「源」",CA Sportsnet World HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/75675
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV SCI-FI
+http://xxx.v2ssr.xyz/4wVQA7/625159/57464
+#EXTINF:-1 group-title="欧美视频「源」",CA: TFO  (FR)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57291
+#EXTINF:-1 group-title="欧美视频「源」",CA TLC
+http://xxx.v2ssr.xyz/4wVQA7/625159/57290
+#EXTINF:-1 group-title="欧美视频「源」",CA Treehouse (R)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57371
+#EXTINF:-1 group-title="欧美视频「源」",CA TSN 1 (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57292
+#EXTINF:-1 group-title="欧美视频「源」",CA TSN 1 (R)
+http://xxx.v2ssr.xyz/4wVQA7/625159/47440
+#EXTINF:-1 group-title="欧美视频「源」",CA TSN 4
+http://xxx.v2ssr.xyz/4wVQA7/625159/66783
+#EXTINF:-1 group-title="欧美视频「源」",CA TSN 4 (B)
+http://xxx.v2ssr.xyz/4wVQA7/625159/47446
+#EXTINF:-1 group-title="欧美视频「源」",CA TSN 5
+http://xxx.v2ssr.xyz/4wVQA7/625159/57467
+#EXTINF:-1 group-title="欧美视频「源」",CA TSN 5 HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/16131
+#EXTINF:-1 group-title="欧美视频「源」",CA TSN 5
+http://xxx.v2ssr.xyz/4wVQA7/625159/57295
+#EXTINF:-1 group-title="欧美视频「源」",CA: TV Ontario HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/57369
+#EXTINF:-1 group-title="欧美视频「源」",CA: Vision
+http://xxx.v2ssr.xyz/4wVQA7/625159/57468
+#EXTINF:-1 group-title="欧美视频「源」",CA W Network East (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57284
+#EXTINF:-1 group-title="欧美视频「源」",CA: World Fishing Network
+http://xxx.v2ssr.xyz/4wVQA7/625159/57471
+#EXTINF:-1 group-title="欧美视频「源」",CA YES TV (R)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57472
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) TVA Sports 2
+http://xxx.v2ssr.xyz/4wVQA7/625159/57337
+#EXTINF:-1 group-title="欧美视频「源」",Carib Flow Sports (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/79544
+#EXTINF:-1 group-title="欧美视频「源」",CBN-TV BVI
+http://xxx.v2ssr.xyz/4wVQA7/625159/57967
+#EXTINF:-1 group-title="欧美视频「源」",CO: TELEMEDELLIN
+http://xxx.v2ssr.xyz/4wVQA7/625159/78722
+#EXTINF:-1 group-title="欧美视频「源」",CO: CANAL UNO
+http://xxx.v2ssr.xyz/4wVQA7/625159/78698
+#EXTINF:-1 group-title="欧美视频「源」",CO: CARACOL INTERNACIONAL HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/78701
+#EXTINF:-1 group-title="欧美视频「源」",CO: CARCOL HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/78700
+#EXTINF:-1 group-title="欧美视频「源」",CO: RCN FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/78694
+#EXTINF:-1 group-title="欧美视频「源」",COL: WIN SPORTS PLUS HD (EXCLUSIVO)
+http://xxx.v2ssr.xyz/4wVQA7/625159/78697
+#EXTINF:-1 group-title="欧美视频「源」",CO: RCN NOVELAS
+http://xxx.v2ssr.xyz/4wVQA7/625159/78716
+#EXTINF:-1 group-title="欧美视频「源」",CO: SENAL COLOMBIA
+http://xxx.v2ssr.xyz/4wVQA7/625159/78711
+#EXTINF:-1 group-title="欧美视频「源」",CO: TELECAFE
+http://xxx.v2ssr.xyz/4wVQA7/625159/78726
+#EXTINF:-1 group-title="欧美视频「源」",CO: TELEANTIOQUIA HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/78706
+#EXTINF:-1 group-title="欧美视频「源」",CO Telepacifico  (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/78729
+#EXTINF:-1 group-title="欧美视频「源」",CO: Win Sports + FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/78717
+#EXTINF:-1 group-title="欧美视频「源」",Coffee House
+http://xxx.v2ssr.xyz/4wVQA7/625159/17854
+#EXTINF:-1 group-title="欧美视频「源」",Erotica Lounge
+http://xxx.v2ssr.xyz/4wVQA7/625159/17828
+#EXTINF:-1 group-title="欧美视频「源」",24/7 FAMILY GUY
+http://xxx.v2ssr.xyz/4wVQA7/625159/66317
+#EXTINF:-1 group-title="欧美视频「源」",US FOX Sports 1
+http://xxx.v2ssr.xyz/4wVQA7/625159/46792
+#EXTINF:-1 group-title="欧美视频「源」",US Bally Sports Florida (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/46794
+#EXTINF:-1 group-title="欧美视频「源」",24/7 KEEPING UP WITH THE KARDASHIANS
+http://xxx.v2ssr.xyz/4wVQA7/625159/66403
+#EXTINF:-1 group-title="欧美视频「源」",24/7 FRESH PRINCE OF BEL-AIR
+http://xxx.v2ssr.xyz/4wVQA7/625159/79559
+#EXTINF:-1 group-title="欧美视频「源」",24/7 THE FIRST 48HRS
+http://xxx.v2ssr.xyz/4wVQA7/625159/66393
+#EXTINF:-1 group-title="欧美视频「源」",ICI Premiere Montreal Quebec
+http://xxx.v2ssr.xyz/4wVQA7/625159/16251
+#EXTINF:-1 group-title="欧美视频「源」",24/7 RIDICULOUSNESS
+http://xxx.v2ssr.xyz/4wVQA7/625159/66397
+#EXTINF:-1 group-title="欧美视频「源」",MLB Network
+http://xxx.v2ssr.xyz/4wVQA7/625159/21360
+#EXTINF:-1 group-title="欧美视频「源」",MLB Strike Zone
+http://xxx.v2ssr.xyz/4wVQA7/625159/65699
+#EXTINF:-1 group-title="欧美视频「源」",US Latin Discovery (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/57645
+#EXTINF:-1 group-title="欧美视频「源」",MX: Multimedios
+http://xxx.v2ssr.xyz/4wVQA7/625159/57646
+#EXTINF:-1 group-title="欧美视频「源」",MX Multimedios HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/57711
+#EXTINF:-1 group-title="欧美视频「源」",The KING OF QUEENS
+http://xxx.v2ssr.xyz/4wVQA7/625159/79567
+#EXTINF:-1 group-title="欧美视频「源」",UK: SKY CINEMA ACTION FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/35254
+#EXTINF:-1 group-title="欧美视频「源」",UK MOVIES: SKY CINEMA DRAMA
+http://xxx.v2ssr.xyz/4wVQA7/625159/35251
+#EXTINF:-1 group-title="欧美视频「源」",UK Sky Cinema Scifi & Horror FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/35248
+#EXTINF:-1 group-title="欧美视频「源」",UK MOVIES: SKY COMEDY
+http://xxx.v2ssr.xyz/4wVQA7/625159/35253
+#EXTINF:-1 group-title="欧美视频「源」",UK MOVIES: SKY CRIME THRILLER
+http://xxx.v2ssr.xyz/4wVQA7/625159/35252
+#EXTINF:-1 group-title="欧美视频「源」",UK MOVIES: SKY GREATS
+http://xxx.v2ssr.xyz/4wVQA7/625159/35249
+#EXTINF:-1 group-title="欧美视频「源」",UK-Alibi
+http://xxx.v2ssr.xyz/4wVQA7/625159/59030
+#EXTINF:-1 group-title="欧美视频「源」",UK-Blaze
+http://xxx.v2ssr.xyz/4wVQA7/625159/53754
+#EXTINF:-1 group-title="欧美视频「源」",UK-Comedy Central
+http://xxx.v2ssr.xyz/4wVQA7/625159/53660
+#EXTINF:-1 group-title="欧美视频「源」",UK Crime & Investigation FHD (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/53689
+#EXTINF:-1 group-title="欧美视频「源」",UK-Discovery Channel
+http://xxx.v2ssr.xyz/4wVQA7/625159/53684
+#EXTINF:-1 group-title="欧美视频「源」",UK-Discovery History
+http://xxx.v2ssr.xyz/4wVQA7/625159/53694
+#EXTINF:-1 group-title="欧美视频「源」",UK EuroSport 1 UK (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/53713
+#EXTINF:-1 group-title="欧美视频「源」",UK-Film 4
+http://xxx.v2ssr.xyz/4wVQA7/625159/53702
+#EXTINF:-1 group-title="欧美视频「源」",UK History  Channel
+http://xxx.v2ssr.xyz/4wVQA7/625159/53686
+#EXTINF:-1 group-title="欧美视频「源」",UK-Investigation Discovery
+http://xxx.v2ssr.xyz/4wVQA7/625159/53687
+#EXTINF:-1 group-title="欧美视频「源」",UK-ITV
+http://xxx.v2ssr.xyz/4wVQA7/625159/53651
+#EXTINF:-1 group-title="欧美视频「源」",UK-ITV 3
+http://xxx.v2ssr.xyz/4wVQA7/625159/53665
+#EXTINF:-1 group-title="欧美视频「源」",UK-ITV 4
+http://xxx.v2ssr.xyz/4wVQA7/625159/53666
+#EXTINF:-1 group-title="欧美视频「源」",UK ITV2 HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/53671
+#EXTINF:-1 group-title="欧美视频「源」",UK-TLC
+http://xxx.v2ssr.xyz/4wVQA7/625159/53681
+#EXTINF:-1 group-title="欧美视频「源」",UK Sky Sports F1 FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/35244
+#EXTINF:-1 group-title="欧美视频「源」",UK: SKY SP RACING FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/76842
+#EXTINF:-1 group-title="欧美视频「源」",US SONY Movies FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/2214
+#EXTINF:-1 group-title="欧美视频「源」",US Bally Sports Southeast
+http://xxx.v2ssr.xyz/4wVQA7/625159/81111
+#EXTINF:-1 group-title="欧美视频「源」",US CHARGE!
+http://xxx.v2ssr.xyz/4wVQA7/625159/79594
+#EXTINF:-1 group-title="欧美视频「源」",US Lifetime Movies
+http://xxx.v2ssr.xyz/4wVQA7/625159/20863
+#EXTINF:-1 group-title="欧美视频「源」",US NBC Sports Network (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/46725
+#EXTINF:-1 group-title="欧美视频「源」",US STARZ ENCORE Black
+http://xxx.v2ssr.xyz/4wVQA7/625159/16141
+#EXTINF:-1 group-title="欧美视频「源」",LAT: TELEMUNDO 51 MIAMI HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/56410
+#EXTINF:-1 group-title="欧美视频「源」",US: WWE NETWORK
+http://xxx.v2ssr.xyz/4wVQA7/625159/11645
+#EXTINF:-1 group-title="欧美视频「源」",PT Eleven Sports 1 FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/35264
+#EXTINF:-1 group-title="欧美视频「源」",US Bally Sports North (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/58827
+#EXTINF:-1 group-title="欧美视频「源」",US Bally Sports Detroit
+http://xxx.v2ssr.xyz/4wVQA7/625159/20936
+#EXTINF:-1 group-title="欧美视频「源」",US Bally Sports Ohio (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/17752
+#EXTINF:-1 group-title="欧美视频「源」",US MASN (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/65697
+#EXTINF:-1 group-title="欧美视频「源」",US MASN2
+http://xxx.v2ssr.xyz/4wVQA7/625159/65698
+#EXTINF:-1 group-title="欧美视频「源」",US MSG2 (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/21089
+#EXTINF:-1 group-title="欧美视频「源」",US NBC Sports Bay Area (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/9900
+#EXTINF:-1 group-title="欧美视频「源」",US NBC Sports Boston (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/20939
+#EXTINF:-1 group-title="欧美视频「源」",US NBC Sports California (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/20940
+#EXTINF:-1 group-title="欧美视频「源」",US NBC Sports Chicago
+http://xxx.v2ssr.xyz/4wVQA7/625159/20941
+#EXTINF:-1 group-title="欧美视频「源」",US NBC Sports Network (FHD)
+http://xxx.v2ssr.xyz/4wVQA7/625159/20926
+#EXTINF:-1 group-title="欧美视频「源」",US NBC Sports Philly (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/20943
+#EXTINF:-1 group-title="欧美视频「源」",US NBC Sports Washington (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/20944
+#EXTINF:-1 group-title="欧美视频「源」",US NESN (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/31637
+#EXTINF:-1 group-title="欧美视频「源」",US ESPN SEC Network
+http://xxx.v2ssr.xyz/4wVQA7/625159/17608
+#EXTINF:-1 group-title="欧美视频「源」",US Spectrum SportsNet LA Dodgers (HD)
+http://xxx.v2ssr.xyz/4wVQA7/625159/31636
+#EXTINF:-1 group-title="欧美视频「源」",US Spectrum SportsNet Lakers (FHD)
+http://xxx.v2ssr.xyz/4wVQA7/625159/21842
+#EXTINF:-1 group-title="欧美视频「源」",US YES Network
+http://xxx.v2ssr.xyz/4wVQA7/625159/57972
+#EXTINF:-1 group-title="欧美视频「源」",USA:  Showtime NEXT
+http://xxx.v2ssr.xyz/4wVQA7/625159/9316
+#EXTINF:-1 group-title="欧美视频「源」",USA:  STARZ EDGE
+http://xxx.v2ssr.xyz/4wVQA7/625159/16143
+#EXTINF:-1 group-title="欧美视频「源」",US UniMas
+http://xxx.v2ssr.xyz/4wVQA7/625159/57969
+#EXTINF:-1 group-title="欧美视频「源」",US Univision (East) (SP)
+http://xxx.v2ssr.xyz/4wVQA7/625159/15336
+#EXTINF:-1 group-title="欧美视频「源」",US 5 StarMax
+http://xxx.v2ssr.xyz/4wVQA7/625159/13381
+#EXTINF:-1 group-title="欧美视频「源」",USA: A&E
+http://xxx.v2ssr.xyz/4wVQA7/625159/59056
+#EXTINF:-1 group-title="欧美视频「源」",US A&E (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/2201
+#EXTINF:-1 group-title="欧美视频「源」",US ActionMAX (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/21013
+#EXTINF:-1 group-title="欧美视频「源」",CA Adult Swim (R)
+http://xxx.v2ssr.xyz/4wVQA7/625159/11644
+#EXTINF:-1 group-title="欧美视频「源」",US Altitude Sports HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/79545
+#EXTINF:-1 group-title="欧美视频「源」",US AMC
+http://xxx.v2ssr.xyz/4wVQA7/625159/18925
+#EXTINF:-1 group-title="欧美视频「源」",US American Heroes Channel
+http://xxx.v2ssr.xyz/4wVQA7/625159/10456
+#EXTINF:-1 group-title="欧美视频「源」",US Animal Planet
+http://xxx.v2ssr.xyz/4wVQA7/625159/17870
+#EXTINF:-1 group-title="欧美视频「源」",US Antenna TV
+http://xxx.v2ssr.xyz/4wVQA7/625159/20180
+#EXTINF:-1 group-title="欧美视频「源」",US Aspire (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/21927
+#EXTINF:-1 group-title="欧美视频「源」",US AXS TV
+http://xxx.v2ssr.xyz/4wVQA7/625159/48324
+#EXTINF:-1 group-title="欧美视频「源」",US Bounce XL
+http://xxx.v2ssr.xyz/4wVQA7/625159/48323
+#EXTINF:-1 group-title="欧美视频「源」",US Bravo (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/20859
+#EXTINF:-1 group-title="欧美视频「源」",US BUZZR (STV)
+http://xxx.v2ssr.xyz/4wVQA7/625159/21896
+#EXTINF:-1 group-title="欧美视频「源」",US CBS Sports Network HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/10454
+#EXTINF:-1 group-title="欧美视频「源」",USA: CMT
+http://xxx.v2ssr.xyz/4wVQA7/625159/46706
+#EXTINF:-1 group-title="欧美视频「源」",USA: CMT HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/10476
+#EXTINF:-1 group-title="欧美视频「源」",US Comedy Central (East) (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/7466
+#EXTINF:-1 group-title="欧美视频「源」",US Comet (S)
+http://xxx.v2ssr.xyz/4wVQA7/625159/66244
+#EXTINF:-1 group-title="欧美视频「源」",US Cozi (H)
+http://xxx.v2ssr.xyz/4wVQA7/625159/11868
+#EXTINF:-1 group-title="欧美视频「源」",US Decades
+http://xxx.v2ssr.xyz/4wVQA7/625159/20189
+#EXTINF:-1 group-title="欧美视频「源」",US Destination America (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/14222
+#EXTINF:-1 group-title="欧美视频「源」",US Discovery Channel (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/46720
+#EXTINF:-1 group-title="欧美视频「源」",US Discovery Channel East
+http://xxx.v2ssr.xyz/4wVQA7/625159/9811
+#EXTINF:-1 group-title="欧美视频「源」",USA: DISCOVERY FAMILY
+http://xxx.v2ssr.xyz/4wVQA7/625159/10538
+#EXTINF:-1 group-title="欧美视频「源」",USA: Discovery Life HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/9861
+#EXTINF:-1 group-title="欧美视频「源」",CA Discovery Velocity HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/46212
+#EXTINF:-1 group-title="欧美视频「源」",US DIY Network
+http://xxx.v2ssr.xyz/4wVQA7/625159/10503
+#EXTINF:-1 group-title="欧美视频「源」",US E! Entertainment Television East
+http://xxx.v2ssr.xyz/4wVQA7/625159/11651
+#EXTINF:-1 group-title="欧美视频「源」",US EPIX (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/13214
+#EXTINF:-1 group-title="欧美视频「源」",US Epix Drive IN (S)
+http://xxx.v2ssr.xyz/4wVQA7/625159/14193
+#EXTINF:-1 group-title="欧美视频「源」",USA: Epix Hits
+http://xxx.v2ssr.xyz/4wVQA7/625159/12744
+#EXTINF:-1 group-title="欧美视频「源」",US EPIX2 (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/12730
+#EXTINF:-1 group-title="欧美视频「源」",US Fox Sports 1
+http://xxx.v2ssr.xyz/4wVQA7/625159/1846
+#EXTINF:-1 group-title="欧美视频「源」",US Fox Sports 2 (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/1847
+#EXTINF:-1 group-title="欧美视频「源」",US Bally Sports North (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/20928
+#EXTINF:-1 group-title="欧美视频「源」",US Bally Sports Carolinas (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/20929
+#EXTINF:-1 group-title="欧美视频「源」",US Bally Sports South
+http://xxx.v2ssr.xyz/4wVQA7/625159/20931
+#EXTINF:-1 group-title="欧美视频「源」",US Bally Sports South (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/20922
+#EXTINF:-1 group-title="欧美视频「源」",US Freeform East
+http://xxx.v2ssr.xyz/4wVQA7/625159/13370
+#EXTINF:-1 group-title="欧美视频「源」",US Fuse
+http://xxx.v2ssr.xyz/4wVQA7/625159/46701
+#EXTINF:-1 group-title="欧美视频「源」",US FX East
+http://xxx.v2ssr.xyz/4wVQA7/625159/46690
+#EXTINF:-1 group-title="欧美视频「源」",US FXM
+http://xxx.v2ssr.xyz/4wVQA7/625159/10260
+#EXTINF:-1 group-title="欧美视频「源」",US FXX (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/46699
+#EXTINF:-1 group-title="欧美视频「源」",US FYI
+http://xxx.v2ssr.xyz/4wVQA7/625159/9240
+#EXTINF:-1 group-title="欧美视频「源」",US Latin Galavision
+http://xxx.v2ssr.xyz/4wVQA7/625159/58770
+#EXTINF:-1 group-title="欧美视频「源」",US GetTV
+http://xxx.v2ssr.xyz/4wVQA7/625159/18366
+#EXTINF:-1 group-title="欧美视频「源」",US Great American Country
+http://xxx.v2ssr.xyz/4wVQA7/625159/17640
+#EXTINF:-1 group-title="欧美视频「源」",US Grit TV
+http://xxx.v2ssr.xyz/4wVQA7/625159/20861
+#EXTINF:-1 group-title="欧美视频「源」",US Hallmark Channel
+http://xxx.v2ssr.xyz/4wVQA7/625159/46719
+#EXTINF:-1 group-title="欧美视频「源」",US Hallmark Drama
+http://xxx.v2ssr.xyz/4wVQA7/625159/9307
+#EXTINF:-1 group-title="欧美视频「源」",US Hallmark Movies & Mysteries
+http://xxx.v2ssr.xyz/4wVQA7/625159/10289
+#EXTINF:-1 group-title="欧美视频「源」",US HBO East HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/46713
+#EXTINF:-1 group-title="欧美视频「源」",US HBO
+http://xxx.v2ssr.xyz/4wVQA7/625159/9264
+#EXTINF:-1 group-title="欧美视频「源」",US HBO 2 (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/9816
+#EXTINF:-1 group-title="欧美视频「源」",US HBO Comedy (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/17773
+#EXTINF:-1 group-title="欧美视频「源」",US HBO Family (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/17772
+#EXTINF:-1 group-title="欧美视频「源」",US HBO SIGNATURE (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/9266
+#EXTINF:-1 group-title="欧美视频「源」",US HBO Zone (East) (H)
+http://xxx.v2ssr.xyz/4wVQA7/625159/9265
+#EXTINF:-1 group-title="欧美视频「源」",US HDNET MOVIES
+http://xxx.v2ssr.xyz/4wVQA7/625159/16265
+#EXTINF:-1 group-title="欧美视频「源」",US Heroes & Icons (Los Angeles)
+http://xxx.v2ssr.xyz/4wVQA7/625159/66087
+#EXTINF:-1 group-title="欧美视频「源」",US HGTV (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/46717
+#EXTINF:-1 group-title="欧美视频「源」",US HISTORY
+http://xxx.v2ssr.xyz/4wVQA7/625159/46724
+#EXTINF:-1 group-title="欧美视频「源」",US History Channel
+http://xxx.v2ssr.xyz/4wVQA7/625159/15017
+#EXTINF:-1 group-title="欧美视频「源」",US HLN
+http://xxx.v2ssr.xyz/4wVQA7/625159/17748
+#EXTINF:-1 group-title="欧美视频「源」",US IFC
+http://xxx.v2ssr.xyz/4wVQA7/625159/9272
+#EXTINF:-1 group-title="欧美视频「源」",US insp
+http://xxx.v2ssr.xyz/4wVQA7/625159/16262
+#EXTINF:-1 group-title="欧美视频「源」",US ID Investigation Discovery
+http://xxx.v2ssr.xyz/4wVQA7/625159/46810
+#EXTINF:-1 group-title="欧美视频「源」",US ION
+http://xxx.v2ssr.xyz/4wVQA7/625159/9297
+#EXTINF:-1 group-title="欧美视频「源」",US Laff (KNVA)
+http://xxx.v2ssr.xyz/4wVQA7/625159/17777
+#EXTINF:-1 group-title="欧美视频「源」",US Lifetime
+http://xxx.v2ssr.xyz/4wVQA7/625159/46714
+#EXTINF:-1 group-title="欧美视频「源」",US Lifetime
+http://xxx.v2ssr.xyz/4wVQA7/625159/9275
+#EXTINF:-1 group-title="欧美视频「源」",US Lifetime Movie
+http://xxx.v2ssr.xyz/4wVQA7/625159/2208
+#EXTINF:-1 group-title="欧美视频「源」",USA: LOGO TV
+http://xxx.v2ssr.xyz/4wVQA7/625159/20862
+#EXTINF:-1 group-title="欧美视频「源」",US Marquee Sports Network (HD) (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/13379
+#EXTINF:-1 group-title="欧美视频「源」",US MAV TV (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/20977
+#EXTINF:-1 group-title="欧美视频「源」",US MeTV Network East
+http://xxx.v2ssr.xyz/4wVQA7/625159/16149
+#EXTINF:-1 group-title="欧美视频「源」",US More Max
+http://xxx.v2ssr.xyz/4wVQA7/625159/17776
+#EXTINF:-1 group-title="欧美视频「源」",US MotorTrend (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/10399
+#EXTINF:-1 group-title="欧美视频「源」",US MovieMAX (East) (H)
+http://xxx.v2ssr.xyz/4wVQA7/625159/13480
+#EXTINF:-1 group-title="欧美视频「源」",US MoviePlex (East) (H)
+http://xxx.v2ssr.xyz/4wVQA7/625159/1829
+#EXTINF:-1 group-title="欧美视频「源」",US MSG Plus
+http://xxx.v2ssr.xyz/4wVQA7/625159/9276
+#EXTINF:-1 group-title="欧美视频「源」",US MSG (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/21090
+#EXTINF:-1 group-title="欧美视频「源」",US Nat Geo Wild East (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/11664
+#EXTINF:-1 group-title="欧美视频「源」",US National Geographic
+http://xxx.v2ssr.xyz/4wVQA7/625159/46722
+#EXTINF:-1 group-title="欧美视频「源」",US National Geographic (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/9277
+#EXTINF:-1 group-title="欧美视频「源」",US Cinemax Outermax (X)
+http://xxx.v2ssr.xyz/4wVQA7/625159/21012
+#EXTINF:-1 group-title="欧美视频「源」",USA: OUTSIDE TV
+http://xxx.v2ssr.xyz/4wVQA7/625159/20865
+#EXTINF:-1 group-title="欧美视频「源」",USA: OWN
+http://xxx.v2ssr.xyz/4wVQA7/625159/46698
+#EXTINF:-1 group-title="欧美视频「源」",US Oxygen (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/46695
+#EXTINF:-1 group-title="欧美视频「源」",US Oxygen (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/9245
+#EXTINF:-1 group-title="欧美视频「源」",US Paramount Network
+http://xxx.v2ssr.xyz/4wVQA7/625159/16201
+#EXTINF:-1 group-title="欧美视频「源」",US Paramount Network
+http://xxx.v2ssr.xyz/4wVQA7/625159/46694
+#EXTINF:-1 group-title="欧美视频「源」",US Paramount TV
+http://xxx.v2ssr.xyz/4wVQA7/625159/10464
+#EXTINF:-1 group-title="欧美视频「源」",US PixL (S)
+http://xxx.v2ssr.xyz/4wVQA7/625159/21648
+#EXTINF:-1 group-title="欧美视频「源」",US Pursuit UP
+http://xxx.v2ssr.xyz/4wVQA7/625159/22888
+#EXTINF:-1 group-title="欧美视频「源」",US Reelz
+http://xxx.v2ssr.xyz/4wVQA7/625159/10526
+#EXTINF:-1 group-title="欧美视频「源」",US RetroPlex (East) (H)
+http://xxx.v2ssr.xyz/4wVQA7/625159/66379
+#EXTINF:-1 group-title="欧美视频「源」",US Revolt
+http://xxx.v2ssr.xyz/4wVQA7/625159/39276
+#EXTINF:-1 group-title="欧美视频「源」",US RFD-TV
+http://xxx.v2ssr.xyz/4wVQA7/625159/17868
+#EXTINF:-1 group-title="欧美视频「源」",US GAC Living (S)
+http://xxx.v2ssr.xyz/4wVQA7/625159/75654
+#EXTINF:-1 group-title="欧美视频「源」",USA: AMC Thrillers
+http://xxx.v2ssr.xyz/4wVQA7/625159/66243
+#EXTINF:-1 group-title="欧美视频「源」",US Discovery Science
+http://xxx.v2ssr.xyz/4wVQA7/625159/20866
+#EXTINF:-1 group-title="欧美视频「源」",US Showtime East
+http://xxx.v2ssr.xyz/4wVQA7/625159/46214
+#EXTINF:-1 group-title="欧美视频「源」",US Showtime 2 (East) (H)
+http://xxx.v2ssr.xyz/4wVQA7/625159/13219
+#EXTINF:-1 group-title="欧美视频「源」",US Showtime Extreme (East) (SP)
+http://xxx.v2ssr.xyz/4wVQA7/625159/13220
+#EXTINF:-1 group-title="欧美视频「源」",US Showtime Family Zone (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/13481
+#EXTINF:-1 group-title="欧美视频「源」",US Showtime Women (East) (H)
+http://xxx.v2ssr.xyz/4wVQA7/625159/17778
+#EXTINF:-1 group-title="欧美视频「源」",US Smithsonian Channel (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/31150
+#EXTINF:-1 group-title="欧美视频「源」",US Sportsnet New York (SNY) (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/20938
+#EXTINF:-1 group-title="欧美视频「源」",US Sportsman Channel (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/79913
+#EXTINF:-1 group-title="欧美视频「源」",US Starz Cinema (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/17775
+#EXTINF:-1 group-title="欧美视频「源」",US Starz Cinema (East) (H)
+http://xxx.v2ssr.xyz/4wVQA7/625159/9301
+#EXTINF:-1 group-title="欧美视频「源」",US Starz East (S)
+http://xxx.v2ssr.xyz/4wVQA7/625159/9299
+#EXTINF:-1 group-title="欧美视频「源」",US Starz Encore Westerns (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/16263
+#EXTINF:-1 group-title="欧美视频「源」",US Starz in Black (East) (H)
+http://xxx.v2ssr.xyz/4wVQA7/625159/17779
+#EXTINF:-1 group-title="欧美视频「源」",US Starz West (S)
+http://xxx.v2ssr.xyz/4wVQA7/625159/21091
+#EXTINF:-1 group-title="欧美视频「源」",US SUNDANCE
+http://xxx.v2ssr.xyz/4wVQA7/625159/46712
+#EXTINF:-1 group-title="欧美视频「源」",US Syfy (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/46685
+#EXTINF:-1 group-title="欧美视频「源」",US ThrillerMax (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/17774
+#EXTINF:-1 group-title="欧美视频「源」",US TLC (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/46691
+#EXTINF:-1 group-title="欧美视频「源」",US TLC East
+http://xxx.v2ssr.xyz/4wVQA7/625159/12734
+#EXTINF:-1 group-title="欧美视频「源」",US TLC (east)
+http://xxx.v2ssr.xyz/4wVQA7/625159/47703
+#EXTINF:-1 group-title="欧美视频「源」",US TNT (West)
+http://xxx.v2ssr.xyz/4wVQA7/625159/46688
+#EXTINF:-1 group-title="欧美视频「源」",US TNT East
+http://xxx.v2ssr.xyz/4wVQA7/625159/10455
+#EXTINF:-1 group-title="欧美视频「源」",US Travel Channel East
+http://xxx.v2ssr.xyz/4wVQA7/625159/9315
+#EXTINF:-1 group-title="欧美视频「源」",US TRUTV East
+http://xxx.v2ssr.xyz/4wVQA7/625159/10224
+#EXTINF:-1 group-title="欧美视频「源」",US Latin TUDN (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/11885
+#EXTINF:-1 group-title="欧美视频「源」",CA Turner Classic Movies
+http://xxx.v2ssr.xyz/4wVQA7/625159/66242
+#EXTINF:-1 group-title="欧美视频「源」",US TV Land
+http://xxx.v2ssr.xyz/4wVQA7/625159/46696
+#EXTINF:-1 group-title="欧美视频「源」",USA: TV Land Classic HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/9271
+#EXTINF:-1 group-title="欧美视频「源」",US TV One
+http://xxx.v2ssr.xyz/4wVQA7/625159/20868
+#EXTINF:-1 group-title="欧美视频「源」",US TVG Network
+http://xxx.v2ssr.xyz/4wVQA7/625159/10259
+#EXTINF:-1 group-title="欧美视频「源」",US TVG2 Network
+http://xxx.v2ssr.xyz/4wVQA7/625159/18940
+#EXTINF:-1 group-title="欧美视频「源」",US Univision (East) (SP)
+http://xxx.v2ssr.xyz/4wVQA7/625159/46692
+#EXTINF:-1 group-title="欧美视频「源」",US Up TV (SP)
+http://xxx.v2ssr.xyz/4wVQA7/625159/10525
+#EXTINF:-1 group-title="欧美视频「源」",US USA Network (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/10252
+#EXTINF:-1 group-title="欧美视频「源」",US VH1 (East)
+http://xxx.v2ssr.xyz/4wVQA7/625159/46705
+#EXTINF:-1 group-title="欧美视频「源」",US VH1
+http://xxx.v2ssr.xyz/4wVQA7/625159/7404
+#EXTINF:-1 group-title="欧美视频「源」",US VICELAND
+http://xxx.v2ssr.xyz/4wVQA7/625159/46697
+#EXTINF:-1 group-title="欧美视频「源」",US VSiN (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/18941
+#EXTINF:-1 group-title="欧美视频「源」",US WAPA America
+http://xxx.v2ssr.xyz/4wVQA7/625159/76481
+#EXTINF:-1 group-title="欧美视频「源」",US WE tv
+http://xxx.v2ssr.xyz/4wVQA7/625159/9237
+#EXTINF:-1 group-title="欧美视频「源」",US World Fishing Network (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/10477
+#EXTINF:-1 group-title="欧美视频「源」",Carib Aruba.TV (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/99574
+#EXTINF:-1 group-title="欧美视频「源」",Star TV Gold
+http://xxx.v2ssr.xyz/4wVQA7/625159/99622
+#EXTINF:-1 group-title="欧美视频「源」",CA Global Durham (CHEX-DT-2) (R)
+http://xxx.v2ssr.xyz/4wVQA7/625159/100453
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV Sudbury Ontario HD (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/100454
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV Timmins Ontario HD (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/100455
+#EXTINF:-1 group-title="欧美视频「源」",CA WILD TV
+http://xxx.v2ssr.xyz/4wVQA7/625159/100456
+#EXTINF:-1 group-title="欧美视频「源」",CA (Carib) FEVA (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/100457
+#EXTINF:-1 group-title="欧美视频「源」",CA Super Channel Heart & Home (R)
+http://xxx.v2ssr.xyz/4wVQA7/625159/100460
+#EXTINF:-1 group-title="欧美视频「源」",CA: CBC Winnipeg
+http://xxx.v2ssr.xyz/4wVQA7/625159/100628
+#EXTINF:-1 group-title="欧美视频「源」",CA Global News Winnipeg (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/100629
+#EXTINF:-1 group-title="欧美视频「源」",CA CITY TV WINNIPEG (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/100631
+#EXTINF:-1 group-title="欧美视频「源」",PH TFC (X)
+http://xxx.v2ssr.xyz/4wVQA7/625159/101823
+#EXTINF:-1 group-title="欧美视频「源」",PH SARI SARI (C)
+http://xxx.v2ssr.xyz/4wVQA7/625159/101824
+#EXTINF:-1 group-title="欧美视频「源」",PH GMA Life TV (X)
+http://xxx.v2ssr.xyz/4wVQA7/625159/101825
+#EXTINF:-1 group-title="欧美视频「源」",PH GMA Pinoy TV (X)
+http://xxx.v2ssr.xyz/4wVQA7/625159/101826
+#EXTINF:-1 group-title="欧美视频「源」",US GAC Family
+http://xxx.v2ssr.xyz/4wVQA7/625159/104877
+#EXTINF:-1 group-title="欧美视频「源」",US Bally Sports Sun
+http://xxx.v2ssr.xyz/4wVQA7/625159/104917
+#EXTINF:-1 group-title="欧美视频「源」",CA Silver Screen (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/107190
+#EXTINF:-1 group-title="欧美视频「源」",CA: Travel Escape
+http://xxx.v2ssr.xyz/4wVQA7/625159/108136
+#EXTINF:-1 group-title="欧美视频「源」",US AT&T SportsNet Pittsburgh
+http://xxx.v2ssr.xyz/4wVQA7/625159/108178
+#EXTINF:-1 group-title="欧美视频「源」",US Latin Univision
+http://xxx.v2ssr.xyz/4wVQA7/625159/108248
+#EXTINF:-1 group-title="欧美视频「源」",Carib Justice_Central
+http://xxx.v2ssr.xyz/4wVQA7/625159/108547
+#EXTINF:-1 group-title="欧美视频「源」",PE: PANAMERICANA HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/110633
+#EXTINF:-1 group-title="欧美视频「源」",PE: PERU MAGICO FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/110634
+#EXTINF:-1 group-title="欧美视频「源」",PE: AMERICA TV
+http://xxx.v2ssr.xyz/4wVQA7/625159/110637
+#EXTINF:-1 group-title="欧美视频「源」",PE: ATV
+http://xxx.v2ssr.xyz/4wVQA7/625159/110638
+#EXTINF:-1 group-title="欧美视频「源」",PE: LATINA HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/110640
+#EXTINF:-1 group-title="欧美视频「源」",PR: WIPR (PR)
+http://xxx.v2ssr.xyz/4wVQA7/625159/110642
+#EXTINF:-1 group-title="欧美视频「源」",PE: EXITOSA
+http://xxx.v2ssr.xyz/4wVQA7/625159/110643
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV LIFE (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/116506
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) Canal Vie HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/116947
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) CASA SD (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/116948
+#EXTINF:-1 group-title="欧美视频「源」",US: QVC
+http://xxx.v2ssr.xyz/4wVQA7/625159/117707
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: BLOCKBUSTERS
+http://xxx.v2ssr.xyz/4wVQA7/625159/119421
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: CLASSIC
+http://xxx.v2ssr.xyz/4wVQA7/625159/119422
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: COMEDY
+http://xxx.v2ssr.xyz/4wVQA7/625159/119423
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: CULT
+http://xxx.v2ssr.xyz/4wVQA7/625159/119424
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: FAMILY
+http://xxx.v2ssr.xyz/4wVQA7/625159/119425
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: GREATS
+http://xxx.v2ssr.xyz/4wVQA7/625159/119426
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: GREATS TWO
+http://xxx.v2ssr.xyz/4wVQA7/625159/119427
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: HISTORICAL
+http://xxx.v2ssr.xyz/4wVQA7/625159/119428
+#EXTINF:-1 group-title="欧美视频「源」",24/7 Horror Movies
+http://xxx.v2ssr.xyz/4wVQA7/625159/119429
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: MUSICAL
+http://xxx.v2ssr.xyz/4wVQA7/625159/119430
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: MYSTERY
+http://xxx.v2ssr.xyz/4wVQA7/625159/119431
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: PREMIERE
+http://xxx.v2ssr.xyz/4wVQA7/625159/119432
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: ROMANCE
+http://xxx.v2ssr.xyz/4wVQA7/625159/119433
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: SCI-FI
+http://xxx.v2ssr.xyz/4wVQA7/625159/119434
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: WESTERN
+http://xxx.v2ssr.xyz/4wVQA7/625159/119435
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: HITS
+http://xxx.v2ssr.xyz/4wVQA7/625159/119436
+#EXTINF:-1 group-title="欧美视频「源」",CINEBOX: THRILLER
+http://xxx.v2ssr.xyz/4wVQA7/625159/119437
+#EXTINF:-1 group-title="欧美视频「源」",DOCUBOX: ALL DOCUMENTERY
+http://xxx.v2ssr.xyz/4wVQA7/625159/119439
+#EXTINF:-1 group-title="欧美视频「源」",DOCUBOX: DISCOVERY
+http://xxx.v2ssr.xyz/4wVQA7/625159/119440
+#EXTINF:-1 group-title="欧美视频「源」",DOCUBOX: DW DOCUMENTERY
+http://xxx.v2ssr.xyz/4wVQA7/625159/119441
+#EXTINF:-1 group-title="欧美视频「源」",DOCUBOX: FREE DOCUMENTERY
+http://xxx.v2ssr.xyz/4wVQA7/625159/119442
+#EXTINF:-1 group-title="欧美视频「源」",DOCUBOX: FREE DOCUMENTERY ANILAMS
+http://xxx.v2ssr.xyz/4wVQA7/625159/119443
+#EXTINF:-1 group-title="欧美视频「源」",DOCUBOX: NAT GEO WILD
+http://xxx.v2ssr.xyz/4wVQA7/625159/119447
+#EXTINF:-1 group-title="欧美视频「源」",DOCUBOX: NETFLIX
+http://xxx.v2ssr.xyz/4wVQA7/625159/119448
+#EXTINF:-1 group-title="欧美视频「源」",DOCUBOX: REAL CRIME
+http://xxx.v2ssr.xyz/4wVQA7/625159/119449
+#EXTINF:-1 group-title="欧美视频「源」",DOCUBOX: REAL WILD
+http://xxx.v2ssr.xyz/4wVQA7/625159/119451
+#EXTINF:-1 group-title="欧美视频「源」",CAR: SPORTSMAX 2
+http://xxx.v2ssr.xyz/4wVQA7/625159/119471
+#EXTINF:-1 group-title="欧美视频「源」",Star TV Sports
+http://xxx.v2ssr.xyz/4wVQA7/625159/53708
+#EXTINF:-1 group-title="欧美视频「源」",Star TV Sports 2
+http://xxx.v2ssr.xyz/4wVQA7/625159/53709
+#EXTINF:-1 group-title="欧美视频「源」",US Game Show Network
+http://xxx.v2ssr.xyz/4wVQA7/625159/120633
+#EXTINF:-1 group-title="欧美视频「源」",AK | Anchorage | NBC KTUU
+http://xxx.v2ssr.xyz/4wVQA7/625159/120634
+#EXTINF:-1 group-title="欧美视频「源」",AK | Fairbanks | NBC KTVF
+http://xxx.v2ssr.xyz/4wVQA7/625159/120635
+#EXTINF:-1 group-title="欧美视频「源」",AK | Juneau-douglas | NBC KATH
+http://xxx.v2ssr.xyz/4wVQA7/625159/120636
+#EXTINF:-1 group-title="欧美视频「源」",CBS: AL BIRMINGHAM WIAT
+http://xxx.v2ssr.xyz/4wVQA7/625159/120637
+#EXTINF:-1 group-title="欧美视频「源」",FOX: BIRMINGHAM AL WBRC
+http://xxx.v2ssr.xyz/4wVQA7/625159/120638
+#EXTINF:-1 group-title="欧美视频「源」",US NBC 13 (WVTM) Birmingham
+http://xxx.v2ssr.xyz/4wVQA7/625159/120639
+#EXTINF:-1 group-title="欧美视频「源」",AL | Huntsville | NBC WAFF
+http://xxx.v2ssr.xyz/4wVQA7/625159/120640
+#EXTINF:-1 group-title="欧美视频「源」",LOC | TX | EL PASO | CBS KDBC
+http://xxx.v2ssr.xyz/4wVQA7/625159/120807
+#EXTINF:-1 group-title="欧美视频「源」",GR Attica (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/120969
+#EXTINF:-1 group-title="欧美视频「源」",GR Mad (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/120970
+#EXTINF:-1 group-title="欧美视频「源」",GR Ekai (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/120972
+#EXTINF:-1 group-title="欧美视频「源」",GR Nea TV (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/120974
+#EXTINF:-1 group-title="欧美视频「源」",GR MAD (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/120977
+#EXTINF:-1 group-title="欧美视频「源」",GR RIK Sat (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/120979
+#EXTINF:-1 group-title="欧美视频「源」",DE 1-2-3 TV HD (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/125574
+#EXTINF:-1 group-title="欧美视频「源」",DE HSE24 (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/125589
+#EXTINF:-1 group-title="欧美视频「源」",DE ProSieben HD (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/125593
+#EXTINF:-1 group-title="欧美视频「源」",US abc25 (WOLO) Columbia
+http://xxx.v2ssr.xyz/4wVQA7/625159/125633
+#EXTINF:-1 group-title="欧美视频「源」",24/7 FAMILY MATTERS
+http://xxx.v2ssr.xyz/4wVQA7/625159/125634
+#EXTINF:-1 group-title="欧美视频「源」",24/7 TOM AND JERRY
+http://xxx.v2ssr.xyz/4wVQA7/625159/125635
+#EXTINF:-1 group-title="欧美视频「源」",24/7 DUCK TALES
+http://xxx.v2ssr.xyz/4wVQA7/625159/125636
+#EXTINF:-1 group-title="欧美视频「源」",24/7 TEEN TITANS GO!
+http://xxx.v2ssr.xyz/4wVQA7/625159/125637
+#EXTINF:-1 group-title="欧美视频「源」",US abc36 (WTVQ) Lexington
+http://xxx.v2ssr.xyz/4wVQA7/625159/125674
+#EXTINF:-1 group-title="欧美视频「源」",US FOX (WDKY) Lexington
+http://xxx.v2ssr.xyz/4wVQA7/625159/125675
+#EXTINF:-1 group-title="欧美视频「源」",US abc9 (KGUN) Tucson
+http://xxx.v2ssr.xyz/4wVQA7/625159/125726
+#EXTINF:-1 group-title="欧美视频「源」",CBS: AZ TUCSON KOLD
+http://xxx.v2ssr.xyz/4wVQA7/625159/125727
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) RDI (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/126723
+#EXTINF:-1 group-title="欧美视频「源」",CA Global Edmonton (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/132271
+#EXTINF:-1 group-title="欧美视频「源」",US (FD) Military History
+http://xxx.v2ssr.xyz/4wVQA7/625159/134832
+#EXTINF:-1 group-title="欧美视频「源」",US CBS (WJTV) Jackson
+http://xxx.v2ssr.xyz/4wVQA7/625159/135291
+#EXTINF:-1 group-title="欧美视频「源」",US FOX 40 (WDBD) Jackson
+http://xxx.v2ssr.xyz/4wVQA7/625159/135292
+#EXTINF:-1 group-title="欧美视频「源」",US ABC 16 (WAPT) Jackson (H)
+http://xxx.v2ssr.xyz/4wVQA7/625159/135293
+#EXTINF:-1 group-title="欧美视频「源」",US Fox News
+http://xxx.v2ssr.xyz/4wVQA7/625159/135794
+#EXTINF:-1 group-title="欧美视频「源」",CA One Soccer
+http://xxx.v2ssr.xyz/4wVQA7/625159/135810
+#EXTINF:-1 group-title="欧美视频「源」",US ABC (WBAY) HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/135811
+#EXTINF:-1 group-title="欧美视频「源」",WI | Green Bay | FOX WLUK
+http://xxx.v2ssr.xyz/4wVQA7/625159/135812
+#EXTINF:-1 group-title="欧美视频「源」",CBS: WI GREEN BAY WFRV
+http://xxx.v2ssr.xyz/4wVQA7/625159/135813
+#EXTINF:-1 group-title="欧美视频「源」",US FOX (WUHF) Rochester
+http://xxx.v2ssr.xyz/4wVQA7/625159/135877
+#EXTINF:-1 group-title="欧美视频「源」",US: CSPAN FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/136589
+#EXTINF:-1 group-title="欧美视频「源」",CA CTV2 VANCOUVER ISLAND (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/136612
+#EXTINF:-1 group-title="欧美视频「源」",US FOX (WTTE) Columbus (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/136613
+#EXTINF:-1 group-title="欧美视频「源」",CA Global Montreal HD (B)
+http://xxx.v2ssr.xyz/4wVQA7/625159/136640
+#EXTINF:-1 group-title="欧美视频「源」",CA Global Monterial News (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/136641
+#EXTINF:-1 group-title="欧美视频「源」",PT BENFICA TV HD  (P)
+http://xxx.v2ssr.xyz/4wVQA7/625159/136726
+#EXTINF:-1 group-title="欧美视频「源」",US CBS (WDEF) Chattanooga (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/136739
+#EXTINF:-1 group-title="欧美视频「源」",FOX: CHATTANOOGA TN WTVC
+http://xxx.v2ssr.xyz/4wVQA7/625159/136740
+#EXTINF:-1 group-title="欧美视频「源」",US CBS (KFVS) Cape Girardeau (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/136883
+#EXTINF:-1 group-title="欧美视频「源」",US FOX (KBSI) Paducah
+http://xxx.v2ssr.xyz/4wVQA7/625159/136884
+#EXTINF:-1 group-title="欧美视频「源」",US AT&T SportsNet Southwest (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/136909
+#EXTINF:-1 group-title="欧美视频「源」",US ABC (WLOS) HD (SP)
+http://xxx.v2ssr.xyz/4wVQA7/625159/137047
+#EXTINF:-1 group-title="欧美视频「源」",US CBS (WSPA) HD (SP)
+http://xxx.v2ssr.xyz/4wVQA7/625159/137048
+#EXTINF:-1 group-title="欧美视频「源」",US CW (WYCW) HD (SP)
+http://xxx.v2ssr.xyz/4wVQA7/625159/137049
+#EXTINF:-1 group-title="欧美视频「源」",US ABC (WQAD) Moline
+http://xxx.v2ssr.xyz/4wVQA7/625159/137242
+#EXTINF:-1 group-title="欧美视频「源」",US FOX (KSAZ) Phoenix
+http://xxx.v2ssr.xyz/4wVQA7/625159/137505
+#EXTINF:-1 group-title="欧美视频「源」",US Start TV
+http://xxx.v2ssr.xyz/4wVQA7/625159/137680
+#EXTINF:-1 group-title="欧美视频「源」",CA Global Peterborough News (E)
+http://xxx.v2ssr.xyz/4wVQA7/625159/137681
+#EXTINF:-1 group-title="欧美视频「源」",US CBS (KGPE) Fresno (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/137682
+#EXTINF:-1 group-title="欧美视频「源」",US ABC (WTNH) (SP)
+http://xxx.v2ssr.xyz/4wVQA7/625159/137697
+#EXTINF:-1 group-title="欧美视频「源」",UK: SKY SPORTS ARENA FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/137719
+#EXTINF:-1 group-title="欧美视频「源」",UK: SKY SPORTS MAIN EVENT HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/137720
+#EXTINF:-1 group-title="欧美视频「源」",US BET Her
+http://xxx.v2ssr.xyz/4wVQA7/625159/137790
+#EXTINF:-1 group-title="欧美视频「源」",CA | Sacramento | NBC KCRA
+http://xxx.v2ssr.xyz/4wVQA7/625159/137953
+#EXTINF:-1 group-title="欧美视频「源」",LOC | CA | SACRAMENTO-STOCKTON-MODESTO | CBS
+http://xxx.v2ssr.xyz/4wVQA7/625159/137954
+#EXTINF:-1 group-title="欧美视频「源」",US Telemundo 31 (WTMO) Orlando
+http://xxx.v2ssr.xyz/4wVQA7/625159/139149
+#EXTINF:-1 group-title="欧美视频「源」",US Bally Sports Great Lake
+http://xxx.v2ssr.xyz/4wVQA7/625159/139272
+#EXTINF:-1 group-title="欧美视频「源」",US CW (WUPA) Atlanta
+http://xxx.v2ssr.xyz/4wVQA7/625159/139462
+#EXTINF:-1 group-title="欧美视频「源」",US PBS (WNED) HD (SP)
+http://xxx.v2ssr.xyz/4wVQA7/625159/139756
+#EXTINF:-1 group-title="欧美视频「源」",US Latin Hola TV (A)
+http://xxx.v2ssr.xyz/4wVQA7/625159/139757
+#EXTINF:-1 group-title="欧美视频「源」",US TeenNick
+http://xxx.v2ssr.xyz/4wVQA7/625159/140004
+#EXTINF:-1 group-title="欧美视频「源」",24/7 GUNSMOKE
+http://xxx.v2ssr.xyz/4wVQA7/625159/140069
+#EXTINF:-1 group-title="欧美视频「源」",US NBC (WDAM) Laurel (F)
+http://xxx.v2ssr.xyz/4wVQA7/625159/140399
+#EXTINF:-1 group-title="欧美视频「源」",US Poker Go
+http://xxx.v2ssr.xyz/4wVQA7/625159/140814
+#EXTINF:-1 group-title="欧美视频「源」",US World Poker Tour
+http://xxx.v2ssr.xyz/4wVQA7/625159/140815
+#EXTINF:-1 group-title="欧美视频「源」",US CBS 7 (WNCN) Raleigh/Durham
+http://xxx.v2ssr.xyz/4wVQA7/625159/140820
+#EXTINF:-1 group-title="欧美视频「源」",LOC | NBC | KWWL WATERLOO-IOWA
+http://xxx.v2ssr.xyz/4wVQA7/625159/140899
+#EXTINF:-1 group-title="欧美视频「源」",LOC | IA | CBS | KGAN -WATERLOO-IOWA
+http://xxx.v2ssr.xyz/4wVQA7/625159/140900
+#EXTINF:-1 group-title="欧美视频「源」",LOC | IA | ABC| KCRG-WATERLOO-IOWA CITY
+http://xxx.v2ssr.xyz/4wVQA7/625159/140901
+#EXTINF:-1 group-title="欧美视频「源」",24/7 UFC
+http://xxx.v2ssr.xyz/4wVQA7/625159/146291
+#EXTINF:-1 group-title="欧美视频「源」",US UFC  (HD)
+http://xxx.v2ssr.xyz/4wVQA7/625159/146293
+#EXTINF:-1 group-title="欧美视频「源」",US WWE Network
+http://xxx.v2ssr.xyz/4wVQA7/625159/146294
+#EXTINF:-1 group-title="欧美视频「源」",CBS: MI DETROIT WWJ
+http://xxx.v2ssr.xyz/4wVQA7/625159/147201
+#EXTINF:-1 group-title="欧美视频「源」",LOC | MI | DETROIT | CW WKBD
+http://xxx.v2ssr.xyz/4wVQA7/625159/147202
+#EXTINF:-1 group-title="欧美视频「源」",US ABC 7 (WBBJ) Jackson (H)
+http://xxx.v2ssr.xyz/4wVQA7/625159/147203
+#EXTINF:-1 group-title="欧美视频「源」",CA documentary HD (B)
+http://xxx.v2ssr.xyz/4wVQA7/625159/148610
+#EXTINF:-1 group-title="欧美视频「源」",US PBS (WGBH) MA | Boston
+http://xxx.v2ssr.xyz/4wVQA7/625159/149621
+#EXTINF:-1 group-title="欧美视频「源」",US PBS (WNET) NY | New York (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/149622
+#EXTINF:-1 group-title="欧美视频「源」",US abc7 (WZVN) Fort Myers
+http://xxx.v2ssr.xyz/4wVQA7/625159/149745
+#EXTINF:-1 group-title="欧美视频「源」",ABC: OKLAHOMA CITY KOCO
+http://xxx.v2ssr.xyz/4wVQA7/625159/154792
+#EXTINF:-1 group-title="欧美视频「源」",CBS: LA LAFAYETTE KLFY
+http://xxx.v2ssr.xyz/4wVQA7/625159/158058
+#EXTINF:-1 group-title="欧美视频「源」",LOC | TX | BEAUMONT-PORT ARTHUR | CBS KFDM
+http://xxx.v2ssr.xyz/4wVQA7/625159/158059
+#EXTINF:-1 group-title="欧美视频「源」",US ABC 12 (KBMT) Port Arthur (H)
+http://xxx.v2ssr.xyz/4wVQA7/625159/158060
+#EXTINF:-1 group-title="欧美视频「源」",US ABC (KSTP) Minneapolis/St. paul
+http://xxx.v2ssr.xyz/4wVQA7/625159/158481
+#EXTINF:-1 group-title="欧美视频「源」",FR: FRANCE 2 FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/160297
+#EXTINF:-1 group-title="欧美视频「源」",FR: FRANCE 3 FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/160298
+#EXTINF:-1 group-title="欧美视频「源」",FR: FRANCE 5 FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/160300
+#EXTINF:-1 group-title="欧美视频「源」",FR: AB3 HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/160302
+#EXTINF:-1 group-title="欧美视频「源」",FR: MCM
+http://xxx.v2ssr.xyz/4wVQA7/625159/160303
+#EXTINF:-1 group-title="欧美视频「源」",FR: C8 FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/160305
+#EXTINF:-1 group-title="欧美视频「源」",FR: CANAL+ DECALE FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/160306
+#EXTINF:-1 group-title="欧美视频「源」",FR: CINE+ FAMIZ FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/160308
+#EXTINF:-1 group-title="欧美视频「源」",CA (FR) ICI RDI (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/164369
+#EXTINF:-1 group-title="欧美视频「源」",PT: RTP 1 FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164792
+#EXTINF:-1 group-title="欧美视频「源」",PT: CNN HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164802
+#EXTINF:-1 group-title="欧美视频「源」",PT: TV CINE ACTION FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164809
+#EXTINF:-1 group-title="欧美视频「源」",PT: NOS STUDIOS FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164811
+#EXTINF:-1 group-title="欧美视频「源」",PT: HOLLYWOOD FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164813
+#EXTINF:-1 group-title="欧美视频「源」",PT: AXN WHITE FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164815
+#EXTINF:-1 group-title="欧美视频「源」",PT: AXN MOVIES  HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164818
+#EXTINF:-1 group-title="欧美视频「源」",PT: SYFY FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164821
+#EXTINF:-1 group-title="欧美视频「源」",PT: TV GLOBO HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164824
+#EXTINF:-1 group-title="欧美视频「源」",PT: CLUBBING TV
+http://xxx.v2ssr.xyz/4wVQA7/625159/164850
+#EXTINF:-1 group-title="欧美视频「源」",PT: ZAP VIVA FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164853
+#EXTINF:-1 group-title="欧美视频「源」",PT: TPA INTERNACIONAL SD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164855
+#EXTINF:-1 group-title="欧美视频「源」",PT: TVC CABO VERDE
+http://xxx.v2ssr.xyz/4wVQA7/625159/164858
+#EXTINF:-1 group-title="欧美视频「源」",PT: TVI REALITY
+http://xxx.v2ssr.xyz/4wVQA7/625159/164861
+#EXTINF:-1 group-title="欧美视频「源」",ARG: EL NUEVE HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164869
+#EXTINF:-1 group-title="欧美视频「源」",ARG: TELEFE INTERNACIONAL HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164870
+#EXTINF:-1 group-title="欧美视频「源」",ARG: CINE ARGENTINO
+http://xxx.v2ssr.xyz/4wVQA7/625159/164871
+#EXTINF:-1 group-title="欧美视频「源」",ARG: TN NOTICIAS
+http://xxx.v2ssr.xyz/4wVQA7/625159/164873
+#EXTINF:-1 group-title="欧美视频「源」",ARG: CRONICA HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164875
+#EXTINF:-1 group-title="欧美视频「源」",ARG: C5N HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164876
+#EXTINF:-1 group-title="欧美视频「源」",ARG: ENCUENTRO HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164878
+#EXTINF:-1 group-title="欧美视频「源」",ARG: INFORMACION PERIODISTICA HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164879
+#EXTINF:-1 group-title="欧美视频「源」",ARG: GARAGE TV HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164880
+#EXTINF:-1 group-title="欧美视频「源」",ARG: AMERICA TV HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164881
+#EXTINF:-1 group-title="欧美视频「源」",CHILE: MEGA HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164883
+#EXTINF:-1 group-title="欧美视频「源」",CHILE: CHILEVISION HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164884
+#EXTINF:-1 group-title="欧美视频「源」",CHILE: 13I
+http://xxx.v2ssr.xyz/4wVQA7/625159/164885
+#EXTINF:-1 group-title="欧美视频「源」",CHILE: TVN CHILE HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164888
+#EXTINF:-1 group-title="欧美视频「源」",CHILE: CNN CHILE HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164892
+#EXTINF:-1 group-title="欧美视频「源」",URU: CANAL 10 SAETA HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164917
+#EXTINF:-1 group-title="欧美视频「源」",URU: CANAL12 MELO HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164921
+#EXTINF:-1 group-title="欧美视频「源」",URU: A+V HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164922
+#EXTINF:-1 group-title="欧美视频「源」",URU: CANAL 4 HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164923
+#EXTINF:-1 group-title="欧美视频「源」",URU: LA TELE HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164927
+#EXTINF:-1 group-title="欧美视频「源」",VENEZUELA: MERIDIANO TV
+http://xxx.v2ssr.xyz/4wVQA7/625159/164930
+#EXTINF:-1 group-title="欧美视频「源」",VENEZUELA: TELEVEN
+http://xxx.v2ssr.xyz/4wVQA7/625159/164931
+#EXTINF:-1 group-title="欧美视频「源」",VENEZUELA: GLOBOVISION
+http://xxx.v2ssr.xyz/4wVQA7/625159/164934
+#EXTINF:-1 group-title="欧美视频「源」",BR: AMC HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164938
+#EXTINF:-1 group-title="欧美视频「源」",BR: GLOBO HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164943
+#EXTINF:-1 group-title="欧美视频「源」",BR: GLOBO MINAS HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164944
+#EXTINF:-1 group-title="欧美视频「源」",BR: GLOBO NEWS HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164945
+#EXTINF:-1 group-title="欧美视频「源」",BR: ESPN
+http://xxx.v2ssr.xyz/4wVQA7/625159/164948
+#EXTINF:-1 group-title="欧美视频「源」",BR: HBO HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164950
+#EXTINF:-1 group-title="欧美视频「源」",BR: TNT SERIES HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/164958
+#EXTINF:-1 group-title="欧美视频「源」",PT: SPORT TV 1 FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/167742
+#EXTINF:-1 group-title="欧美视频「源」",PT: SPORT TV 2 HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/167743
+#EXTINF:-1 group-title="欧美视频「源」",PT: SPORT TV 3 HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/167744
+#EXTINF:-1 group-title="欧美视频「源」",PT: SPORT TV 4 FHD
+http://xxx.v2ssr.xyz/4wVQA7/625159/167745
+#EXTINF:-1 group-title="欧美视频「源」",PT: ELEVEN SPORTS 4 HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/167749
+#EXTINF:-1 group-title="欧美视频「源」",PT: ELEVEN SPORTS 5 HD
+http://xxx.v2ssr.xyz/4wVQA7/625159/167750
+#EXTINF:-1 group-title="欧美视频「源」",CA: MUCH MUSIC
+http://xxx.v2ssr.xyz/4wVQA7/625159/215268
+#EXTINF:-1 group-title="欧美视频「源」",M4: Action
+http://xxx.v2ssr.xyz/4wVQA7/625159/215269
+#EXTINF:-1 group-title="欧美视频「源」",M4: Adventure
+http://xxx.v2ssr.xyz/4wVQA7/625159/215270
+#EXTINF:-1 group-title="欧美视频「源」",M4: Alien
+http://xxx.v2ssr.xyz/4wVQA7/625159/215271
+#EXTINF:-1 group-title="欧美视频「源」",M4: Animation
+http://xxx.v2ssr.xyz/4wVQA7/625159/215272
+#EXTINF:-1 group-title="欧美视频「源」",M4: Avengers
+http://xxx.v2ssr.xyz/4wVQA7/625159/215273
+#EXTINF:-1 group-title="欧美视频「源」",M4: Batman
+http://xxx.v2ssr.xyz/4wVQA7/625159/215274
+#EXTINF:-1 group-title="欧美视频「源」",M4: Biography
+http://xxx.v2ssr.xyz/4wVQA7/625159/215275
+#EXTINF:-1 group-title="欧美视频「源」",M4: Blade
+http://xxx.v2ssr.xyz/4wVQA7/625159/215276
+#EXTINF:-1 group-title="欧美视频「源」",M4: Ghostbusters
+http://xxx.v2ssr.xyz/4wVQA7/625159/215289
+#EXTINF:-1 group-title="欧美视频「源」",M4: Hangover
+http://xxx.v2ssr.xyz/4wVQA7/625159/215290
+#EXTINF:-1 group-title="欧美视频「源」",M4: Harry Potter
+http://xxx.v2ssr.xyz/4wVQA7/625159/215291
+#EXTINF:-1 group-title="欧美视频「源」",M4: History
+http://xxx.v2ssr.xyz/4wVQA7/625159/215292
+#EXTINF:-1 group-title="欧美视频「源」",M4: Horror
+http://xxx.v2ssr.xyz/4wVQA7/625159/215293
+#EXTINF:-1 group-title="欧美视频「源」",M4: Ice Age
+http://xxx.v2ssr.xyz/4wVQA7/625159/215294
+#EXTINF:-1 group-title="欧美视频「源」",M4: Indiana Jones
+http://xxx.v2ssr.xyz/4wVQA7/625159/215295
+#EXTINF:-1 group-title="欧美视频「源」",M4: James Bond (007)
+http://xxx.v2ssr.xyz/4wVQA7/625159/215296
+#EXTINF:-1 group-title="欧美视频「源」",M4: John Wick
+http://xxx.v2ssr.xyz/4wVQA7/625159/215297
+#EXTINF:-1 group-title="欧美视频「源」",M4: Jurassic Park
+http://xxx.v2ssr.xyz/4wVQA7/625159/215298
+#EXTINF:-1 group-title="欧美视频「源」",M4: Kingsman
+http://xxx.v2ssr.xyz/4wVQA7/625159/215299
+#EXTINF:-1 group-title="欧美视频「源」",M4: Legendary
+http://xxx.v2ssr.xyz/4wVQA7/625159/215300
+#EXTINF:-1 group-title="欧美视频「源」",M4: Mad Max
+http://xxx.v2ssr.xyz/4wVQA7/625159/215301
+#EXTINF:-1 group-title="欧美视频「源」",M4: Maze Runner
+http://xxx.v2ssr.xyz/4wVQA7/625159/215302
+#EXTINF:-1 group-title="欧美视频「源」",M4: Men in Black
+http://xxx.v2ssr.xyz/4wVQA7/625159/215303
+#EXTINF:-1 group-title="欧美视频「源」",M4: Mission Impossible
+http://xxx.v2ssr.xyz/4wVQA7/625159/215304
+#EXTINF:-1 group-title="欧美视频「源」",M4: Musical
+http://xxx.v2ssr.xyz/4wVQA7/625159/215305
+#EXTINF:-1 group-title="欧美视频「源」",M4: Mystery
+http://xxx.v2ssr.xyz/4wVQA7/625159/215306
+#EXTINF:-1 group-title="欧美视频「源」",M4: Oceans Eleven
+http://xxx.v2ssr.xyz/4wVQA7/625159/215308
+#EXTINF:-1 group-title="欧美视频「源」",M4: Pirates of the Caribbean
+http://xxx.v2ssr.xyz/4wVQA7/625159/215309
+#EXTINF:-1 group-title="欧美视频「源」",M4: Planet of Apes
+http://xxx.v2ssr.xyz/4wVQA7/625159/215310
+#EXTINF:-1 group-title="欧美视频「源」",M4: Post-Apocalyptic
+http://xxx.v2ssr.xyz/4wVQA7/625159/215311
+#EXTINF:-1 group-title="欧美视频「源」",M4: Resident Evil
+http://xxx.v2ssr.xyz/4wVQA7/625159/215312
+#EXTINF:-1 group-title="欧美视频「源」",M4: Robot
+http://xxx.v2ssr.xyz/4wVQA7/625159/215313
+#EXTINF:-1 group-title="欧美视频「源」",M4: Rocky
+http://xxx.v2ssr.xyz/4wVQA7/625159/215314
+#EXTINF:-1 group-title="欧美视频「源」",M4: Romantic
+http://xxx.v2ssr.xyz/4wVQA7/625159/215315
+#EXTINF:-1 group-title="欧美视频「源」",M4: Saw
+http://xxx.v2ssr.xyz/4wVQA7/625159/215316
+#EXTINF:-1 group-title="欧美视频「源」",M4: Science Fiction
+http://xxx.v2ssr.xyz/4wVQA7/625159/215317
+#EXTINF:-1 group-title="欧美视频「源」",M4: Sherlock Holmes
+http://xxx.v2ssr.xyz/4wVQA7/625159/215318
+#EXTINF:-1 group-title="欧美视频「源」",M4: Shrek
+http://xxx.v2ssr.xyz/4wVQA7/625159/215319
+#EXTINF:-1 group-title="欧美视频「源」",M4: Space
+http://xxx.v2ssr.xyz/4wVQA7/625159/215320
+#EXTINF:-1 group-title="欧美视频「源」",M4: Spiderman
+http://xxx.v2ssr.xyz/4wVQA7/625159/215321
+#EXTINF:-1 group-title="欧美视频「源」",M4: Sports
+http://xxx.v2ssr.xyz/4wVQA7/625159/215322
+#EXTINF:-1 group-title="欧美视频「源」",M4: Spy
+http://xxx.v2ssr.xyz/4wVQA7/625159/215323
+#EXTINF:-1 group-title="欧美视频「源」",M4: Star Wars
+http://xxx.v2ssr.xyz/4wVQA7/625159/215324
+#EXTINF:-1 group-title="欧美视频「源」",M4: Superhero
+http://xxx.v2ssr.xyz/4wVQA7/625159/215325
+#EXTINF:-1 group-title="欧美视频「源」",M4: Survival
+http://xxx.v2ssr.xyz/4wVQA7/625159/215326
+#EXTINF:-1 group-title="欧美视频「源」",M4: The Bourne
+http://xxx.v2ssr.xyz/4wVQA7/625159/215327
+#EXTINF:-1 group-title="欧美视频「源」",M4: The Conjuring
+http://xxx.v2ssr.xyz/4wVQA7/625159/215328
+#EXTINF:-1 group-title="欧美视频「源」",M4: The Expendables
+http://xxx.v2ssr.xyz/4wVQA7/625159/215329
+#EXTINF:-1 group-title="欧美视频「源」",M4: The Godfather
+http://xxx.v2ssr.xyz/4wVQA7/625159/215330
+#EXTINF:-1 group-title="欧美视频「源」",M4: The Hobbit
+http://xxx.v2ssr.xyz/4wVQA7/625159/215331
+#EXTINF:-1 group-title="欧美视频「源」",M4: The Hunger Games
+http://xxx.v2ssr.xyz/4wVQA7/625159/215332
+#EXTINF:-1 group-title="欧美视频「源」",M4: The Karete Kid
+http://xxx.v2ssr.xyz/4wVQA7/625159/215333
+#EXTINF:-1 group-title="欧美视频「源」",M4: The Lord of The Rings
+http://xxx.v2ssr.xyz/4wVQA7/625159/215334
+#EXTINF:-1 group-title="欧美视频「源」",M4: The Matrix
+http://xxx.v2ssr.xyz/4wVQA7/625159/215335
+#EXTINF:-1 group-title="欧美视频「源」",M4: The Mummy
+http://xxx.v2ssr.xyz/4wVQA7/625159/215336
+#EXTINF:-1 group-title="欧美视频「源」",M4: The Purge
+http://xxx.v2ssr.xyz/4wVQA7/625159/215337
+#EXTINF:-1 group-title="欧美视频「源」",M4: The Terminator
+http://xxx.v2ssr.xyz/4wVQA7/625159/215338
+#EXTINF:-1 group-title="欧美视频「源」",M4: Three Flavours Cornetto
+http://xxx.v2ssr.xyz/4wVQA7/625159/215339
+#EXTINF:-1 group-title="欧美视频「源」",M4: Thriller
+http://xxx.v2ssr.xyz/4wVQA7/625159/215340
+#EXTINF:-1 group-title="欧美视频「源」",M4: Toy Story
+http://xxx.v2ssr.xyz/4wVQA7/625159/215341
+#EXTINF:-1 group-title="欧美视频「源」",M4: Transformers
+http://xxx.v2ssr.xyz/4wVQA7/625159/215342
+#EXTINF:-1 group-title="欧美视频「源」",M4: Transporter
+http://xxx.v2ssr.xyz/4wVQA7/625159/215343
+#EXTINF:-1 group-title="欧美视频「源」",M4: Twilight Saga
+http://xxx.v2ssr.xyz/4wVQA7/625159/215344
+#EXTINF:-1 group-title="欧美视频「源」",M4: War
+http://xxx.v2ssr.xyz/4wVQA7/625159/215345
+#EXTINF:-1 group-title="欧美视频「源」",M4: Western
+http://xxx.v2ssr.xyz/4wVQA7/625159/215346
+#EXTINF:-1 group-title="欧美视频「源」",M4: X-Men
+http://xxx.v2ssr.xyz/4wVQA7/625159/215347
+#EXTINF:-1 group-title="欧美视频「源」",M4: Zombie
+http://xxx.v2ssr.xyz/4wVQA7/625159/215348
+#EXTINF:-1 group-title="欧美视频「源」",M4: Benedict Cumberbatch
+http://xxx.v2ssr.xyz/4wVQA7/625159/215349
+#EXTINF:-1 group-title="欧美视频「源」",M4: Bradley Cooper
+http://xxx.v2ssr.xyz/4wVQA7/625159/215350
+#EXTINF:-1 group-title="欧美视频「源」",M4: Christian Bale
+http://xxx.v2ssr.xyz/4wVQA7/625159/215351
+#EXTINF:-1 group-title="欧美视频「源」",M4: Cillian Murphy
+http://xxx.v2ssr.xyz/4wVQA7/625159/215352
+#EXTINF:-1 group-title="欧美视频「源」",M4: Edward Norton
+http://xxx.v2ssr.xyz/4wVQA7/625159/215353
+#EXTINF:-1 group-title="欧美视频「源」",M4: Hugh Jackman
+http://xxx.v2ssr.xyz/4wVQA7/625159/215354
+#EXTINF:-1 group-title="欧美视频「源」",M4: Jack Nicholson
+http://xxx.v2ssr.xyz/4wVQA7/625159/215355
+#EXTINF:-1 group-title="欧美视频「源」",M4: Jake Gyllenhaal
+http://xxx.v2ssr.xyz/4wVQA7/625159/215356
+#EXTINF:-1 group-title="欧美视频「源」",M4: Jamie Foxx
+http://xxx.v2ssr.xyz/4wVQA7/625159/215357
+#EXTINF:-1 group-title="欧美视频「源」",M4: Jeff Bridges
+http://xxx.v2ssr.xyz/4wVQA7/625159/215358
+#EXTINF:-1 group-title="欧美视频「源」",M4: Jim Carrey
+http://xxx.v2ssr.xyz/4wVQA7/625159/215359
+#EXTINF:-1 group-title="欧美视频「源」",M4: Johnny Depp
+http://xxx.v2ssr.xyz/4wVQA7/625159/215360
+#EXTINF:-1 group-title="欧美视频「源」",M4: Keanu Reeves
+http://xxx.v2ssr.xyz/4wVQA7/625159/215361
+#EXTINF:-1 group-title="欧美视频「源」",M4: Liam Neeson
+http://xxx.v2ssr.xyz/4wVQA7/625159/215362
+#EXTINF:-1 group-title="欧美视频「源」",M4: Mark Wahlberg
+http://xxx.v2ssr.xyz/4wVQA7/625159/215363
+#EXTINF:-1 group-title="欧美视频「源」",M4: Matt Damon
+http://xxx.v2ssr.xyz/4wVQA7/625159/215364
+#EXTINF:-1 group-title="欧美视频「源」",M4: Micheal Caine
+http://xxx.v2ssr.xyz/4wVQA7/625159/215365
+#EXTINF:-1 group-title="欧美视频「源」",M4: Morgan Freeman
+http://xxx.v2ssr.xyz/4wVQA7/625159/215366
+#EXTINF:-1 group-title="欧美视频「源」",M4: Russell Crowe
+http://xxx.v2ssr.xyz/4wVQA7/625159/215367
+#EXTINF:-1 group-title="欧美视频「源」",M4: Ryan Reynolds
+http://xxx.v2ssr.xyz/4wVQA7/625159/215368
+#EXTINF:-1 group-title="欧美视频「源」",M4: Tom Cruise
+http://xxx.v2ssr.xyz/4wVQA7/625159/215370
+#EXTINF:-1 group-title="欧美视频「源」",M4: Tom Hanks
+http://xxx.v2ssr.xyz/4wVQA7/625159/215371
+#EXTINF:-1 group-title="欧美视频「源」",M4: Will Smith
+http://xxx.v2ssr.xyz/4wVQA7/625159/215372
+#EXTINF:-1 group-title="欧美视频「源」",M4: Adam Sandler
+http://xxx.v2ssr.xyz/4wVQA7/625159/215373
+#EXTINF:-1 group-title="欧美视频「源」",M4: Arnold Schwarzenegger
+http://xxx.v2ssr.xyz/4wVQA7/625159/215374
+#EXTINF:-1 group-title="欧美视频「源」",M4: Daniel Craig
+http://xxx.v2ssr.xyz/4wVQA7/625159/215375
+#EXTINF:-1 group-title="欧美视频「源」",M4: Dwayne Johnson
+http://xxx.v2ssr.xyz/4wVQA7/625159/215376
+#EXTINF:-1 group-title="欧美视频「源」",M4: Gerard Butler
+http://xxx.v2ssr.xyz/4wVQA7/625159/215377
+#EXTINF:-1 group-title="欧美视频「源」",M4: Jackie Chan
+http://xxx.v2ssr.xyz/4wVQA7/625159/215378
+#EXTINF:-1 group-title="欧美视频「源」",M4: Jason Statham
+http://xxx.v2ssr.xyz/4wVQA7/625159/215379
+#EXTINF:-1 group-title="欧美视频「源」",M4: Kevin Hart
+http://xxx.v2ssr.xyz/4wVQA7/625159/215380
+#EXTINF:-1 group-title="欧美视频「源」",M4: Orlando Bloom
+http://xxx.v2ssr.xyz/4wVQA7/625159/215381
+#EXTINF:-1 group-title="欧美视频「源」",M4: Sylvester Stallone
+http://xxx.v2ssr.xyz/4wVQA7/625159/215382
+#EXTINF:-1 group-title="欧美视频「源」",M4: Tom Hardy
+http://xxx.v2ssr.xyz/4wVQA7/625159/215383
+#EXTINF:-1 group-title="欧美视频「源」",M4: Amy Adams
+http://xxx.v2ssr.xyz/4wVQA7/625159/215384
+#EXTINF:-1 group-title="欧美视频「源」",M4: Anne Hathaway
+http://xxx.v2ssr.xyz/4wVQA7/625159/215385
+#EXTINF:-1 group-title="欧美视频「源」",M4: Brie Larson
+http://xxx.v2ssr.xyz/4wVQA7/625159/215386
+#EXTINF:-1 group-title="欧美视频「源」",M4: Charlize Theron
+http://xxx.v2ssr.xyz/4wVQA7/625159/215388
+#EXTINF:-1 group-title="欧美视频「源」",M4: Halle Berry
+http://xxx.v2ssr.xyz/4wVQA7/625159/215389
+#EXTINF:-1 group-title="欧美视频「源」",M4: Helen Mirren
+http://xxx.v2ssr.xyz/4wVQA7/625159/215390
+#EXTINF:-1 group-title="欧美视频「源」",M4: Brad Pitt
+http://xxx.v2ssr.xyz/4wVQA7/625159/215391
+#EXTINF:-1 group-title="欧美视频「源」",M4: Al Pacino
+http://xxx.v2ssr.xyz/4wVQA7/625159/215392
+#EXTINF:-1 group-title="欧美视频「源」",M4: Denzel Washington
+http://xxx.v2ssr.xyz/4wVQA7/625159/215393
+#EXTINF:-1 group-title="欧美视频「源」",M4: Vin Diesel
+http://xxx.v2ssr.xyz/4wVQA7/625159/215394
+#EXTINF:-1 group-title="欧美视频「源」",M4: Bruce Willis
+http://xxx.v2ssr.xyz/4wVQA7/625159/215395
+#EXTINF:-1 group-title="欧美视频「源」",M4: Robert Downey Jr
+http://xxx.v2ssr.xyz/4wVQA7/625159/215396
+#EXTINF:-1 group-title="欧美视频「源」",M4: Leonardo DiCaprio
+http://xxx.v2ssr.xyz/4wVQA7/625159/215397
+#EXTINF:-1 group-title="欧美视频「源」",M4: Angelina Jolie
+http://xxx.v2ssr.xyz/4wVQA7/625159/215398
+#EXTINF:-1 group-title="欧美视频「源」",M4: Alicia Vikander
+http://xxx.v2ssr.xyz/4wVQA7/625159/215399
+#EXTINF:-1 group-title="欧美视频「源」",M4: Emma Stone
+http://xxx.v2ssr.xyz/4wVQA7/625159/215400
+#EXTINF:-1 group-title="欧美视频「源」",M4: Emma Watson
+http://xxx.v2ssr.xyz/4wVQA7/625159/215401
+#EXTINF:-1 group-title="欧美视频「源」",M4: Jennifer Lawrence
+http://xxx.v2ssr.xyz/4wVQA7/625159/215402
+#EXTINF:-1 group-title="欧美视频「源」",M4: Julia Roberts
+http://xxx.v2ssr.xyz/4wVQA7/625159/215403
+#EXTINF:-1 group-title="欧美视频「源」",M4: Julianne Moore
+http://xxx.v2ssr.xyz/4wVQA7/625159/215404
+#EXTINF:-1 group-title="欧美视频「源」",M4: Kate Winslet
+http://xxx.v2ssr.xyz/4wVQA7/625159/215405
+#EXTINF:-1 group-title="欧美视频「源」",M4: Keira Knightley
+http://xxx.v2ssr.xyz/4wVQA7/625159/215406
+#EXTINF:-1 group-title="欧美视频「源」",M4: Kristen Stewart
+http://xxx.v2ssr.xyz/4wVQA7/625159/215407
+#EXTINF:-1 group-title="欧美视频「源」",M4: Lupita Nyong` o
+http://xxx.v2ssr.xyz/4wVQA7/625159/215408
+#EXTINF:-1 group-title="欧美视频「源」",M4: Margot Robbie
+http://xxx.v2ssr.xyz/4wVQA7/625159/215409
+#EXTINF:-1 group-title="欧美视频「源」",M4: Meryl Streep
+http://xxx.v2ssr.xyz/4wVQA7/625159/215410
+#EXTINF:-1 group-title="欧美视频「源」",M4: Michelle Pfeiffer
+http://xxx.v2ssr.xyz/4wVQA7/625159/215411
+#EXTINF:-1 group-title="欧美视频「源」",M4: Natalie Portman
+http://xxx.v2ssr.xyz/4wVQA7/625159/215412
+#EXTINF:-1 group-title="欧美视频「源」",M4: Nicole Kidman
+http://xxx.v2ssr.xyz/4wVQA7/625159/215413
+#EXTINF:-1 group-title="欧美视频「源」",M4: Rachel McAdams
+http://xxx.v2ssr.xyz/4wVQA7/625159/215414
+#EXTINF:-1 group-title="欧美视频「源」",M4: Reese Witherspoon
+http://xxx.v2ssr.xyz/4wVQA7/625159/215415
+#EXTINF:-1 group-title="欧美视频「源」",M4: Salma Hayek
+http://xxx.v2ssr.xyz/4wVQA7/625159/215416
+#EXTINF:-1 group-title="欧美视频「源」",M4: Sandra Bullock
+http://xxx.v2ssr.xyz/4wVQA7/625159/215417
+#EXTINF:-1 group-title="欧美视频「源」",M4: Saoirse Ronan
+http://xxx.v2ssr.xyz/4wVQA7/625159/215418
+#EXTINF:-1 group-title="欧美视频「源」",M4: Scarlett Johansson
+http://xxx.v2ssr.xyz/4wVQA7/625159/215419
+#EXTINF:-1 group-title="欧美视频「源」",M4: Viola Davis
+http://xxx.v2ssr.xyz/4wVQA7/625159/215420
+#EXTINF:-1 group-title="欧美视频「源」",M4: Cameron Diaz
+http://xxx.v2ssr.xyz/4wVQA7/625159/215421
+#EXTINF:-1 group-title="欧美视频「源」",M4: Catherine Zeta-Jones
+http://xxx.v2ssr.xyz/4wVQA7/625159/215422
+#EXTINF:-1 group-title="欧美视频「源」",M4: Drew Barrymore
+http://xxx.v2ssr.xyz/4wVQA7/625159/215423
+#EXTINF:-1 group-title="欧美视频「源」",M4: Eva Green
+http://xxx.v2ssr.xyz/4wVQA7/625159/215424
+#EXTINF:-1 group-title="欧美视频「源」",M4: Jennifer Aniston
+http://xxx.v2ssr.xyz/4wVQA7/625159/215425
+#EXTINF:-1 group-title="欧美视频「源」",M4: Jessica Alba
+http://xxx.v2ssr.xyz/4wVQA7/625159/215426
+#EXTINF:-1 group-title="欧美视频「源」",M4: Lucy Liu
+http://xxx.v2ssr.xyz/4wVQA7/625159/215427
+#EXTINF:-1 group-title="欧美视频「源」",M4: Megan Fox
+http://xxx.v2ssr.xyz/4wVQA7/625159/215428
+#EXTINF:-1 group-title="欧美视频「源」",M4: Melissa McCarthy
+http://xxx.v2ssr.xyz/4wVQA7/625159/215429
+#EXTINF:-1 group-title="欧美视频「源」",M4: Mila Kunis
+http://xxx.v2ssr.xyz/4wVQA7/625159/215430
+#EXTINF:-1 group-title="欧美视频「源」",M4: Penope Cruz
+http://xxx.v2ssr.xyz/4wVQA7/625159/215431
+#EXTINF:-1 group-title="欧美视频「源」",M4: Sigourney Weaver
+http://xxx.v2ssr.xyz/4wVQA7/625159/215432
+#EXTINF:-1 group-title="欧美视频「源」",M4: Zoe Saldana
+http://xxx.v2ssr.xyz/4wVQA7/625159/215433
+#EXTINF:-1 group-title="欧美视频「源」",Carib TVDirect13 (D)
+http://xxx.v2ssr.xyz/4wVQA7/625159/216085
+#EXTINF:-1 group-title="欧美视频「源」",US US CW 39 (KIAH) Houston
+http://xxx.v2ssr.xyz/4wVQA7/625159/216086
+
+
 
 
 

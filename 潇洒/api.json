@@ -563,6 +563,16 @@
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
+            "key": "皮皮虾",
+            "name": "皮皮虾｜APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://38.55.250.149:1314/api.php/app/"
+        },
+        {
             "key": "天天影视",
             "name": "天天｜APP",
             "type": 3,
@@ -1312,13 +1322,6 @@
             "ext": "./JS/樱花动漫.js"
         },
         {
-            "key": "大米动漫",
-            "name": "大米｜动漫",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/大米动漫.js"
-        },
-        {
             "key": "夸克影搜弹幕",
             "name": "影搜｜弹幕",
             "type": 3,
@@ -1662,9 +1665,9 @@
     ],
     "parses": [
         {
-            "name": "臻享",
-            "type": "1",
-            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+            "name": "推荐",
+            "type": 1,
+            "url": "https://jxjson.icu/neibu.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1691,9 +1694,9 @@
             }
         },
         {
-            "name": "推荐",
-            "type": 1,
-            "url": "https://jxjson.icu/neibu.php?url=",
+            "name": "臻享",
+            "type": "1",
+            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1746,6 +1749,75 @@
                 "header": {
                     "User-Agent": "okhttp/4.9.1"
                 }
+            }
+        },
+        {
+            "name": "至臻",
+            "type": 1,
+            "url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=dijnouxKNOQSTUWXY5&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "至尊",
+            "type": 1,
+            "url": "http://154.9.253.211:777/api/?key=tizaOMgxmM5q9aEh6Y&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "皮皮虾",
+            "type": "1",
+            "url": "http://103.117.123.141:5423/index.php?url=",
+            "ext": {
+                "flag": [
+                    "PPXLG",
+                    "皮皮虾4K"
+                ]
             }
         },
         {

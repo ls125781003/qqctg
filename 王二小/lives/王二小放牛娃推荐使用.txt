@@ -298,72 +298,64 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
 #EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://epg.iill.top/logo/海南自贸.png" group-title="•地区「IPV6」",海南自贸「IPV6」
 http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
 #INSERT_HERE
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」09:15 雄鹿VS雷霆 杨健 李根 孙悦
-https://tv.iill.top/NBA/mzHQtn
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」09:25 雄鹿VS雷霆 英文原声
-https://tv.iill.top/NBA/hS00bV
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」09:25 雄鹿VS雷霆 莫俊祺
-https://tv.iill.top/NBA/IidKPj
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」09:25 雄鹿VS雷霆 洪荒
-https://tv.iill.top/NBA/TlK3lN
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「意大利杯」03:50 意大利杯 尤文图斯vs卡利亚里 吴桐
-https://tv.iill.top/Migu/xJLOyl
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」19:20 常规赛A组 浙江稠州银行 VS 上海浦发银行 解说
-https://tv.iill.top/Migu/mbztdW
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」19:25 常规赛B组 天津冠岚 VS 黑龙江上东 清流播出
-https://tv.iill.top/Migu/h2RYRF
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」19:25 常规赛B组 河南豫光金铅 VS 厦门环东文旅 清流播出
-https://tv.iill.top/Migu/uAv81S
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」19:25 常规赛B组 江西赣星 VS 武汉盛帆黄鹤 清流播出
-https://tv.iill.top/Migu/6NESKZ
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第19轮 北京北汽vs江苏肯帝亚 邵化谦 季孟年
-https://tv.iill.top/Migu/DlRfk8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 北京北汽vs江苏肯帝亚 北京主队
-https://tv.iill.top/Migu/lWHLS7
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 北京北汽vs江苏肯帝亚 江苏主队
-https://tv.iill.top/Migu/19qBAr
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 北京北汽vs江苏肯帝亚 清流播出1
-https://tv.iill.top/Migu/Ub9KIg
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第19轮 南京头排苏酒vs广东东阳光 李天宇 郭维盛 王羽希
-https://tv.iill.top/Migu/fZMeDn
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第19轮 南京头排苏酒vs广东东阳光 深圳vs上海
-https://tv.iill.top/Migu/Tns9FW
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 南京头排苏酒vs广东东阳光 王港
-https://tv.iill.top/Migu/JbvBAG
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 南京头排苏酒vs广东东阳光 广东主队
-https://tv.iill.top/Migu/gU5Hyh
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 南京头排苏酒vs广东东阳光 清流播出5
-https://tv.iill.top/Migu/lOlnyN
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第19轮 九台农商银行vs辽宁本钢 解说
-https://tv.iill.top/Migu/TqzokU
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 九台农商银行vs辽宁本钢 山西vs山东
-https://tv.iill.top/Migu/xCLzOY
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 九台农商银行vs辽宁本钢 房峰浩
-https://tv.iill.top/Migu/hq8uPA
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 九台农商银行vs辽宁本钢 辽宁主队
-https://tv.iill.top/Migu/KpR0GW
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 九台农商银行vs辽宁本钢 清流播出2
-https://tv.iill.top/Migu/dNzj2h
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 山西汾酒vs山东高速 山西主队
-https://tv.iill.top/Migu/fDhg44
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 山西汾酒vs山东高速 山东主队
-https://tv.iill.top/Migu/fWzTzC
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 山西汾酒vs山东高速 清流播出3
-https://tv.iill.top/Migu/wN3drv
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 深圳马可波罗vs上海久事 深圳主队
-https://tv.iill.top/Migu/Uav5DJ
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 深圳马可波罗vs上海久事 上海主队
-https://tv.iill.top/Migu/KcH10q
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 深圳马可波罗vs上海久事 清流播出4
-https://tv.iill.top/Migu/6rF2QA
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:30 常规赛第19轮 新疆伊力特vs天津先行者 寇逸豪
-https://tv.iill.top/Migu/gV1QqY
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:45 常规赛第19轮 新疆伊力特vs天津先行者 新疆主队
-https://tv.iill.top/Migu/lt59Ii
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:45 常规赛第19轮 新疆伊力特vs天津先行者 天津主队
-https://tv.iill.top/Migu/aUHTZu
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:45 常规赛第19轮 新疆伊力特vs天津先行者 清流播出6
-https://tv.iill.top/Migu/TafZWl
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」03:45 联赛 摩纳哥 vs 巴黎圣日耳曼 鹿中原 王宇
+https://tv.iill.top/FB/EfSNgN
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」03:45 联赛 摩纳哥 vs 巴黎圣日耳曼 鹿中原 王宇
+https://tv.iill.top/FB/aHZbf2
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」04:20 联赛 比利亚雷亚尔 vs 巴列卡诺 梁祥宇
+https://tv.iill.top/FB/G0Eg7n
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」04:20 联赛 西班牙人 vs 瓦伦西亚 周楚雄
+https://tv.iill.top/FB/kCABPh
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「意大利杯」01:20 意大利杯 亚特兰大vs切塞纳 涂远
+https://tv.iill.top/Migu/tqZhDf
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「意大利杯」03:50 意大利杯 罗马vs桑普多利亚 张昊泽
+https://tv.iill.top/Migu/QCfryX
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「足协杯」09:20 足协杯资格赛 上海橘橙vs广州蜀地红 解说
+https://tv.iill.top/Migu/jqQbO5
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「足协杯」09:20 足协杯资格赛 朔州体校翔宇vs陕西西北青年人 解说
+https://tv.iill.top/Migu/bQs5Wy
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「足协杯」09:20 足协杯资格赛 厦门集美诚毅vs青岛崂山港帆 解说
+https://tv.iill.top/Migu/BAuna2
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「足协杯」12:50 足协杯资格赛 广西布山vs泉州青工 解说
+https://tv.iill.top/Migu/qU6S9P
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「足协杯」12:50 足协杯资格赛 重庆瀚达vs上海泽天 解说
+https://tv.iill.top/Migu/qfLj5Z
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「足协杯」12:50 足协杯资格赛 上海三菱重工vs武汉联镇 解说
+https://tv.iill.top/Migu/DfM2xB
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「足协杯」15:20 足协杯资格赛 重庆春蕾vs青岛五月的风 解说
+https://tv.iill.top/Migu/mBD1EB
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「足协杯」15:20 足协杯资格赛 深圳兴隽vs广西联合 解说
+https://tv.iill.top/Migu/AMIdOP
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「足协杯」15:20 足协杯资格赛 深圳吉祥vs宁夏平罗恒利 解说
+https://tv.iill.top/Migu/dJRP06
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「足协杯」15:20 足协杯资格赛 海南双玉vs宁波镇海优康 解说
+https://tv.iill.top/Migu/Z5ZYP7
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」19:25 常规赛A组 福建晋江众腾 VS 北京首钢园 清流播出
+https://tv.iill.top/Migu/JwoktW
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」19:20 常规赛A组 东莞新彤盛 VS 江苏南钢 解说
+https://tv.iill.top/Migu/278BQm
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」19:25 常规赛B组 合肥文旅 VS 陕西天泽 清流播出
+https://tv.iill.top/Migu/3zKPyj
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第19轮 广州朗肽海本vs浙江方兴渡 孙博 苏群 闫宇峰
+https://tv.iill.top/Migu/gmHXRo
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 广州朗肽海本vs浙江方兴渡 广州主队
+https://tv.iill.top/Migu/NUW850
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 广州朗肽海本vs浙江方兴渡 广厦主队
+https://tv.iill.top/Migu/KDYMw3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第19轮 广州朗肽海本vs浙江方兴渡 AVS3
+https://tv.iill.top/Migu/H0K7G0
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 广州朗肽海本vs浙江方兴渡 清流播出1
+https://tv.iill.top/Migu/zknkPR
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:00 常规赛第19轮 青岛国信制药vs福建晋江文旅 解说
+https://tv.iill.top/Migu/zCk230
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 青岛国信制药vs福建晋江文旅 青岛主队
+https://tv.iill.top/Migu/mUlsS4
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 青岛国信制药vs福建晋江文旅 福建主队
+https://tv.iill.top/Migu/9Bld6I
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA」19:20 常规赛第19轮 青岛国信制药vs福建晋江文旅 清流播出2
+https://tv.iill.top/Migu/NzQ0C7
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」19:50 常规赛A组 新疆天山 VS 石家庄英励 解说
+https://tv.iill.top/Migu/sYfDxf
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合
 https://tv.iill.top/migu/cctv1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经
@@ -682,10 +674,10 @@ https://tv.iill.top/nsw/dsyp
 https://tv.iill.top/nsw/dsdy
 #EXTINF:-1 tvg-id="东森戏剧台" tvg-name="东森戏剧台" tvg-logo="https://epg.iill.top/logo/东森戏剧.png" group-title="•台湾「限制」", 東森戲劇台
 https://tv.iill.top/nsw/dsxj
-#EXTINF:-1 tvg-id="东森幼幼台" tvg-name="东森幼幼台" tvg-logo="https://epg.iill.top/logo/东森幼幼.png" group-title="•台湾「限制」", 東森幼幼台
-https://tv.iill.top/nsw/dsyy
 #EXTINF:-1 tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="https://epg.iill.top/logo/东森综合.png" group-title="•台湾「限制」", 東森綜合台
 https://tv.iill.top/nsw/dszh
+#EXTINF:-1 tvg-id="东森幼幼台" tvg-name="东森幼幼台" tvg-logo="https://epg.iill.top/logo/东森幼幼.png" group-title="•台湾「限制」", 東森幼幼台
+https://tv.iill.top/nsw/dsyy
 #EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" tvg-logo="https://assets.livednow.com/logo/博斯無限台.png" group-title="•台湾「限制」", 博斯無限一台
 https://tv.iill.top/litv/litv-longturn10
 #EXTINF:-1 tvg-id="博斯无限二台" tvg-name="博斯无限二台" tvg-logo="https://assets.livednow.com/logo/博斯無限二台.png" group-title="•台湾「限制」", 博斯無限二台
