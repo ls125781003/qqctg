@@ -162,13 +162,23 @@
         },
         {
             "key": "虎牙直播",
-            "name": "🐯虎牙直播",
+            "name": "🐯虎牙直播[js]",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./js/huyazhibo.js"
+            "ext": "./js/虎牙直播.js"
+        },
+        {
+            "key": "csp_XYQHiker_虎牙直播",
+            "name": "🐯虎牙直播(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "./json/虎牙直播.json"
         },
         {
             "key": "斗鱼直播",
