@@ -79,6 +79,16 @@
             }
         },
         {
+            "key": "皮皮虾",
+            "name": "🦞皮皮吃虾┃4K纯净",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://38.55.250.149:1314/api.php/app/"
+        },
+        {
             "key": "夸克蜡笔弹幕",
             "name": "🖍︎蜡笔资源┃4K弹幕",
             "type": 3,
@@ -1347,29 +1357,13 @@
             "url": "Demo"
         },
         {
-            "name": "一",
-            "type": 1,
-            "url": "https://jx.xiaofengtv.com/jx.php?url=",
+            "name": "皮皮虾",
+            "type": "1",
+            "url": "http://45.207.215.101:5423/index.php?url=",
             "ext": {
                 "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "rx",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
+                    "PPXLG",
+                    "皮皮虾4K"
                 ]
             }
         }
