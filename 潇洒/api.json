@@ -435,7 +435,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://mogg.小胡.top",
+                "site": "http://www.muoupan.top",
                 "danmu": true
             }
         },
@@ -1926,66 +1926,99 @@
     ],
     "rules": [
         {
-            "name": "暴风",
+            "name": "量子非凡广告",
             "hosts": [
-                "bfzy",
-                "bfbfvip",
-                "bfengbf"
-            ],
-            "regex": [
-                "#EXTINF.*?\\s+.*?adjump.*?\\.ts"
-            ]
-        },
-        {
-            "name": "量子",
-            "hosts": [
+                "lz",
                 "vip.lz",
+                "v.cdnlz",
                 "hd.lz",
-                ".cdnlz"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "17.19"
-            ]
-        },
-        {
-            "name": "非凡",
-            "hosts": [
+                "ffzy",
                 "vip.ffzy",
-                "hd.ffzy",
-                "super.ffzy"
+                "hd.ffzy"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
-                "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
-                "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts",
-                "17.99",
-                "14.45"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
-            "name": "索尼",
+            "name": "索尼广告",
             "hosts": [
-                "suonizy"
+                "suonizy",
+                "qrssv.com"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts",
-                "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts"
+                "15.1666",
+                "15.2666"
             ]
         },
         {
-            "name": "快看",
+            "name": "乐视广告",
             "hosts": [
-                "kuaikan"
+                "leshiyun"
+            ],
+            "regex": [
+                "15.92"
+            ]
+        },
+        {
+            "name": "优质广告",
+            "hosts": [
+                "yzzy",
+                "playback"
+            ],
+            "regex": [
+                "16.63",
+                "18.66",
+                "17.66",
+                "19.13"
+            ]
+        },
+        {
+            "name": "快看广告",
+            "hosts": [
+                "kuaikan",
+                "vip.kuaikan"
+            ],
+            "regex": [
+                "15.32",
+                "15.231",
+                "18.066"
+            ]
+        },
+        {
+            "name": "360广告",
+            "hosts": [
+                "lyhuicheng"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
+                "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "开源棋牌",
+            "hosts": [
+                "askzycdn",
+                "jkunbf",
+                "bfikuncdn",
+                "bfaskcdn"
             ],
             "regex": [
                 "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:1\\.467,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\\r*\\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "暴风广告",
+            "hosts": [
+                "bfengbf.com",
+                "bfzy",
+                "c1"
+            ],
+            "regex": [
+                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
+                "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
@@ -2097,7 +2130,7 @@
         {
             "name": "范明明",
             "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
             "playerType": 2,
             "timeout": 10
         },
