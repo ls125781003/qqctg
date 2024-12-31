@@ -89,6 +89,19 @@
             }
         },
         {
+            "key": "浪酷弹幕",
+            "name": "浪酷｜弹幕",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "site": "aHR0cDovL3YubGt1eXMuY24="
+            }
+        },
+        {
             "key": "糯米弹幕",
             "name": "糯米｜弹幕",
             "type": 3,
@@ -474,6 +487,22 @@
             }
         },
         {
+            "key": "夸克白嫖弹幕",
+            "name": "白嫖｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://smdyo.top",
+                "danmu": true
+            }
+        },
+        {
             "key": "115",
             "name": "115｜4K",
             "type": 3,
@@ -623,6 +652,73 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+        },
+        {
+            "key": "南瓜",
+            "name": "南瓜｜App",
+            "type": 3,
+            "api": "csp_NanGua",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1,
+            "ext": ""
+        },
+        {
+            "key": "木头",
+            "name": "木头｜App",
+            "type": 3,
+            "api": "csp_Shark",
+            "playerType": 1,
+            "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
+        },
+        {
+            "key": "雨滴",
+            "name": "雨滴｜App",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
+        },
+        {
+            "key": "现代",
+            "name": "现代｜App",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
+        },
+        {
+            "key": "优质",
+            "name": "优质｜App",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
+        },
+        {
+            "key": "客星",
+            "name": "客星｜App",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "caHR0cDovL2t4eXMua2FpeGlubWFuaHVhLnRvcHw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWN8MTAw"
+        },
+        {
+            "key": "木叶",
+            "name": "木叶｜App",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 2,
+            "ext": "saHR0cHM6Ly94Y2Jhb3RhLm9zcy1jbi1xaW5nZGFvLmFsaXl1bmNzLmNvbS9nZXRhcHBfdjQudHh0fDZ2YXhqbjR2YmtyaHN6cDh8NnZheGpuNHZia3Joc3pwOHwxMDA="
+        },
+        {
+            "key": "蝴蝶",
+            "name": "蝴蝶｜App",
+            "type": 3,
+            "api": "csp_Hudie",
+            "playerType": 2,
+            "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
         },
         {
             "key": "天天影视",
@@ -836,13 +932,6 @@
             "ext": "./XBPQ/海纳影视.json"
         },
         {
-            "key": "青柠影视",
-            "name": "青柠｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./XBPQ/青柠影视.json"
-        },
-        {
             "key": "面包影视",
             "name": "面包｜影视",
             "type": 3,
@@ -862,6 +951,13 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./XBPQ/雪糕影视.json"
+        },
+        {
+            "key": "流光影视",
+            "name": "流光｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./XBPQ/流光影视.json"
         },
         {
             "key": "金牌影视",
