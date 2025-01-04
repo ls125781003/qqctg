@@ -11,7 +11,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
                 "filter": "./json/douban.json"
             }
         },
@@ -23,7 +23,7 @@
             "searchable": 0,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json"
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
             }
         },
         {
@@ -321,7 +321,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
                 "siteUrl": "https://www.wogg.net",
                 "filter": "./json/wogg.json"
             }
@@ -334,7 +334,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
                 "siteUrl": "https://tv.yydsys.top",
                 "filter": "./json/wogg.json"
             }
@@ -347,7 +347,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
                 "siteUrl": "https://duopan.fun",
                 "filter": "./json/wogg.json"
             }
@@ -360,7 +360,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
                 "siteUrl": "https://mihdr.top",
                 "filter": "./json/wogg.json"
             }
@@ -373,7 +373,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
                 "siteUrl": "http://mogg.xn--yetu07f.top",
                 "filter": "./json/wogg.json"
             }
@@ -386,8 +386,21 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
                 "siteUrl": "http://www.mucpan.cc/",
+                "filter": "./json/wogg.json"
+            }
+        },
+        {
+            "key": "闪电",
+            "name": "⚡闪电",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
+                "siteUrl": "http://1.95.79.193",
                 "filter": "./json/wogg.json"
             }
         },
@@ -401,7 +414,7 @@
             "switchable": 0,
             "ext": {
                 "siteUrl": "https://www.91panta.cn/",
-                "commonConfig": "./json/peizhi.json"
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
             }
         },
         {
@@ -413,7 +426,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json"
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
             }
         },
         {
@@ -426,7 +439,7 @@
             "switchable": 0,
             "ext": {
                 "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf",
-                "commonConfig": "./json/peizhi.json"
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
             }
         },
         {
@@ -437,7 +450,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json"
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
             }
         },
         {
@@ -448,7 +461,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json"
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
             }
         },
         {
@@ -469,7 +482,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json",
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
                 "share": "./json/网盘集合.json"
             }
         },
@@ -486,7 +499,7 @@
             },
             "ext": {
                 "json": "./json/youtube.json",
-                "cookie": "./json/youtubecookie.json"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/youtubecookie.json"
             }
         },
         {
@@ -499,7 +512,7 @@
             "ext": {
                 "siteUrl": "http://127.0.0.1:9999",
                 "channelUsername": "hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-                "commonConfig": "./json/peizhi.json",
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
                 "filter": "./json/douban.json"
             }
         },
@@ -513,7 +526,7 @@
             "switchable": 0,
             "ext": {
                 "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-                "commonConfig": "./json/peizhi.json"
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
             }
         },
         {
@@ -524,7 +537,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": {
-                "commonConfig": "./json/peizhi.json"
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
             }
         },
         {
@@ -831,49 +844,49 @@
         {
             "name": "feiyang.allinone",
             "type": 0,
-            "url": "./lives/feiyang.allinone.txt",
+            "url": "http://127.0.0.1:35457/tv.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
             "name": "feiyang.tptv",
             "type": 0,
-            "url": "./lives/feiyang.tptv.txt",
+            "url": "http://127.0.0.1:35457/tptv.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
             "name": "feiyang.migu",
             "type": 0,
-            "url": "./lives/feiyang.migu.txt",
+            "url": "http://127.0.0.1:35457/migu.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
             "name": "feiyang.miguevent",
             "type": 0,
-            "url": "./lives/feiyang.miguevent.txt",
+            "url": "http://127.0.0.1:35457/miguevent.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
             "name": "feiyang.bililive",
             "type": 0,
-            "url": "./lives/feiyang.bililive.txt",
+            "url": "http://127.0.0.1:35457/bililive.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
             "name": "feiyang.huyayqk",
             "type": 0,
-            "url": "./lives/feiyang.huyayqk.txt",
+            "url": "http://127.0.0.1:35457/huyayqk.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
             "name": "feiyang.douyuyqk",
             "type": 0,
-            "url": "./lives/feiyang.douyuyqk.txt",
+            "url": "http://127.0.0.1:35457/douyuyqk.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
             "name": "feiyang.yylunbo",
             "type": 0,
-            "url": "./lives/feiyang.yylunbo.txt",
+            "url": "http://127.0.0.1:35457/yylunbo.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],

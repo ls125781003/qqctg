@@ -41,7 +41,8 @@
                 "site_urls": [
                     "https://woog.nxog.eu.org",
                     "https://woog.xn--dkw0c.news",
-                    "http://woog.nxog.asia"
+                    "http://woog.nxog.asia",
+                    "http://1.woog.xn--dkw.xn--6qq986b3xl"
                 ]
             }
         },
@@ -512,7 +513,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "./txt/bilibili.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
             },
             "timeout": 10
         },
@@ -635,7 +636,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "./txt/token.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TV/.quark",
                 "uc_cookie": "http://127.0.0.1:9978/file/TV/.uc",
                 "danmu": true
@@ -651,7 +652,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "./txt/token.txt",
+                "token": "http://127.0.0.1:9978/file/TV/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TV/.quark",
                 "uc_cookie": "http://127.0.0.1:9978/file/TV/.uc",
                 "site": "http://woog.nxog.asia",
@@ -668,7 +669,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "./txt/token.txt",
+                "token": "http://127.0.0.1:9978/file/TV/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TV/.quark",
                 "uc_cookie": "http://127.0.0.1:9978/file/TV/.uc",
                 "site": "http://mogg.小胡.top",
@@ -684,7 +685,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "./txt/token.txt",
+                "token": "http://127.0.0.1:9978/file/TV/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TV/.quark",
                 "uc_cookie": "http://127.0.0.1:9978/file/TV/.uc",
                 "site": "https://tv.yydsys.top",
@@ -700,7 +701,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "./txt/token.txt",
+                "token": "http://127.0.0.1:9978/file/TV/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TV/.quark",
                 "uc_cookie": "http://127.0.0.1:9978/file/TV/.uc",
                 "site": "http://labipan.com",
@@ -716,7 +717,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "./txt/token.txt",
+                "token": "http://127.0.0.1:9978/file/TV/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TV/.quark",
                 "uc_cookie": "http://127.0.0.1:9978/file/TV/.uc",
                 "site": "https://mihdr.top",
@@ -732,7 +733,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "./txt/token.txt",
+                "token": "http://127.0.0.1:9978/file/TV/token.txt",
                 "danmu": true
             }
         },
@@ -759,7 +760,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "./txt/token.txt",
+                "token": "http://127.0.0.1:9978/file/TV/token.txt",
                 "danmu": true,
                 "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
             }
@@ -773,7 +774,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "token": "./txt/token.txt",
+                "token": "http://127.0.0.1:9978/file/TV/token.txt",
                 "danmu": true
             }
         },
@@ -786,7 +787,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "token": "./txt/token.txt"
+                "token": "http://127.0.0.1:9978/file/TV/token.txt"
             },
             "style": {
                 "type": "list"
@@ -801,7 +802,7 @@
             "changeable": 0,
             "filterable": 0,
             "ext": {
-                "token": "./txt/token.txt",
+                "token": "http://127.0.0.1:9978/file/TV/token.txt",
                 "share": "./json/alishare.json"
             },
             "style": {
