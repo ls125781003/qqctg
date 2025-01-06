@@ -1030,20 +1030,6 @@
             "ext": "./XYQHiker/电影牛.json"
         },
         {
-            "key": "爱奇艺",
-            "name": "爱奇艺｜视频",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/爱奇艺.js"
-        },
-        {
-            "key": "三六零",
-            "name": "三六零｜视频",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/三六零.js"
-        },
-        {
             "key": "剧圈圈",
             "name": "剧圈圈｜影视",
             "type": 3,
@@ -1077,41 +1063,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/魔力高清.js"
-        },
-        {
-            "key": "腾讯视频",
-            "name": "腾讯｜视频",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/腾讯视频.js"
-        },
-        {
-            "key": "优酷视频",
-            "name": "优酷｜视频",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/优酷视频.js"
-        },
-        {
-            "key": "芒果视频",
-            "name": "芒果｜视频",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/芒果视频.js"
-        },
-        {
-            "key": "搜狗视频",
-            "name": "搜狗｜视频",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/搜狗视频.js"
-        },
-        {
-            "key": "哔哩视频",
-            "name": "哔哩｜视频",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/哔哩视频.js"
         },
         {
             "key": "碟调影视",
@@ -2230,6 +2181,14 @@
         }
     ],
     "lives": [
+        {
+            "name": "AI直播",
+            "type": 0,
+            "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "playerType": 1,
+            "timeout": 10
+        },
         {
             "name": "直播",
             "type": 3,
