@@ -33,7 +33,7 @@
         },
         {
             "key": "豆瓣1",
-            "name": "📢o公告❤更新:1/5❤",
+            "name": "📢o公告❤更新:1/7❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
@@ -371,7 +371,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/农民影视.json"
+            "ext": "./json/nmys.json"
         },
         {
             "key": "嫖嫖嫖",

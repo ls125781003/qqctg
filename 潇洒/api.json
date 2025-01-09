@@ -1,6 +1,6 @@
 {
     "spider": "./spider.jar",
-    "wallpaper": "http://127.0.0.1:9978/file/TVBox/wallpaper.jpg",
+    "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
         {
@@ -698,6 +698,14 @@
             "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
         },
         {
+            "key": "人人",
+            "name": "人人｜APP",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS9qaWVrb3UudHh0fEY1MUY1RDUyRDIzQ0JGMjd8RjUxRjVENTJEMjNDQkYyN3wxOTE="
+        },
+        {
             "key": "雨滴",
             "name": "雨滴｜App",
             "type": 3,
@@ -744,6 +752,17 @@
             "api": "csp_Hudie",
             "playerType": 2,
             "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+        },
+        {
+            "key": "快看",
+            "name": "快看｜APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "http://kkwk123.top/api.php/app/"
         },
         {
             "key": "天天影视",
@@ -1724,7 +1743,7 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/Share/main/market.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/Share/main/market.json"
         },
         {
             "key": "push_agent",
