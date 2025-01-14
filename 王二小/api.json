@@ -99,7 +99,8 @@
             "type": 3,
             "api": "csp_WexnullnameGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "timeout": 120
         },
         {
             "key": "Wexyingchao",
@@ -178,14 +179,6 @@
             "name": "💓比心┃YD💓",
             "type": 3,
             "api": "csp_WexydbixinGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "南瓜",
-            "name": "💥瓜瓜┃影视💥",
-            "type": 3,
-            "api": "csp_WexNgysGuard",
             "searchable": 1,
             "changeable": 1
         },
