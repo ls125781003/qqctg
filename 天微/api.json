@@ -71,6 +71,17 @@
             "timeout": 10
         },
         {
+            "key": "央视大全",
+            "name": "《央视🔹大全》",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/央视大全.js"
+        },
+        {
             "key": "csp_JPYY",
             "name": "《金牌🔹秒播》",
             "type": 3,
@@ -94,6 +105,16 @@
             "ext": "./js/腾腾4K.js"
         },
         {
+            "key": "csp_Wwys",
+            "name": "《理想🔹影视》",
+            "type": 3,
+            "playerType": 2,
+            "changeable": 0,
+            "api": "csp_Wwys",
+            "jar": "./jars/csp_JPYY.jar",
+            "ext": "https://www.wwgz.cn/"
+        },
+        {
             "key": "果果4K解析_js",
             "name": "《免扫🔹果4K》",
             "type": 3,
@@ -103,17 +124,6 @@
             "filterable": 1,
             "order_num": 0,
             "ext": "./js/果果4K.js"
-        },
-        {
-            "key": "白嫖皮虾",
-            "name": "《免扫🔹虾4K》",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "./js/皮皮虾4K.js"
         },
         {
             "key": "腾讯",
@@ -163,6 +173,56 @@
                 "danmu": true
             },
             "timeout": 10
+        },
+        {
+            "key": "文才弹幕",
+            "name": "《文才🔹弹幕》",
+            "type": 3,
+            "api": "csp_Jpys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "浪酷弹幕",
+            "name": "《浪酷🔹弹幕》",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "site": "aHR0cDovL3YubGt1eXMuY24="
+            }
+        },
+        {
+            "key": "糯米弹幕",
+            "name": "《糯米🔹弹幕》",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            }
+        },
+        {
+            "key": "热播弹幕",
+            "name": "《热播🔹弹幕》",
+            "type": 3,
+            "api": "csp_TianTian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "site": "aHR0cDovL3YucmJvdHYuY24="
+            }
         },
         {
             "key": "嫖嫖嫖",
@@ -417,16 +477,6 @@
                 "大陆综艺",
                 "港台综艺"
             ]
-        },
-        {
-            "key": "csp_Wwys",
-            "name": "《理想🔹秒播》",
-            "type": 3,
-            "playerType": 2,
-            "changeable": 0,
-            "api": "csp_Wwys",
-            "jar": "./jars/csp_JPYY.jar",
-            "ext": "https://www.wwgz.cn/"
         },
         {
             "key": "csp_MiTuApp",
@@ -1650,7 +1700,7 @@
             "url": "https://lzplayer.tv/?url="
         },
         {
-            "name": "解析1",
+            "name": "解析0",
             "type": 1,
             "url": "http://1.94.221.189:88/algorithm.php?url=",
             "ext": {
@@ -1667,6 +1717,35 @@
                     "搜狐",
                     "letv",
                     "乐视",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "解析1",
+            "type": "1",
+            "url": "https://zy.qiaoji8.com/gouzi.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
                     "芒果",
                     "tnmb",
                     "seven",

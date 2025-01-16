@@ -81,16 +81,13 @@
         {
             "key": "皮皮虾",
             "name": "😛皮皮吃虾┃4K纯净",
+            "playerType": 1,
             "type": 3,
-            "api": "csp_AppYsV3",
+            "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": {
-                "cmsApis": "R0NNEUWaOb1LpNX5d/wBWINblRR3D6g8kwu/NNyxuEj7yYzVrqiS+6qI0Kf3e8vo",
-                "jxApi": "LnkT3kx3JdWCe+2pMS7J9CuPqcF/f7CDMK/7Kz4lcW66bv0Z+3kNMcZJ7rFhSbV6uJzEzn8gGGjUdjU5GRB61w==",
-                "prefix": "GygNsW7GmW6sQigWwHzG/Hwqul3u2kADy6YkyP2j8xU="
-            }
+            "ext": "http://www.ppxys.vip/api.php/app/"
         },
         {
             "key": "流光影视",
@@ -201,6 +198,29 @@
             "ext": ""
         },
         {
+            "key": "白白",
+            "name": "🐭白白┃秒播┃纯净",
+            "type": 3,
+            "api": "csp_Sbaibai",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Lib",
+            "name": "🌟立播┃秒播┃纯净",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "TVBox/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
             "key": "糯米",
             "name": "🍓糯米┃秒播┃纯净",
             "type": 3,
@@ -256,12 +276,11 @@
             "key": "可可",
             "name": "👻可可┃多线┃纯净",
             "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jars/配置中心.jar",
+            "api": "csp_Kekys",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=可可"
+            "changeable": 1
         },
         {
             "key": "zxzj",
@@ -1418,9 +1437,9 @@
             "url": "Demo"
         },
         {
-            "name": "皮皮虾",
+            "name": "摸鱼皮皮虾",
             "type": "1",
-            "url": "http://45.207.215.101:5423/index.php?url=",
+            "url": "http://jiexi.52ppx.top/lxjson.php?url=",
             "ext": {
                 "flag": [
                     "PPXLG",

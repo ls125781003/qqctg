@@ -40,6 +40,10 @@
             "url": "https://bitbucket.org/ls125781003/qqctg/raw/main/欧歌/api.json", 
             "name": "欧歌" 
         },
+        { 
+            "url": "https://bitbucket.org/ls125781003/qqctg/raw/main/天微/api.json", 
+            "name": "天微" 
+        },
         {   
         	"url": "https://bitbucket.org/ls125781003/qqctg/raw/main/王二小/api.json", 
             "name": "王二小" 

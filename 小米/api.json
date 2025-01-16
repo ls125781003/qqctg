@@ -28,6 +28,18 @@
             "ext": "https://www.subaibaiys.com/"
         },
         {
+            "key": "guoguo1",
+            "name": "🥭文采┃1080P",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "./js/wencai.js"
+        },
+        {
             "key": "csp_Wogg",
             "name": "🧸玩偶┃4K弹幕",
             "type": 3,
@@ -122,17 +134,6 @@
             "ext": "./js/kanqiu.js"
         },
         {
-            "key": "csp_JPYY",
-            "name": "🚗文采┃1080P",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_Jpyy",
-            "playerType": 2,
-            "filterable": 1,
-            "ext": ""
-        },
-        {
             "key": "csp_Xlys",
             "name": "🍤哔嘀┃1080P",
             "api": "csp_Xlys",
@@ -199,6 +200,14 @@
             "quickSearch": 0,
             "api": "csp_MiTuApp",
             "ext": "sHR2rlsfjI4L3t4RXQMkn6HTjU76bdvB3up+9CiGGVZHR3fM8KlJPXSneStHrC+DgWIxl9G+rM70oCwdQkorhrIzUoY/hqgTn/n8VXBDfMYYJQXjRv4wnyIB9zbV+McOQuf9XquqTIYCrvZq2K/XN8gy3u6uGRNLRlVrwt2esQ5pwE+Y8C3ts7ivRub9bEpuB7nN4tthfe6L4f4RdQDHpA=="
+        },
+        {
+            "key": "csp_悠悠",
+            "name": "🍔悠悠┃1080P",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_MiTuApp",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyCqoI86+yv1vpNB33r+Z4fN6O/nLb1kI6lAn2/cVbU8wmofbJQCSnAsrvXVBwZ3flHuP9fO76eaY6fHygcy7MOMKd+MKrvTzaoU2rXllcWmnT3vTlchndtaG+KZX7BM4zXAD06UlUfWH1nsWX3lFG1e0oZhS/wxYXLRu8iyPFlfsgePjsUNEuKBVbTUVMdjoY="
         },
         {
             "key": "csp_良人",
@@ -277,14 +286,6 @@
                 "type": "rect",
                 "ratio": 1.333
             }
-        },
-        {
-            "key": "荐片",
-            "name": "🍭荐片┃磁力",
-            "api": "csp_Jianpian",
-            "type": 3,
-            "playerType": "1",
-            "ext": "http://api2.rinhome.com"
         },
         {
             "key": "push_agent",
