@@ -142,12 +142,6 @@
             "playerType": 2
         },
         {
-            "key": "csp_qiyou",
-            "name": "🎮骑友┃1080P",
-            "type": 3,
-            "api": "csp_Qiyou"
-        },
-        {
             "key": "csp_Wwys",
             "name": "👨农民┃1080P",
             "type": 3,
@@ -158,11 +152,20 @@
             "ext": "https://www.wwgz.cn/"
         },
         {
-            "key": "csp_Fantuan",
-            "name": "🍙饭团┃1080P",
+            "key": "csp_AppDrama",
+            "name": "👓视觉┃1080P",
             "type": 3,
-            "searchable": 1,
-            "api": "csp_Fantuan"
+            "quickSearch": 0,
+            "api": "csp_AppDrama",
+            "ext": "ATzdJTBzsnKvrQ2L6AKDQnBAHhw+jLmU9mdwIkKtWE5l9ZOw779POW3bGR53SGnj6Z9ZqlLYLUWxTlAwGD5P0CQxwMd3/os57BQg2fWEVlKLgIz2jj9ZfGYcdeHa6TNAohp5oS6k6U9ickpr69Y3xYxIrxwADs1UqNZBakDxid+YOx9hzCJYy3/Svo2+4HH4+rh7MMhtJMMUz1+GWl7CYBgk/Qqs280Sjjw2D31D/8U="
+        },
+        {
+            "key": "csp_AppDrama2",
+            "name": "🐯虎虎┃1080P",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_AppDrama",
+            "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg=="
         },
         {
             "key": "瓜子",
@@ -199,15 +202,7 @@
             "type": 3,
             "quickSearch": 0,
             "api": "csp_MiTuApp",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn6HTjU76bdvB3up+9CiGGVZHR3fM8KlJPXSneStHrC+DgWIxl9G+rM70oCwdQkorhrIzUoY/hqgTn/n8VXBDfMYYJQXjRv4wnyIB9zbV+McOQuf9XquqTIYCrvZq2K/XN8gy3u6uGRNLRlVrwt2esQ5pwE+Y8C3ts7ivRub9bEpuB7nN4tthfe6L4f4RdQDHpA=="
-        },
-        {
-            "key": "csp_悠悠",
-            "name": "🍔悠悠┃1080P",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_MiTuApp",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyCqoI86+yv1vpNB33r+Z4fN6O/nLb1kI6lAn2/cVbU8wmofbJQCSnAsrvXVBwZ3flHuP9fO76eaY6fHygcy7MOMKd+MKrvTzaoU2rXllcWmnT3vTlchndtaG+KZX7BM4zXAD06UlUfWH1nsWX3lFG1e0oZhS/wxYXLRu8iyPFlfsgePjsUNEuKBVbTUVMdjoY="
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc="
         },
         {
             "key": "csp_良人",
@@ -237,28 +232,6 @@
             "playerType": 1,
             "filterable": 1,
             "ext": ""
-        },
-        {
-            "key": "csp_视觉",
-            "name": "🔭视觉┃PYTHON",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "api": "./api/shijue.py",
-            "playerType": 2,
-            "filterable": 1
-        },
-        {
-            "key": "csp_猎手",
-            "name": "💰猎手┃PYTHON",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "api": "./api/py_%E7%94%B5%E5%BD%B1%E7%8C%8E%E6%89%8B.py",
-            "playerType": 2,
-            "filterable": 1
         },
         {
             "key": "csp_LaoBaiBook",

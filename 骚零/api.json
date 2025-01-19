@@ -36,17 +36,6 @@
             "changeable": 1
         },
         {
-            "key": "厂长",
-            "name": "厂长",
-            "type": 3,
-            "api": "csp_NewCz",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czzyvideo.com/"
-        },
-        {
             "key": "原创",
             "name": "原创",
             "type": 3,
@@ -79,6 +68,17 @@
                 "siteUrl": "https://www.wogg.net/",
                 "danMu": "弹"
             }
+        },
+        {
+            "key": "厂长",
+            "name": "厂长",
+            "type": 3,
+            "api": "csp_NewCz",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.czzyvideo.com/"
         },
         {
             "key": "zxzj",
@@ -127,6 +127,16 @@
             "name": "苹果",
             "type": 3,
             "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "可可",
+            "name": "可可",
+            "type": 3,
+            "api": "csp_Kekys",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1

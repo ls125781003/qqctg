@@ -1029,34 +1029,6 @@
             "filterable": 1
         },
         {
-            "key": "素白白",
-            "name": "素白白｜影视",
-            "type": 3,
-            "api": "csp_Subaibai",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://subaibai.com"
-        },
-        {
-            "key": "小苹果",
-            "name": "小苹果｜影视",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "机器人",
-            "name": "机器人｜影视",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "电影牛",
             "name": "电影牛｜影视",
             "type": 3,
@@ -1065,6 +1037,13 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/电影牛.json"
+        },
+        {
+            "key": "素白白",
+            "name": "素白白｜影视",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/素白白.js"
         },
         {
             "key": "剧圈圈",
@@ -1093,6 +1072,13 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/茶杯狐.js"
+        },
+        {
+            "key": "思古影视",
+            "name": "思古｜影视",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/思古影视.js"
         },
         {
             "key": "魔力高清",

@@ -229,14 +229,6 @@
             "filterable": 1
         },
         {
-            "key": "荐片",
-            "name": "🎬┃荐片┃影视",
-            "api": "csp_Jianpian",
-            "type": 3,
-            "playerType": "2",
-            "ext": "http://api2.rinhome.com"
-        },
-        {
             "key": "厂长",
             "name": "🏭┃厂长┃影视",
             "type": 3,
