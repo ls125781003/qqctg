@@ -82,6 +82,15 @@
             "ext": "./js/央视大全.js"
         },
         {
+            "key": "人人",
+            "name": "《免扫🔹人4K》",
+            "type": 3,
+            "api": "csp_Xdai",
+            "jar": "./jars/人人.jar",
+            "playerType": 1,
+            "ext": "caHR0cHM6Ly9qaWVrb3UtMTMxNDA1NDY5OS5jb3MuYXAtY2hvbmdxaW5nLm15cWNsb3VkLmNvbS8xLnR4dHxGNTFGNUQ1MkQyM0NCRjI3fEY1MUY1RDUyRDIzQ0JGMjd8MTky"
+        },
+        {
             "key": "csp_JPYY",
             "name": "《金牌🔹秒播》",
             "type": 3,

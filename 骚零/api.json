@@ -3,15 +3,9 @@
     "spider": "./spider.jar",
     "lives": [
         {
-            "name": "IPV4",
+            "name": "FMM",
             "type": 0,
-            "url": "./lives/IPV4.txt",
-            "epg": ""
-        },
-        {
-            "name": "IPV6",
-            "type": 0,
-            "url": "./lives/IPV6.txt",
+            "url": "./lives/FMM.txt",
             "epg": ""
         }
     ],
@@ -30,6 +24,16 @@
             "name": "白白",
             "type": 3,
             "api": "csp_Sbaibai",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "AppSj",
+            "name": "视界",
+            "type": 3,
+            "api": "csp_AppSj",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
