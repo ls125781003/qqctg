@@ -804,7 +804,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "w7TClcK8w5rDrcKYwoPCmcKkw57ClcK0wpvDosKnwqTCoMKjwrPCosKpw6PDo8KYwpvCn8KlwqbCpMKtwqrCrmNlZGbCssKswqjDnMOpwqZewpHCoMKmw5bDosOow6jCmsKhwpnCnsOgwqHDp8Oyw6vClsKcwp/CpcOdwqHDncOow6diwprCmcKVw6TDosOvwqfDrsKrwqRSXMKbwrzDqMOiw67CisKfwqLClMKbwq3CnMOiw6jCnMKkwoZhwqrCrMKcwqXCnMKnwpnCoFLCs8KVw5Xlh77phaLmj5jlkJNc5Yac5L6Q5ZGqwrTlv6roqYDotbfmu4DnrInCjcKbwp/CnMK6w5/CpnvClcKpwpvCrcKcwr/Cr2R2ZXTCrsKlwr7Cq8KtdnJ2YsKwwpXCpsKbwrvCmMKjecKmwpvCrcKcwr/Cr2R2ZXTCrsKlwr7Cq8KtdnJ2YsKwwpXCpsKbw43CnMKkwpXChcOrw5/CnMKzwpxVwq0="
+            "ext": "w7TCmsK8w5rDrcKYwoPCmcKkw57CmsK0wpnCoVpcUFfDgsOhw6PDrcORwqLCosKUV8KzwpPCocOiw6jCnMKkwoZhwqrCrMKhwqXCmlrCpMKZwqDCoMKtwprCoMOV5Ya46YSY5o+V5ZCTwqXlh5/kvpHlkbDCtOW+pOintui1tOa7gOetksOQwqHCpcKaWnHClcKjw4TDmMOzwqDCtFNXdmXCqsK5wq/CvcKvZXRiY8K8wrXDgMKrwrFaXFBXwrrDmMOtw4LDsFpqUFfCv8KowqvCv8Kvd2VidMKrwqbCvcK7w4BlZ1dcwpnCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoGrCqMKiwq/CssKoZGVjXsKqwqnCrsKnwqtlZGpmwq/CqMKvwqjDrcKbwpHCksKZwqfDo8Oiw6nCoV9QV8KUw57DlsOsw7LDqsKne8KVwqnCoMKtwprCoMOzwpTCn8KnwpHDp8OawqrCqsKsaVfCrQ=="
         },
         {
             "key": "站长影视",
@@ -2186,6 +2186,38 @@
             "type": 3,
             "api": "csp_Feiyang",
             "url": "tv.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "B站直播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "bililive.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "虎牙一起看",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "huyayqk.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "斗鱼一起看",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "douyuyqk.m3u",
+            "timeout": 10,
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "YY轮播",
+            "type": 3,
+            "api": "csp_Feiyang",
+            "url": "yylunbo.m3u",
             "timeout": 10,
             "ua": "okhttp/3.15"
         },
