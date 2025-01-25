@@ -40,23 +40,14 @@
             "changeable": 1
         },
         {
-            "key": "原创",
-            "name": "原创",
+            "key": "荐片",
+            "name": "荐片P2P",
             "type": 3,
-            "api": "csp_YCyz",
-            "timeout": 15,
-            "playerType": 1,
+            "api": "csp_JPJ",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "drpy_js_荐片",
-            "name": "荐片[js]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/荐片.js",
-            "playerType": "1"
+            "changeable": 0
         },
         {
             "key": "玩偶",
@@ -72,6 +63,17 @@
                 "siteUrl": "https://www.wogg.net/",
                 "danMu": "弹"
             }
+        },
+        {
+            "key": "原创",
+            "name": "原创",
+            "type": 3,
+            "api": "csp_YCyz",
+            "timeout": 15,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "厂长",
@@ -177,6 +179,14 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             }
+        },
+        {
+            "key": "drpy_js_荐片",
+            "name": "荐片[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/荐片.js",
+            "playerType": "1"
         },
         {
             "key": "drpy_js_厂长资源",
