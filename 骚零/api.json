@@ -30,16 +30,6 @@
             "changeable": 1
         },
         {
-            "key": "AppSj",
-            "name": "视界",
-            "type": 3,
-            "api": "csp_AppSj",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "荐片",
             "name": "荐片P2P",
             "type": 3,
@@ -71,6 +61,24 @@
             "api": "csp_YCyz",
             "timeout": 15,
             "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Bttoo",
+            "name": "Bttwoo",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "农民",
+            "name": "农民",
+            "type": 3,
+            "api": "csp_Nmyswv",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -133,6 +141,16 @@
             "name": "苹果",
             "type": 3,
             "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "AppSj",
+            "name": "视界",
+            "type": 3,
+            "api": "csp_AppSj",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -442,6 +460,116 @@
             }
         },
         {
+            "key": "Bili",
+            "name": "🅱哔哔合集┃弹幕",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"
+            }
+        },
+        {
+            "key": "Biliych",
+            "name": "🅱哔哔演唱会┃弹幕",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"
+            }
+        },
+        {
+            "key": "dr_兔小贝",
+            "name": "📚儿童启蒙",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/兔小贝.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "少儿教育",
+            "name": "📚少儿教育",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
+            }
+        },
+        {
+            "key": "小学课堂",
+            "name": "📚小学课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
+            }
+        },
+        {
+            "key": "初中课堂",
+            "name": "📚初中课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"
+            }
+        },
+        {
+            "key": "高中教育",
+            "name": "📚高中课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
+            }
+        },
+        {
             "key": "push_agent",
             "name": "手机推送",
             "type": 3,
@@ -451,38 +579,6 @@
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
-            }
-        },
-        {
-            "key": "Bili",
-            "name": "哔哔合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "./json/bilibili.json"
-            }
-        },
-        {
-            "key": "Biliych",
-            "name": "哔哔演唱会",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "./json/biliych.json"
             }
         }
     ]

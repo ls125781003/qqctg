@@ -32,7 +32,7 @@
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "📢o榜单nxog.top",
+            "name": "📢o",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -72,7 +72,7 @@
         },
         {
             "key": "csp_UC",
-            "name": "🐲欧歌┃uc弹幕",
+            "name": "🐲欧歌┃u夕弹幕",
             "type": 3,
             "searchable": 1,
             "changeable": 0,

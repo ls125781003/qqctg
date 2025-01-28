@@ -330,15 +330,15 @@
             }
         },
         {
-            "key": "多多",
-            "name": "🌟多多",
+            "key": "至臻",
+            "name": "💯至臻",
             "type": 3,
             "api": "csp_kongbai",
             "searchable": 1,
             "changeable": 0,
             "ext": {
                 "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-                "siteUrl": "https://tv.yydsys.top",
+                "siteUrl": "http://www.xhww.net",
                 "filter": "./json/wogg.json"
             }
         },
@@ -356,15 +356,28 @@
             }
         },
         {
-            "key": "至臻",
-            "name": "💯至臻",
+            "key": "欧哥",
+            "name": "🅾欧哥",
             "type": 3,
             "api": "csp_kongbai",
             "searchable": 1,
             "changeable": 0,
             "ext": {
                 "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-                "siteUrl": "http://www.xhww.net",
+                "siteUrl": "https://tv.yydsys.top",
+                "filter": "./json/wogg.json"
+            }
+        },
+        {
+            "key": "多多",
+            "name": "🌟多多",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
+                "siteUrl": "https://woog.nxog.eu.org",
                 "filter": "./json/wogg.json"
             }
         },
@@ -377,7 +390,7 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-                "siteUrl": "http://www.muoupan.top",
+                "siteUrl": "http://www.mogg.top",
                 "filter": "./json/wogg.json"
             }
         },
