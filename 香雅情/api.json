@@ -374,6 +374,14 @@
             "ext": "./json/可可影视.json"
         },
         {
+            "key": "柚子资源",
+            "name": "柚子资源",
+            "type": 0,
+            "api": "https://api.yzzy-api.com/inc/api.php",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "DRJS_虎牙",
             "name": "虎牙直播(JS)",
             "type": 3,
@@ -572,10 +580,13 @@
             "name": "1080zyk",
             "hosts": [
                 "high24-playback",
-                "high20-playback"
+                "high20-playback",
+                "yzzy.play",
+                "yzzy-dy"
             ],
             "regex": [
-                "16.63"
+                "16.63",
+                "17.66"
             ]
         },
         {
