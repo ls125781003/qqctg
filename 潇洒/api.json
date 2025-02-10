@@ -344,7 +344,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://ucmi.fun",
+                "site": "http://www.mucpan.cc",
                 "danmu": true
             }
         },
@@ -592,11 +592,11 @@
         },
         {
             "key": "世纪",
-            "name": "世纪｜APP",
+            "name": "世纪｜App",
             "type": 3,
             "api": "csp_Drama",
             "playerType": 2,
-            "ext": "saHR0cDovLzExMC40Mi40OS42ODo4OTAwfENEQjZXTU5BTVhCRFNGRFVVS1hJRU1PMVVHMU1VTEoxfDJDMUEwNkUxOTdFRjEwQ0YzRjYwNThDQTdBODAzQjVafDIw"
+            "ext": "saHR0cDovLzExMC40Mi40OS4xODg6OTkwMnxBTEhNWkpWVk9GVk5RMkhUT0VQRlpaRlhZV0gxRDJSTnwyQzFBMDZFMTk3RUYxMENGM0Y2MDU4Q0E3QTgwM0I1RXwyMA=="
         },
         {
             "key": "图图",
@@ -874,6 +874,24 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"
+        },
+        {
+            "key": "爱看机器人",
+            "name": "爱看｜影视",
+            "type": 3,
+            "api": "csp_IkanBot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "南瓜影视",
+            "name": "南瓜｜影视",
+            "type": 3,
+            "api": "csp_NanGua",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "低端影视",
@@ -2175,7 +2193,11 @@
             "api": "csp_Feiyang",
             "url": "https://9877.kstore.space/Live/live.m3u",
             "timeout": 10,
-            "ua": "okhttp/3.15"
+            "ua": "okhttp/3.15",
+            "catchup": {
+                "type": "append",
+                "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
+            }
         },
         {
             "name": "AI直播",
