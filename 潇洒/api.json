@@ -102,18 +102,6 @@
             }
         },
         {
-            "key": "糯米弹幕",
-            "name": "糯米｜弹幕",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
             "key": "文才弹幕",
             "name": "文才｜弹幕",
             "type": 3,
@@ -408,7 +396,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://www.91muou.icu",
+                "site": "http://91muou.icu",
                 "danmu": true
             }
         },
@@ -592,7 +580,7 @@
         },
         {
             "key": "巧技",
-            "name": "巧技｜App",
+            "name": "巧技｜APP",
             "type": 3,
             "api": "csp_qiao2",
             "playerType": 2,
@@ -600,15 +588,23 @@
         },
         {
             "key": "木头",
-            "name": "木头｜App",
+            "name": "木头｜APP",
             "type": 3,
             "api": "csp_Shark",
             "playerType": 1,
             "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
         },
         {
+            "key": "永夜",
+            "name": "永夜｜App",
+            "type": 3,
+            "api": "csp_Muou",
+            "playerType": 2,
+            "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcHxZSVlJ5b2x6KeGfDQuMS44"
+        },
+        {
             "key": "星河",
-            "name": "星河｜App",
+            "name": "星河｜APP",
             "type": 3,
             "api": "csp_Muou",
             "playerType": 2,
@@ -616,7 +612,7 @@
         },
         {
             "key": "时常",
-            "name": "时常｜App",
+            "name": "时常｜APP",
             "type": 3,
             "api": "csp_Xdai",
             "playerType": 1,
@@ -624,7 +620,7 @@
         },
         {
             "key": "雨滴",
-            "name": "雨滴｜App",
+            "name": "雨滴｜APP",
             "type": 3,
             "api": "csp_Xdai",
             "playerType": 1,
@@ -632,7 +628,7 @@
         },
         {
             "key": "现代",
-            "name": "现代｜App",
+            "name": "现代｜APP",
             "type": 3,
             "api": "csp_Xdai",
             "playerType": 1,
@@ -640,7 +636,7 @@
         },
         {
             "key": "玉米",
-            "name": "玉米｜App",
+            "name": "玉米｜APP",
             "type": 3,
             "api": "csp_Xdai",
             "playerType": 1,
@@ -648,7 +644,7 @@
         },
         {
             "key": "优质",
-            "name": "优质｜App",
+            "name": "优质｜APP",
             "type": 3,
             "api": "csp_Xdai",
             "playerType": 1,
@@ -656,7 +652,7 @@
         },
         {
             "key": "木叶",
-            "name": "木叶｜App",
+            "name": "木叶｜APP",
             "type": 3,
             "api": "csp_Xdai",
             "playerType": 2,
@@ -664,7 +660,7 @@
         },
         {
             "key": "蝴蝶",
-            "name": "蝴蝶｜App",
+            "name": "蝴蝶｜APP",
             "type": 3,
             "api": "csp_Hudie",
             "playerType": 2,
@@ -672,7 +668,7 @@
         },
         {
             "key": "蚂蚁",
-            "name": "蚂蚁｜App",
+            "name": "蚂蚁｜APP",
             "type": 3,
             "api": "csp_Mayiys",
             "searchable": 1,
@@ -849,13 +845,14 @@
             "filterable": 1
         },
         {
-            "key": "南瓜影视",
-            "name": "南瓜｜影视",
+            "key": "农民影视",
+            "name": "农民｜影视",
             "type": 3,
-            "api": "csp_NanGua",
+            "api": "csp_Wwys",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://m.wwgz.cn"
         },
         {
             "key": "低端影视",
@@ -898,15 +895,6 @@
             "name": "樱花｜影视",
             "type": 3,
             "api": "csp_Lggys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "饺子影视",
-            "name": "饺子｜影视",
-            "type": 3,
-            "api": "csp_Jiaozi",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1742,19 +1730,6 @@
             }
         },
         {
-            "key": "AList",
-            "name": "AList｜合集",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            },
-            "ext": "./json/alist.json"
-        },
-        {
             "key": "阿里合集",
             "name": "阿里｜合集",
             "type": 3,
@@ -1780,6 +1755,19 @@
             "style": {
                 "type": "list"
             }
+        },
+        {
+            "key": "AList",
+            "name": "AList｜合集",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            },
+            "ext": "./JSON/alist.json"
         },
         {
             "key": "网络直播",
