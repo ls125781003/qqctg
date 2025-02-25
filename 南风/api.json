@@ -91,28 +91,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Fantuan",
-            "name": "🍙饭团",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "ext": "https://www.fantuan.vip"
-        },
-        {
-            "key": "csp_AppRZ",
-            "name": "🕵忍者",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_AppRZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://rzys.xyz/"
-        },
-        {
             "key": "csp_SaoHuo",
             "name": "🔥骚火",
             "type": 3,
@@ -121,16 +99,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Qiyou",
-            "name": "🦌奇优",
-            "type": 3,
-            "api": "csp_Qiyou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.dyxz2.com/"
         },
         {
             "key": "csp_Tvyb",
@@ -153,15 +121,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Kanke",
-            "name": "🛳️看客",
-            "type": 3,
-            "api": "csp_Kanke",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Jiaozi",
             "name": "🥣饺子",
             "type": 3,
@@ -171,13 +130,25 @@
             "filterable": 1
         },
         {
-            "key": "csp_Lggys",
-            "name": "💗️攻阁",
+            "key": "可可",
+            "name": "☕️可可",
             "type": 3,
-            "api": "csp_Lggys",
+            "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "./json/可可影视.json"
+        },
+        {
+            "key": "csp_Fantuan",
+            "name": "🍙饭团",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "ext": "https://www.fantuan.vip"
         },
         {
             "key": "csp_Ddys",
@@ -215,16 +186,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/jianpian.json"
-        },
-        {
-            "key": "修罗",
-            "name": "🧲修罗",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/修罗影视.json"
         },
         {
             "key": "csp_Mp4Mov",
@@ -272,6 +233,16 @@
             "filterable": 1
         },
         {
+            "key": "修罗",
+            "name": "🧲修罗",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/修罗影视.json"
+        },
+        {
             "key": "csp_SP360",
             "name": "💘360",
             "type": 3,
@@ -291,6 +262,16 @@
             "filterable": 1
         },
         {
+            "key": "动漫巴士",
+            "name": "🚌动漫巴士",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/动漫巴士.json"
+        },
+        {
             "key": "樱花",
             "name": "💮樱花",
             "type": 3,
@@ -299,6 +280,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/樱花动漫.json"
+        },
+        {
+            "key": "短剧屋",
+            "name": "🎬短剧屋",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/短剧屋.json"
         },
         {
             "key": "csp_Kanqiu",
@@ -428,7 +419,7 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-                "siteUrl": "https://mogg1.banye.tech:7777",
+                "siteUrl": "http://muou.6qu.top",
                 "filter": "./json/wogg.json"
             }
         },
@@ -480,7 +471,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "siteUrl": "https://ac.star2.cn/",
+                "siteUrl": "https://1.star2.cn/",
                 "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
             }
         },
