@@ -49,8 +49,7 @@
                     "https://feimao666.fun",
                     "http://feimao888.fun",
                     "http://feimaoai.site",
-                    "http://www.labi88.sbs",
-                    "https://mihdr.top"
+                    "http://www.labi88.sbs"
                 ],
                 "url_key": "Duopan2"
             }
@@ -71,24 +70,44 @@
             }
         },
         {
-            "key": "csp_SuBaiBai",
-            "name": "🏳️┃素白┃影视",
+            "key": "潮流",
+            "name": "🏜┃潮流┃影视",
             "type": 3,
-            "api": "csp_SuBaiBai",
-            "ext": "http://subaibai.com"
+            "api": "csp_AppRJ",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
         },
         {
-            "key": "csp_Jpyy",
+            "key": "梦回",
+            "name": "🏈┃梦回┃影视",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM"
+        },
+        {
+            "key": "星辉",
+            "name": "🦢┃星辉┃影视",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
+        },
+        {
+            "key": "csp_Lgyy",
+            "name": "✨️️┃流光┃影视",
+            "type": 3,
+            "api": "csp_Lgyy"
+        },
+        {
+            "key": "csp_Jpys",
             "name": "🥇️┃金牌┃影视",
             "type": 3,
-            "api": "csp_Jpyy"
+            "api": "csp_Jpys"
         },
         {
-            "key": "csp_Nongm",
+            "key": "csp_Wwys",
             "name": "🌾️┃农民┃影视",
             "type": 3,
-            "api": "csp_Nongm",
-            "ext": "https://wwgz.cn"
+            "api": "csp_Wwys",
+            "ext": "https://www.wwgz.cn"
         },
         {
             "key": "csp_AppRZ",
@@ -96,6 +115,12 @@
             "type": 3,
             "api": "csp_AppRZ",
             "ext": "http://rzys.xyz/"
+        },
+        {
+            "key": "csp_Siren",
+            "name": "🎉️┃私人┃影城",
+            "type": 3,
+            "api": "csp_Siren"
         },
         {
             "key": "csp_XMUC",
@@ -167,7 +192,8 @@
             "key": "csp_Kanke",
             "name": "🛳️┃看客┃影视",
             "type": 3,
-            "api": "csp_Kanke"
+            "api": "csp_Kanke",
+            "ext": "http://www.guaziys.com"
         },
         {
             "key": "csp_Qiyou",
@@ -247,6 +273,12 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.czzyvideo.com"
+        },
+        {
+            "key": "csp_AppXY",
+            "name": "🎀️┃星牙┃短剧",
+            "type": 3,
+            "api": "csp_AppXY"
         },
         {
             "key": "csp_SP360",

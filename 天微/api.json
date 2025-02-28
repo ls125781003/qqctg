@@ -89,15 +89,6 @@
             "ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc/i3d/FHwReBTtZTeDEVZJbQKKez3K+OxlrjAIMdUpAUxP8fGystYn0Hss098UFVR69Qm2ARgmeZN86q8Ww=="
         },
         {
-            "key": "csp_Wwys",
-            "name": "《理想🔹影视》",
-            "type": 3,
-            "playerType": 2,
-            "changeable": 0,
-            "api": "csp_Wwys",
-            "ext": "https://www.wwgz.cn/"
-        },
-        {
             "key": "热播弹幕",
             "name": "《热播🔹弹幕》",
             "type": 3,
@@ -108,6 +99,19 @@
             "ext": {
                 "danmu": true,
                 "site": "aHR0cDovL3YucmJvdHYuY24="
+            }
+        },
+        {
+            "key": "荐片",
+            "name": "《荐片🔹官源》",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 1,
+            "ext": {
+                "danmu": true
             }
         },
         {
@@ -158,6 +162,19 @@
             "quickSearch": 1,
             "filterable": 1,
             "playerType": 2
+        },
+        {
+            "key": "小苹果弹幕版",
+            "name": "《苹果🔹秒播》",
+            "type": 3,
+            "api": "csp_Xpg",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10
         },
         {
             "key": "农民影视",
@@ -216,6 +233,31 @@
             }
         },
         {
+            "key": "二三",
+            "name": "《十三🔹秒播》",
+            "type": 3,
+            "api": "csp_Muou",
+            "playerType": 2,
+            "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+        },
+        {
+            "key": "快看",
+            "name": "《快看🔹秒播》",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "巧技",
+            "name": "《技巧🔹秒播》",
+            "type": 3,
+            "api": "csp_qiao2",
+            "playerType": 2,
+            "ext": "./txt/cksp.txt"
+        },
+        {
             "key": "糯米弹幕",
             "name": "《糯米🔹弹幕》",
             "type": 3,
@@ -226,6 +268,23 @@
             "ext": {
                 "danmu": true
             }
+        },
+        {
+            "key": "永夜",
+            "name": "《永夜🔹弹幕》",
+            "type": 3,
+            "api": "csp_Muou",
+            "playerType": 2,
+            "ext": "caHR0cDovL211b3UuNTZ1eGkuY29tfENvZmZlZTRLfDQuMS44"
+        },
+        {
+            "key": "csp_Wwys",
+            "name": "《理想🔹影视》",
+            "type": 3,
+            "playerType": 2,
+            "changeable": 0,
+            "api": "csp_Wwys",
+            "ext": "https://www.wwgz.cn/"
         },
         {
             "key": "嫖嫖嫖",
@@ -292,32 +351,6 @@
                 "大陆综艺",
                 "港台综艺"
             ]
-        },
-        {
-            "key": "荐片",
-            "name": "《荐片🔹官源》",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "小苹果弹幕版",
-            "name": "《苹果🔹秒播》",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10
         },
         {
             "key": "文才",
@@ -691,63 +724,6 @@
             }
         },
         {
-            "key": "csp_UC",
-            "name": "《小米💿UC4K》",
-            "type": 3,
-            "api": "csp_Duopan",
-            "jar": "./jars/csp_UC.jar",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://www.54271.fun/",
-                    "https://www.milvdou.fun",
-                    "http://54271.fun/",
-                    "http://milvdou.fun"
-                ],
-                "url_key": "UC",
-                "token": "",
-                "ucCookie": "",
-                "quarkCookie": "",
-                "threadinfo": {
-                    "chunksize": 400,
-                    "threads": 12
-                }
-            }
-        },
-        {
-            "key": "夸克闪电弹幕",
-            "name": "《闪电💿UC4K》",
-            "type": 3,
-            "api": "csp_Wobg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://1.95.79.193",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克木偶弹幕",
-            "name": "《木偶💿UC4K》",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "http://www.91muou.icu",
-                "danmu": true
-            }
-        },
-        {
             "key": "夸克多多弹幕",
             "name": "《多多💿DM4K》",
             "type": 3,
@@ -776,23 +752,6 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "site": "http://txfpan.top",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克欧歌弹幕",
-            "name": "讴歌💿DM4K",
-            "type": 3,
-            "api": "csp_Wobg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://woog.nxog.eu.org",
                 "danmu": true
             }
         },
