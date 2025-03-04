@@ -39,7 +39,7 @@
         },
         {
             "key": "豆瓣1",
-            "name": "📢o公告❤更新:2/25❤",
+            "name": "📢o公告❤更新:3/3❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
@@ -49,7 +49,7 @@
         },
         {
             "key": "csp_woog",
-            "name": "🐲欧歌┃4K弹幕",
+            "name": "🐲玩欧┃4K弹幕",
             "type": 3,
             "api": "csp_woog",
             "filterable": 1,
@@ -63,7 +63,7 @@
         },
         {
             "key": "玩偶|欧歌uc",
-            "name": "🐲欧歌┃u汐4K",
+            "name": "🐲玩欧┃u汐4K",
             "type": 3,
             "api": "csp_kongbai",
             "searchable": 1,
@@ -77,7 +77,7 @@
         },
         {
             "key": "csp_woog2",
-            "name": "🐲欧歌┃夸快4K",
+            "name": "🐲玩欧┃夸快4K",
             "type": 3,
             "api": "csp_woog",
             "changeable": 0,
@@ -1289,22 +1289,22 @@
         {
             "name": "-关注-",
             "type": 1,
-            "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=1&url="
+            "url": "https://2.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=1&url="
         },
         {
             "name": "-欧歌-",
             "type": 1,
-            "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=2&url="
+            "url": "https://3.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=2&url="
         },
         {
             "name": "-公众号-",
             "type": 1,
-            "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=3&url="
+            "url": "https://2.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=3&url="
         },
         {
             "name": "欧歌APP",
             "type": 1,
-            "url": "https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=8&url="
+            "url": "https://3.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=4&url="
         },
         {
             "name": "线路1",
