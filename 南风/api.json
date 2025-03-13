@@ -419,7 +419,7 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-                "siteUrl": "http://wogg.xxooo.cf/",
+                "siteUrl": "https://www.wogg.one/",
                 "filter": "./json/wogg.json"
             }
         },
