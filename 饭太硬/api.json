@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆",
-            "name": "修复所有【神秘的哥哥们】",
+            "name": "重构网盘【神秘的哥哥们】",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -23,7 +23,7 @@
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto",
-                "siteUrl": "https://www.wogg.net/",
+                "siteUrl": "https://www.wogg.one/",
                 "danMu": "弹"
             }
         },
@@ -93,17 +93,6 @@
             "changeable": 1
         },
         {
-            "key": "厂长",
-            "name": "📔厂长┃不卡",
-            "type": 3,
-            "api": "csp_NewCzGuard",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.czzyvideo.com/"
-        },
-        {
             "key": "糯米",
             "name": "🍓糯米┃秒播",
             "type": 3,
@@ -165,6 +154,17 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": "rfOX1voDIQhH8epBwtCFsqytsyyZwsnimWFjKc+jS1xHcE9fpWU7oKJ1cO9Swdt5tnqCZsFHjiJz5HEyTr51QZvCqObdFjLuH/mEy+uqVyo="
+        },
+        {
+            "key": "厂长",
+            "name": "📔厂长┃不卡",
+            "type": 3,
+            "api": "csp_NewCzGuard",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.czzyvideo.com/"
         },
         {
             "key": "比特",

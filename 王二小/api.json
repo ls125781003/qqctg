@@ -123,6 +123,14 @@
             "changeable": 1
         },
         {
+            "key": "WextexiafanGuard",
+            "name": "💓下饭┃4K💓",
+            "type": 3,
+            "api": "csp_WextexiafanGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "WexxzysGuard",
             "name": "💓校长┃4K💓",
             "type": 3,
@@ -363,6 +371,14 @@
             "name": "🍉短剧┃免费🍉",
             "type": 3,
             "api": "csp_WexduanjuvipGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Wexvipduanju",
+            "name": "🍉短剧┃综合🍉",
+            "type": 3,
+            "api": "csp_WexvipduanjuGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -699,6 +715,14 @@
             "changeable": 0
         },
         {
+            "key": "WexTJso",
+            "name": "🎠TJ┃综合🎠",
+            "type": 3,
+            "api": "csp_WexTJsoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
             "key": "Wextyso",
             "name": "🎠给力┃天逸🎠",
             "type": 3,
@@ -944,6 +968,12 @@
         "pv.vipwm.cc"
     ],
     "lives": [
+        {
+            "name": "BJTV",
+            "type": 0,
+            "url": "./lives/BJTV.txt",
+            "epg": ""
+        },
         {
             "name": "钵钵鸡(四网通用)",
             "type": 0,
