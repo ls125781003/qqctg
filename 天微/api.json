@@ -9,6 +9,12 @@
             "type": 0,
             "url": "./lives/天微MTV.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        },
+        {
+            "name": "②线路",
+            "type": 0,
+            "url": "./lives/②线路.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         }
     ],
     "sites": [
@@ -22,7 +28,7 @@
         },
         {
             "key": "影视配置",
-            "name": "影视｜配置",
+            "name": "《影视｜配置》",
             "type": 3,
             "api": "csp_Wexconfig",
             "searchable": 0,
@@ -35,12 +41,71 @@
             "jar": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/wex.jar"
         },
         {
-            "key": "config",
-            "name": "《配置┃中心》",
+            "key": "配置中心",
+            "name": "《配置｜中心》",
             "type": 3,
             "api": "csp_Config",
-            "jar": "./jars/config.jar",
-            "playerType": 2
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "我的阿里",
+            "name": "《我的｜阿里》",
+            "type": 3,
+            "api": "csp_MyAli",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "我的夸克",
+            "name": "《我的｜夸克》",
+            "type": 3,
+            "api": "csp_MyQuark",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "我的UC",
+            "name": "《我的｜UC》",
+            "type": 3,
+            "api": "csp_MyUc",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "本地",
+            "name": "《本地｜视频》",
+            "type": 3,
+            "api": "csp_LocalFile"
         },
         {
             "key": "网络直播",
@@ -127,6 +192,22 @@
             "type": 3,
             "jar": "./jars/csp_Jpys.jar",
             "api": "csp_JpysGuard"
+        },
+        {
+            "key": "起点",
+            "name": "《起点🔹秒播》",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cDovL2NhaWppLm8wYS5jbnw3MGZkNjFkOTkxZjQzMjU3fDcwZmQ2MWQ5OTFmNDMyNTd8MTAw"
+        },
+        {
+            "key": "莉莉",
+            "name": "《栗子🔹秒播》",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NDk0ODA4MDgwbGdneXNjb3w0OTQ4MDgwODBsZ2d5c2NvfDY2Ng=="
         },
         {
             "key": "机器人弹幕",
@@ -322,77 +403,6 @@
                 "from": "4k|auto",
                 "siteUrl": "https://www.wogg.net/",
                 "danMu": "弹"
-            }
-        },
-        {
-            "key": "csp_FeiMaoUC",
-            "name": "《闪电💿UC盘4K》",
-            "type": 3,
-            "api": "csp_Duopan",
-            "jar": "./jars/config.jar",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://1.95.79.193/"
-                ],
-                "url_key": "FeiMaoUC"
-            }
-        },
-        {
-            "key": "csp_XMUC",
-            "name": "《小米💿UC盘4K》",
-            "type": 3,
-            "api": "csp_Duopan",
-            "jar": "./jars/config.jar",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://www.mucpan.cc",
-                    "https://milvdou.fun",
-                    "https://54271.fun"
-                ],
-                "url_key": "XMUC"
-            }
-        },
-        {
-            "key": "csp_Duopan",
-            "name": "《蜡笔💿网盘4K》",
-            "type": 3,
-            "api": "csp_Duopan",
-            "jar": "./jars/config.jar",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "https://feimao666.fun",
-                    "http://feimao888.fun",
-                    "http://feimaoai.site",
-                    "http://www.labi88.sbs"
-                ],
-                "url_key": "Duopan2"
-            }
-        },
-        {
-            "key": "csp_Netfixtv",
-            "name": "《至臻💿网盘4K》",
-            "type": 3,
-            "api": "csp_Duopan",
-            "jar": "./jars/config.jar",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://xiaomi666.fun",
-                    "https://xiaomiai.site",
-                    "http://www.miqk.cc",
-                    "https://mihdr.top"
-                ],
-                "url_key": "Netfixtv2",
-                "token": "",
-                "ucCookie": "",
-                "quarkCookie": "",
-                "threadinfo": {
-                    "chunksize": 450,
-                    "threads": 10
-                }
             }
         },
         {
