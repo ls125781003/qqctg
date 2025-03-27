@@ -268,24 +268,11 @@
             }
         },
         {
-            "key": "csp_BookTing",
-            "name": "📚┃听书┃音频",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_BookTing",
-            "searchable": 0,
-            "ext": "https://m.ting275.com",
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            }
-        },
-        {
             "key": "csp_YouShengBook",
-            "name": "📚┃有声┃小说",
+            "name": "📚┃六月┃听书",
             "type": 3,
             "playerType": "2",
-            "api": "csp_LaoBaiBook",
+            "api": "csp_TingBook",
             "searchable": 0,
             "style": {
                 "type": "rect",
