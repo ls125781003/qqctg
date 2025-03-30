@@ -2,12 +2,12 @@
     "wallpaper": "https://xn--dkw0c.v.nxog.top/m//t/",
     "logo": "https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
     "spider": "./spider.jar",
-    "warningText": "【公众号欧歌APP网络收集】测试完请删除,请勿贩卖提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
+    "warningText": "【公众号欧歌APP网络收集】接口即将关闭,请勿演示提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
     "lives": [
         {
-            "name": "【公众号欧歌APP网络收集】测试完请删除,请勿贩卖",
+            "name": "【公众号欧歌APP网络收集】接口即将关闭,请勿演示",
             "type": 0,
-            "url": "./lives/【公众号欧歌APP网络收集】测试完请删除,请勿贩卖.txt",
+            "url": "./lives/【公众号欧歌APP网络收集】接口即将关闭,请勿演示.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
         },
         {
@@ -32,50 +32,64 @@
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "📢【公众号欧歌APP网络收集】测试完请删除,请勿贩卖",
+            "name": "📢【公众号欧歌APP网络收集】接口即将关闭,请勿演示",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "豆瓣1",
-            "name": "📢【公众号欧歌APP网络收集】测试完请删除,请勿贩卖公告❤更新:3/26❤",
+            "name": "📢【公众号欧歌APP网络收集】接口即将关闭,请勿演示公告❤更新:3/28❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
             "changeable": 0,
             "jar": "./jars/豆瓣1.jar",
-            "ext": "https://欧歌.yy.nxog.top/公告.php?b=【公众号欧歌APP网络收集】测试完请删除,请勿贩卖"
+            "ext": "https://欧歌.yy.nxog.top/公告.php?b=【公众号欧歌APP网络收集】接口即将关闭,请勿演示"
         },
         {
-            "key": "欧歌弹幕",
+            "key": "csp_Netfixtv",
             "name": "🐲玩欧｜4K弹幕",
             "type": 3,
-            "api": "csp_og",
-            "quickSearch": 1,
-            "changeable": 1,
+            "changeable": "0",
+            "api": "csp_DuopanGuard",
             "filterable": 1,
+            "jar": "./jars/csp_Netfixtv.jar",
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "danmu": true
+                "site_urls": [
+                    "https://woog.nxog.eu.org",
+                    "https://woog.xn--dkw.xn--6qq986b3xl"
+                ],
+                "url_key": "Netfixtv",
+                "threadinfo": {
+                    "chunksize": 400,
+                    "threads": 12
+                }
             }
         },
         {
-            "key": "欧歌uc",
-            "name": "🐲玩欧｜u汐弹幕",
+            "key": "csp_UC",
+            "name": "🐲玩欧｜UC弹幕",
             "type": 3,
-            "api": "csp_oguc",
-            "quickSearch": 1,
-            "changeable": 1,
+            "changeable": "0",
+            "api": "csp_DuopanGuard",
             "filterable": 1,
+            "jar": "./jars/csp_Netfixtv.jar",
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "danmu": true
+                "site_urls": [
+                    "https://wooguc.nxog.eu.org",
+                    "https://oguc.xn--dkw.xn--6qq986b3xl"
+                ],
+                "url_key": "UC"
             }
+        },
+        {
+            "key": "config",
+            "name": "🐲玩欧┃配置中心 ",
+            "type": 3,
+            "jar": "./jars/config.jar",
+            "api": "csp_Config",
+            "searchable": 0
         },
         {
             "key": "csp_woog2",
@@ -269,13 +283,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "预告",
-            "name": "💡新片｜预告",
-            "type": 3,
-            "api": "csp_YGP",
-            "searchable": 0
         },
         {
             "key": "猎手影视",
@@ -1177,7 +1184,7 @@
         },
         {
             "key": "夸克多多弹幕",
-            "name": "❤多多｜4K弹幕",
+            "name": "❤UC｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -1187,13 +1194,13 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://duoduo.banye.tech:7086",
+                "site": "https://wooguc.nxog.eu.org",
                 "danmu": true
             }
         },
         {
             "key": "夸克蜡笔弹幕",
-            "name": "❤蜡笔｜4K弹幕",
+            "name": "❤欧歌｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
@@ -1203,7 +1210,7 @@
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-                "site": "https://labi.banye.tech:7086",
+                "site": "https://woog.nxog.eu.org",
                 "danmu": true
             }
         },
