@@ -1,11 +1,11 @@
 {
     "spider": "./spider.jar",
-    "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/moyu.php",
+    "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/",
     "logo": "https://s1.imagehub.cc/images/2024/06/11/80538bfb3835ffebf7c5fd0716280801.jpeg",
     "sites": [
         {
             "key": "豆豆",
-            "name": "🤙备用公众号【全是气氛组】",
+            "name": "♨️网盘升级┃全速启动",
             "type": 3,
             "api": "csp_DouDouGuard",
             "searchable": 0,
@@ -37,7 +37,7 @@
         },
         {
             "key": "玩偶",
-            "name": "🌚玩偶智能┃4K弹幕",
+            "name": "♨️玩偶智能┃4K弹幕",
             "type": 3,
             "api": "csp_WoGGGuard",
             "searchable": 1,
@@ -52,7 +52,7 @@
         },
         {
             "key": "WoggV2",
-            "name": "🌚玩偶超速┃4K弹幕",
+            "name": "♨️玩偶超速┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
             "jar": "./jars/config.jar",
@@ -184,6 +184,21 @@
             "ext": "./json/pan1.json?moyuer"
         },
         {
+            "key": "baidu_qu",
+            "name": "🥳百度趣盘┃4K纯净",
+            "type": 3,
+            "api": "csp_PanWebQu",
+            "jar": "./jars/config.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKhwqXDqcOUw6jDrMOiwphewpPCn8OmwprCpsKZwqHCp8KZwqBXwrPCk8Khw5Tlh7/phJvmj5XlkJNc5Yel5L6K5ZGxwrPlv6vop7notbTmu4DnrInDlsKawqbCmcKhwpfClcKTwqLDssOjw67DhMOfwqxXalDCoMOqw6/DssOjaWZmV8O2"
+        },
+        {
             "key": "alllive",
             "name": "📽️星河共影┃2K直播",
             "type": 3,
@@ -217,7 +232,7 @@
         },
         {
             "key": "nm",
-            "name": "🌾农名┃蓝光┃无广",
+            "name": "🌼农民┃蓝光┃纯净",
             "type": 3,
             "api": "csp_WebNM",
             "jar": "./jars/config.jar",
@@ -266,17 +281,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw5rDqsKjwpPCncKjwqfDmcOsw57Dn8KbwpRewqbDosOjwqHCpcKaWnvClcKpwqDCrcKawqDDnMKYZWNkwrHDl8Ogw5vCqsKWY8KTYsKxwqbCocKlwppaecKmV8KzwpPCocKuw6BoZGRpw53Dl8Krwq3CrWRjYmHCsMKawqbCmcKhdcKRwp7Cm8OHw5TDsMKgwrRTV+ecpOaTncKgwp/CmsKgw4rClMKiwqPClcOOw6XDpsKgwrRTV8KYwqTDrcOjw63Cs8KpYsKRwqDCoMOvwqTCqMOfw6zCmMKVwpjClMKnw6nDo8OpwqnCncKjwp/CnsKnw6PDosOpwrnCqMKiwpxtwqDCn8KawqDCvsKUwp59wqXDjsOlw6bCoMK0U1fCmMKkw63Do8OtwrPCqWLClMKdXsOvw5zDnsOzwqjClMKjwpnCkcKow5fDp8Okw69ib8KRwpPCtsOXw6fCn8OuwqLCm8KVwp7CtsOEw4PDhcK8dnh6dsOMwr/DkcOPw4B4e8KCVsOuw6XDpsK2wqFfUFfClMOew5bDrMOyw6rCp3vClcKpwqDCrcKawqDDscKowqnCmWbCr8KpwqHDtg=="
-        },
-        {
-            "key": "AppGZ",
-            "name": "🍉瓜子┃应用┃无广",
-            "type": 3,
-            "api": "csp_AppGZ",
-            "jar": "./jars/config.jar",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw5rDqsKcXmnCk8Oew5bCscKyw55hwpPCn8KdwqDCn8KawqDDrsKcwqBXasKZwprDleWHvumFouaPmOWQk1zlhpzkvpDlkarCtOW/quipgOi1t+a7gOesicKNwqDCn8KawqDDnsKYwpPCosKpw6nDp8OFw57Ds1pqUFfDsMOow7PDosKwaWZXwq0="
         },
         {
             "key": "guazi",
@@ -571,6 +575,44 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.tvkuys.xyz/api.php/app/"
+        },
+        {
+            "key": "五五影视",
+            "name": "😭呜呜┃蓝光┃无广",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jars/config.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=55"
+        },
+        {
+            "key": "二三",
+            "name": "🍧二三┃蓝光┃纯净",
+            "jar": "./jars/config.jar",
+            "type": 3,
+            "api": "csp_Muou",
+            "playerType": 2,
+            "ext": "caHR0cHM6Ly8xMjN5c3cuY29tfDIz5b2x6KeGfDQuMS44"
+        },
+        {
+            "key": "洽洽影视",
+            "name": "🍆洽洽┃蓝光┃纯净",
+            "type": 3,
+            "api": "csp_AppGZ",
+            "jar": "./jars/config.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "面包影视",
+            "name": "🍞面包┃蓝光┃无广",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jars/config.jar",
+            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=面包"
         },
         {
             "key": "央视经典",
@@ -890,21 +932,6 @@
                 "ratio": 1.433
             },
             "ext": "https://tuxiaobei.com"
-        },
-        {
-            "key": "baidu_qu",
-            "name": "🥳趣盘搜索┃4K纯净",
-            "type": 3,
-            "api": "csp_PanWebQu",
-            "jar": "./jars/config.jar",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKhwqXDqcOUw6jDrMOiwphewpPCn8OmwprCpsKZwqHCp8KZwqBXwrPCk8Khw5Tlh7/phJvmj5XlkJNc5Yel5L6K5ZGxwrPlv6vop7notbTmu4DnrInDlsKawqbCmcKhwpfClcKTwqLDssOjw67DhMOfwqxXalDCoMOqw6/DssOjaWZmV8O2"
         },
         {
             "key": "searchEx",
