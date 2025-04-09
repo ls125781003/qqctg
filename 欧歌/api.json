@@ -4,9 +4,9 @@
     "spider": "./spider.jar",
     "lives": [
         {
-            "name": "【公众号欧歌APP网络收集】请勿演示贩卖,即将关闭",
+            "name": "【公众号欧歌APP网络收集】接口即将关闭,请勿演示",
             "type": 0,
-            "url": "./lives/【公众号欧歌APP网络收集】请勿演示贩卖,即将关闭.txt",
+            "url": "./lives/【公众号欧歌APP网络收集】接口即将关闭,请勿演示.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
         },
         {
@@ -31,20 +31,20 @@
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "📢【公众号欧歌APP网络收集】请勿演示贩卖,即将关闭",
+            "name": "📢【公众号欧歌APP网络收集】接口即将关闭,请勿演示",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "豆瓣1",
-            "name": "📢【公众号欧歌APP网络收集】请勿演示贩卖,即将关闭公告❤更新:4/6❤",
+            "name": "📢【公众号欧歌APP网络收集】接口即将关闭,请勿演示公告❤更新:4/8❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
             "changeable": 0,
             "jar": "./jars/豆瓣1.jar",
-            "ext": "https://欧歌.yy.nxog.top/公告.php?b=【公众号欧歌APP网络收集】请勿演示贩卖,即将关闭"
+            "ext": "https://欧歌.yy.nxog.top/公告.php?b=【公众号欧歌APP网络收集】接口即将关闭,请勿演示"
         },
         {
             "key": "csp_Netfixtv",
