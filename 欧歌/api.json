@@ -4,9 +4,9 @@
     "spider": "./spider.jar",
     "lives": [
         {
-            "name": "【公众号欧歌APP网络收集】接口即将关闭,请勿演示",
+            "name": "【公众号欧歌APP网络收集】如有收费,直接找退款",
             "type": 0,
-            "url": "./lives/【公众号欧歌APP网络收集】接口即将关闭,请勿演示.txt",
+            "url": "./lives/【公众号欧歌APP网络收集】如有收费,直接找退款.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
         },
         {
@@ -31,63 +31,20 @@
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "📢【公众号欧歌APP网络收集】接口即将关闭,请勿演示",
+            "name": "📢【公众号欧歌APP网络收集】如有收费,直接找退款",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "豆瓣1",
-            "name": "📢【公众号欧歌APP网络收集】接口即将关闭,请勿演示公告❤更新:4/8❤",
+            "name": "📢【公众号欧歌APP网络收集】如有收费,直接找退款公告❤更新:4/10❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
             "changeable": 0,
             "jar": "./jars/豆瓣1.jar",
-            "ext": "https://欧歌.yy.nxog.top/公告.php?b=【公众号欧歌APP网络收集】接口即将关闭,请勿演示"
-        },
-        {
-            "key": "csp_Netfixtv",
-            "name": "🐲玩欧｜4K弹幕",
-            "type": 3,
-            "changeable": "0",
-            "api": "csp_DuopanGuard",
-            "filterable": 1,
-            "jar": "./jars/csp_Netfixtv.jar",
-            "ext": {
-                "site_urls": [
-                    "https://woog.nxog.eu.org",
-                    "https://woog.xn--dkw.xn--6qq986b3xl"
-                ],
-                "url_key": "Netfixtv"
-            }
-        },
-        {
-            "key": "csp_UC",
-            "name": "🐲玩欧｜UC弹幕",
-            "type": 3,
-            "changeable": "0",
-            "api": "csp_DuopanGuard",
-            "filterable": 1,
-            "jar": "./jars/csp_Netfixtv.jar",
-            "ext": {
-                "site_urls": [
-                    "https://wooguc.nxog.eu.org",
-                    "https://oguc.xn--dkw.xn--6qq986b3xl"
-                ],
-                "url_key": "UC"
-            }
-        },
-        {
-            "key": "欧KK",
-            "name": "🐲夸快｜非会员4k",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/ogkk.json?"
+            "ext": "https://欧歌.yy.nxog.top/公告.php?b=【公众号欧歌APP网络收集】如有收费,直接找退款"
         },
         {
             "key": "config",
@@ -111,20 +68,39 @@
             }
         },
         {
+            "key": "csp_Netfixtv",
+            "name": "🐲玩欧｜4K弹幕",
+            "type": 3,
+            "changeable": "0",
+            "api": "csp_DuopanGuard",
+            "filterable": 1,
+            "jar": "./jars/csp_Netfixtv.jar",
+            "ext": {
+                "site_urls": [
+                    "https://woog.nxog.eu.org",
+                    "https://woog.xn--dkw.xn--6qq986b3xl"
+                ],
+                "url_key": "Netfixtv"
+            }
+        },
+        {
+            "key": "欧哥",
+            "name": "❤欧歌｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./json/og.json?"
+        },
+        {
             "key": "荐片",
             "name": "💡荐片｜影视",
             "api": "csp_Jianpian",
             "type": 3,
             "playerType": 1,
             "ext": "http://api2.rinhome.com"
-        },
-        {
-            "key": "巧技",
-            "name": "💡巧巧｜影视",
-            "type": 3,
-            "api": "csp_qiao2",
-            "playerType": 2,
-            "ext": "./txt/cksp.txt"
         },
         {
             "key": "移动",
@@ -963,151 +939,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
-        },
-        {
-            "key": "欧哥",
-            "name": "❤欧歌｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/og.json?"
-        },
-        {
-            "key": "欧uc",
-            "name": "❤欧歌｜uc4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/og2.json?"
-        },
-        {
-            "key": "木偶",
-            "name": "❤木偶｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/mogg.json?"
-        },
-        {
-            "key": "蜡笔",
-            "name": "❤蜡笔｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/lb.json?"
-        },
-        {
-            "key": "小米",
-            "name": "❤小米｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/xm.json?"
-        },
-        {
-            "key": "至臻",
-            "name": "❤至臻｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/zz.json?"
-        },
-        {
-            "key": "多多",
-            "name": "❤多多｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/yyds.json?"
-        },
-        {
-            "key": "二小",
-            "name": "❤二小｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/ex.json?"
-        },
-        {
-            "key": "概念",
-            "name": "❤海绵｜4K",
-            "type": 3,
-            "api": "csp_PanWebShareCloudHM",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": "./json/hm.json?"
-        },
-        {
-            "key": "Pan1",
-            "name": "❤Pan1｜4K",
-            "type": 3,
-            "api": "csp_PanWebShareCloudHM",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": "./json/pan1.json?"
-        },
-        {
-            "key": "趣盘",
-            "name": "❤趣盘｜4K",
-            "type": 3,
-            "api": "csp_PanWebQu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "w7TCmsONw6LDrsKYwoXCosKcwqDCrcKawqDDosKnwqTCoMKjwrPCosKpw7DDscKqXsKhwqXDqcOUw6jDrMOiwphewpPCn8OmwprCpsKZwqHCp8KZwqBXwrPCk8Khw5Tlh7/phJvmj5XlkJNc5Yel5L6K5ZGxwrPlv6vop7notbTmu4DnrInDlsKawqbCmcKhwpfClcKTwqLDssOjw67DhMOfwqxXalDCoMOqw6/DssOjaWZmV8O2"
-        },
-        {
-            "key": "聚搜",
-            "name": "❤聚搜｜4K",
-            "type": 3,
-            "api": "csp_PanWebSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/aliyunpansearch.json"
         },
         {
             "key": "阿里云盘",
