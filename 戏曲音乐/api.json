@@ -4,6 +4,17 @@
     "logo": "http://php.540734621.xyz/logo/logo.php",
     "sites": [
         {
+            "key": "本地包更新",
+            "name": "💞本地包｜0422",
+            "type": 3,
+            "api": "csp_Market",
+            "jar": "http://127.0.0.1:9978/file/tvboxqq/潇洒/spider.jar",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "ext": "http://bd.qiqiv.cn/666.json"
+        },
+        {
             "key": "戏 曲",
             "name": "🎈国粹戏曲",
             "type": 3,
