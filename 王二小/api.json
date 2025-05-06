@@ -83,6 +83,15 @@
             "timeout": 120
         },
         {
+            "key": "WexTuanZhangGuard",
+            "name": "💓团长┃4K💓",
+            "type": 3,
+            "api": "csp_WexTuanZhangGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 120
+        },
+        {
             "key": "Wexmuougg",
             "name": "💓木偶┃4K💓",
             "type": 3,
@@ -131,6 +140,14 @@
             "changeable": 1
         },
         {
+            "key": "WexbaijiaGuard",
+            "name": "💓百家┃4K💓",
+            "type": 3,
+            "api": "csp_WexbaijiaGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "趣盘",
             "name": "💓‍趣盘┃4K💓‍",
             "type": 3,
@@ -170,6 +187,14 @@
             "name": "💓‍海绵┃4K💓‍",
             "type": 3,
             "api": "csp_WexTYhaimianGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "夸父",
+            "name": "💓‍夸父┃4K💓‍",
+            "type": 3,
+            "api": "csp_WexQKkuafuGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -430,14 +455,6 @@
             "name": "🎃‍白兔┃听书🎃",
             "type": 3,
             "api": "csp_WexlaobaitingshuGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wex6yuetingshuGuard",
-            "name": "🎃‍六月┃听书🎃",
-            "type": 3,
-            "api": "csp_Wex6yuetingshuGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -740,17 +757,6 @@
             "name": "🌐926┃体育🌐",
             "type": 3,
             "api": "csp_Wex926kanqiuGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "1直播",
-            "name": "🌐一直┃体育🌐",
-            "type": 3,
-            "api": "csp_Wexzhibo1Guard",
             "searchable": 1,
             "changeable": 0,
             "style": {
