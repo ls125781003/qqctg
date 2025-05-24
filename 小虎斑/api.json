@@ -43,6 +43,13 @@
             "api": "csp_HBset"
         },
         {
+            "key": "养生",
+            "name": "养生|京诚",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/养生.js"
+        },
+        {
             "key": "网盘虎斑",
             "name": "推弹|虎斑",
             "type": 3,

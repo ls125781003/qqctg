@@ -186,6 +186,30 @@
             }
         },
         {
+            "key": "影视大全",
+            "name": "🎞影视大全",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.iysdq.cc/vodshow/{cateId}-{area}-------{catePg}---.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
+            }
+        },
+        {
+            "key": "百思派",
+            "name": "💯百思派",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "ext": {
+                "分类url": "https://www.bestpipe.cn/vodshow/{cateId}-{area}-------{catePg}---.html",
+                "分类": "电影$20#剧集$21#短剧$24#综艺$23#动漫$22"
+            }
+        },
+        {
             "key": "csp_Czsapp",
             "name": "🏭厂长",
             "type": 3,
@@ -581,32 +605,6 @@
             }
         },
         {
-            "key": "百家",
-            "name": "💯百家",
-            "type": 3,
-            "api": "csp_kongbai",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "commonConfig": "./json/peizhi.json",
-                "siteUrl": "http://cj.jiexi.news",
-                "filter": "./json/wogg.json"
-            }
-        },
-        {
-            "key": "清影",
-            "name": "🥛清影",
-            "type": 3,
-            "api": "csp_kongbai",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "commonConfig": "./json/peizhi.json",
-                "siteUrl": "https://revohd.com/",
-                "filter": "./json/wogg.json"
-            }
-        },
-        {
             "key": "闪电",
             "name": "⚡闪电",
             "type": 3,
@@ -641,18 +639,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf",
-                "commonConfig": "./json/peizhi.json"
-            }
-        },
-        {
-            "key": "纸条搜",
-            "name": "📜小纸条",
-            "type": 3,
-            "api": "csp_XiaoZhiTiao",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
+                "cookie": "satoken=f20ef191-ff19-4708-943d-90afda0e942c",
                 "commonConfig": "./json/peizhi.json"
             }
         },
