@@ -1,6 +1,6 @@
 {
     "spider": "./spider.jar",
-    "wallpaper": "http://我不是.摸鱼儿.top/wallpaper/",
+    "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/",
     "logo": "https://s1.imagehub.cc/images/2024/06/11/80538bfb3835ffebf7c5fd0716280801.jpeg",
     "sites": [
         {
@@ -35,6 +35,13 @@
             }
         },
         {
+            "key": "huban",
+            "name": "🚀虎斑┃弹幕┃小窗",
+            "type": 3,
+            "jar": "./jars/huban.jar",
+            "api": "csp_Huban"
+        },
+        {
             "key": "玩偶",
             "name": "♨️玩偶智能┃4K弹幕",
             "type": 3,
@@ -47,6 +54,21 @@
                 "from": "4k|auto",
                 "siteUrl": "https://www.wogg.one/",
                 "danMu": "弹"
+            }
+        },
+        {
+            "key": "烟雨笙歌",
+            "name": "♨️烟雨笙歌┃4K弹幕",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "jar": "./jars/config.jar",
+            "ext": {
+                "url": "https://qjappcms.ll4k.xyz",
+                "dataKey": "1yGA85sJ5STtE7uj",
+                "dataIv": "1yGA85sJ5STtE7uj",
+                "deviceId": "",
+                "version": "50000"
             }
         },
         {
@@ -71,6 +93,13 @@
             "api": "csp_YD",
             "searchable": 1,
             "quickSearch": 1
+        },
+        {
+            "key": "夕晨踏雪",
+            "name": "♨️夕晨踏雪┃4K弹幕",
+            "jar": "./jars/config.jar",
+            "type": 3,
+            "api": "csp_SP360"
         },
         {
             "key": "MoggV2",
@@ -245,6 +274,51 @@
             }
         },
         {
+            "key": "橘猫",
+            "name": "😸橘猫┃蓝光┃弹幕",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "jar": "./jars/config.jar",
+            "ext": {
+                "url": "https://qjappcms.jm4k.top",
+                "dataKey": "pBVmysmGX8TsgrQN",
+                "dataIv": "pBVmysmGX8TsgrQN",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+        {
+            "key": "雄鹰",
+            "name": "🦅雄鹰┃蓝光┃弹幕",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "jar": "./jars/config.jar",
+            "ext": {
+                "url": "http://122.228.193.2:9988",
+                "dataKey": "ca94b06ca359d80e",
+                "dataIv": "ca94b06ca359d80e",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+        {
+            "key": "剧咖",
+            "name": "🤎剧咖┃蓝光┃无广",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar": "./jars/config.jar",
+            "ext": {
+                "url": "https://ys.xiaoqi0.cn",
+                "dataKey": "jukayingshi88888",
+                "dataIv": "jukayingshi88888",
+                "deviceId": "20d9b2c01d130342a99fdc8d693bfc0cd",
+                "version": "112"
+            }
+        },
+        {
             "key": "咖啡",
             "name": "☕️咖啡┃蓝光┃弹幕",
             "type": 3,
@@ -360,21 +434,6 @@
             }
         },
         {
-            "key": "剧咖",
-            "name": "🤎剧咖┃蓝光┃无广",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "jar": "./jars/config.jar",
-            "ext": {
-                "url": "https://ys.xiaoqi0.cn",
-                "dataKey": "jukayingshi88888",
-                "dataIv": "jukayingshi88888",
-                "deviceId": "20d9b2c01d130342a99fdc8d693bfc0cd",
-                "version": "112"
-            }
-        },
-        {
             "key": "雨滴",
             "name": "⛱️雨滴┃蓝光┃无广",
             "type": 3,
@@ -409,14 +468,14 @@
             "name": "🌀沐风┃蓝光┃无广",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=664k"
+            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=664k"
         },
         {
             "key": "4Kdy",
             "name": "🕊️凝安┃蓝光┃无广",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=4kdy"
+            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=4kdy"
         },
         {
             "key": "nk",
@@ -706,7 +765,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=55"
+            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=55"
         },
         {
             "key": "雨滴",
@@ -751,7 +810,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jars/config.jar",
-            "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=面包"
+            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=面包"
         },
         {
             "key": "三六零弹幕",
@@ -768,7 +827,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=央视经典"
+            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=央视经典"
         },
         {
             "key": "cctv",
@@ -812,7 +871,7 @@
             "name": "🌸樱花┃动漫┃樱花",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=樱花"
+            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=樱花"
         },
         {
             "key": "mb",
@@ -969,7 +1028,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "http://我不是.摸鱼儿.top/api/moyu.php?file=哔哩合集"
+                "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=哔哩合集"
             }
         },
         {
@@ -985,7 +1044,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "http://我不是.摸鱼儿.top/api/moyu.php?file=mtv"
+                "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=mtv"
             }
         },
         {
@@ -1015,7 +1074,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "http://我不是.摸鱼儿.top/api/moyu.php?file=少儿教育"
+                "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=少儿教育"
             }
         },
         {
@@ -1031,7 +1090,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "http://我不是.摸鱼儿.top/api/moyu.php?file=小学教育"
+                "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=小学教育"
             }
         },
         {
@@ -1047,7 +1106,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "http://我不是.摸鱼儿.top/api/moyu.php?file=初中课堂"
+                "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=初中课堂"
             }
         },
         {
@@ -1063,7 +1122,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "http://我不是.摸鱼儿.top/api/moyu.php?file=高中课堂"
+                "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=高中课堂"
             }
         },
         {
@@ -1524,8 +1583,7 @@
         {
             "name": "全是气氛组",
             "type": 0,
-            "url": "",
-            "epg": ""
+            "ua": "okhttp/3.15"
         }
     ],
     "flags": [
