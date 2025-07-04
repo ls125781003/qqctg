@@ -51,7 +51,8 @@
                     "http://feimaoai.site",
                     "http://www.labi88.sbs",
                     "http://fmao.site",
-                    "https://fmao.shop"
+                    "https://fmao.shop",
+                    "http://xiaocge.fun"
                 ],
                 "threadinfo": {
                     "chunksize": 512,
@@ -241,8 +242,7 @@
             "name": "🎬┃荐片┃影视",
             "api": "csp_Jianpian",
             "type": 3,
-            "playerType": "2",
-            "ext": "http://api2.rinhome.com"
+            "playerType": "2"
         },
         {
             "key": "csp_Quanwk",

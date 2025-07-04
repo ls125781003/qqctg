@@ -4,9 +4,9 @@
     "spider": "./spider.jar",
     "lives": [
         {
-            "name": "公众号【欧歌APP】仅供测试安装24小时后删除！.",
+            "name": "公众号【光歌软件分享】严谨用于任何商业用途！",
             "type": 0,
-            "url": "./lives/公众号【欧歌APP】仅供测试安装24小时后删除！..txt",
+            "url": "./lives/公众号【光歌软件分享】严谨用于任何商业用途！.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
         },
         {
@@ -19,20 +19,20 @@
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "📢公众号【欧歌APP】仅供测试安装24小时后删除！.",
+            "name": "📢公众号【光歌软件分享】严谨用于任何商业用途！",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "豆瓣1",
-            "name": "📢公众号【欧歌APP】仅供测试安装24小时后删除！.公告❤更新:7/1❤",
+            "name": "📢公众号【光歌软件分享】严谨用于任何商业用途！公告❤更新:7/3❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
             "changeable": 0,
             "jar": "./jars/豆瓣1.jar",
-            "ext": "https://xn--dkw0c.v.nxog.top/m/公告.php?b=公众号【欧歌APP】仅供测试安装24小时后删除！."
+            "ext": "https://xn--dkw0c.v.nxog.top/m/公告.php?b=公众号【光歌软件分享】严谨用于任何商业用途！"
         },
         {
             "key": "csp_woog",
@@ -51,7 +51,7 @@
                 ],
                 "url_key": "woog",
                 "threadinfo": {
-                    "chunksize": 224,
+                    "chunksize": 269,
                     "threads": 16
                 }
             }
@@ -80,7 +80,7 @@
                 ],
                 "url_key": "UC",
                 "threadinfo": {
-                    "chunksize": 234,
+                    "chunksize": 251,
                     "threads": 60
                 }
             }
@@ -111,7 +111,7 @@
                 ],
                 "url_key": "woog2",
                 "threadinfo": {
-                    "chunksize": 259,
+                    "chunksize": 210,
                     "threads": 16
                 }
             }
@@ -142,7 +142,7 @@
             "name": "🐢采集┃搜索",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "ext": "./js/CJZW.js?type=url&params=./json/CJJT.json$1$1"
+            "ext": "./js/采集之王.js?type=url&params=./json/采集静态.json$1$1"
         },
         {
             "key": "荐片",
@@ -158,7 +158,7 @@
             "type": 3,
             "api": "csp_YDjisu",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1
         },
         {
             "key": "热播影视",
@@ -259,7 +259,7 @@
         },
         {
             "key": "三六零",
-            "name": "💡三六零｜视频",
+            "name": "💡三六｜视频",
             "type": 3,
             "api": "csp_SP360"
         },
@@ -308,6 +308,12 @@
             "ext": "https://wwgz.cn/"
         },
         {
+            "key": "鸭梨影视",
+            "name": "💡鸭梨｜影视",
+            "type": 3,
+            "api": "csp_KmeiJu"
+        },
+        {
             "key": "huomaoys",
             "name": "💡火猫｜影视",
             "type": 3,
@@ -324,18 +330,6 @@
             "jar": "./jars/巧技.jar",
             "playerType": 2,
             "ext": "7lj763gg402i79425i3l85i6h848i295l5hiji5l828g3l3jjhg6kg7410lhjkqiaojij3ig1lg475178k7h0il4ig3h753h7hi516758699jh2g5h433li30gk11g73l90312h4g7"
-        },
-        {
-            "key": "行动",
-            "name": "👑行动｜弹幕",
-            "type": 3,
-            "api": "csp_AppSy",
-            "ext": {
-                "url": "http://160.202.246.9:2356",
-                "key1": "aassddwwxxllsx1x",
-                "key2": "aassddwwxxllsx1x",
-                "key3": "aassddwwxxllsx1x"
-            }
         },
         {
             "key": "斗量",
@@ -401,20 +395,6 @@
                 "dataIv": "ebad3f1a58b13933",
                 "deviceId": "",
                 "version": ""
-            }
-        },
-        {
-            "key": "米兔",
-            "name": "👑米兔｜弹幕",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://v.tkbot.fun",
-                "dataKey": "d032c12876bc6848",
-                "dataIv": "d032c12876bc6848",
-                "deviceId": "",
-                "version": "200"
             }
         },
         {
@@ -539,6 +519,20 @@
                 "dataKey": "25f9e794323b4538",
                 "dataIv": "25f9e794323b4538",
                 "jxurl": "https://ap.dxgsp.cc"
+            }
+        },
+        {
+            "key": "蓝鹰",
+            "name": "👑蓝鹰｜弹幕",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "http://172.247.192.138:18520",
+                "dataKey": "SuNlEkOLAoWJj1Oe",
+                "dataIv": "SuNlEkOLAoWJj1Oe",
+                "deviceId": "",
+                "version": ""
             }
         },
         {
