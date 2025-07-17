@@ -166,7 +166,7 @@
         },
         {
             "key": "csp_nongmin",
-            "name": "💯农民┃影视",
+            "name": "💯农民┃明天修",
             "type": 3,
             "api": "csp_Wwys",
             "searchable": 1,
@@ -193,6 +193,15 @@
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X"
         },
         {
+            "key": "麻花",
+            "name": "🌸麻花┃影视",
+            "type": 3,
+            "quickSearch": 1,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzesNDM87sUul1Ii8NbP2XB5"
+        },
+        {
             "key": "QD4K",
             "name": "🐷猪猪┃影视",
             "type": 3,
@@ -209,7 +218,25 @@
             "quickSearch": 1,
             "searchable": 1,
             "api": "csp_AppGet",
-            "ext": "Koog6uPyOjHNZh8eY8CgUL+XGp1zR8d/K2NE9Ls6xomS8zNeZA6OEFwcZ27Zy0ZH9i0JczXR1zmcv9qIihz837BdnQrvJfE8QEyUmS3qKxs="
+            "ext": "uOx4WoHPKe5LbDsNX+u7yPZ/33148sHvWON6kZmflkJm9N9mwXRjT6S/UJau4nVckbCH+h6lvztfl/Ag6BM8Ng=="
+        },
+        {
+            "key": "顾我",
+            "name": "🎫顾我┃影视",
+            "type": 3,
+            "quickSearch": 1,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": "anMxhJnIDc1c2tyG/e37xUzar6eMUg8rOlemrnxifa3xApTYq401x7vVwbCRPlgADD7zoKQvVffdAwprrKeNlQ=="
+        },
+        {
+            "key": "大豆",
+            "name": "✅大豆┃影视",
+            "type": 3,
+            "quickSearch": 1,
+            "searchable": 1,
+            "api": "csp_AppGet",
+            "ext": "Qrf5S6Si5oF7dQyuv+Srh3uh0lT3z1Y7u59ip9hRVeUKFHSUUbLyGMREENFjE1N9FXjZ6Z7tiLWs6P15Ol/g5Po80zDNWJPEEoj/nv3Yelo="
         },
         {
             "key": "海豚",
@@ -230,23 +257,6 @@
             "playerType": 2,
             "jar": "./jars/巧技.jar",
             "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
-        },
-        {
-            "key": "追忆5",
-            "name": "💭追忆┃影视",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "csp_AppSy",
-            "playerType": 2,
-            "ext": "9rfWRaAx60J+W5F+j6agt6AHU3NkRl7m8WqfWIBU/MebSZgzY2wnsXwmAIMEYVqMzsnqr46bOn1q4JV/UJAKUVF6NUo2Xg8qcHgXrA63RWM="
-        },
-        {
-            "key": "幕启",
-            "name": "🌉幕启┃影视",
-            "type": 3,
-            "api": "csp_AppSy",
-            "ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE="
         },
         {
             "key": "huomaoys",
@@ -280,6 +290,23 @@
             "jar": "./jars/巧技.jar",
             "playerType": 2,
             "ext": "7lj763gg402i7942463ji4qiaojijjh456889il6k6i35kj995h4j18li7kl2870klhg8hi647j5707k4ki7ig6953kj"
+        },
+        {
+            "key": "DAY",
+            "name": "🧵UPUP┃影视",
+            "type": 3,
+            "quickSearch": 1,
+            "searchable": 1,
+            "api": "./api/tt.py"
+        },
+        {
+            "key": "步步",
+            "name": "👟步步┃影视",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/测试.js"
         },
         {
             "key": "牛牛",
@@ -321,15 +348,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "api": "csp_Gz360"
-        },
-        {
-            "key": "步步",
-            "name": "👟步步┃影视",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/ceshi.js"
         },
         {
             "key": "csp_Jpys",

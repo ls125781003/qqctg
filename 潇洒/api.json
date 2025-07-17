@@ -73,14 +73,6 @@
             }
         },
         {
-            "key": "移动",
-            "name": "移动｜APP",
-            "type": 3,
-            "api": "csp_YD",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "行动",
             "name": "行动｜APP",
             "type": 3,
@@ -116,7 +108,8 @@
                 "dataKey": "qwertyuiopqwertt",
                 "dataIv": "qwertyuiopqwertt",
                 "deviceId": "",
-                "version": "109"
+                "version": "109",
+                "ua": "okhttp/3.10.0"
             }
         },
         {
@@ -236,6 +229,36 @@
             }
         },
         {
+            "key": "鲸鱼",
+            "name": "鲸鱼｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "",
+                "site": "./json/1.json",
+                "dataKey": "AAdgrdghjfgswerA",
+                "dataIv": "AAdgrdghjfgswerA",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "热剧",
+            "name": "热剧｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "",
+                "site": "./txt/rebo.txt",
+                "dataKey": "8191A7F47B37882F",
+                "dataIv": "8191A7F47B37882F",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
             "key": "鲶鱼",
             "name": "鲶鱼｜APP",
             "type": 3,
@@ -290,20 +313,6 @@
             }
         },
         {
-            "key": "客星",
-            "name": "客星｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://api.hiapp.com.cn",
-                "dataKey": "2268331221bobobo",
-                "dataIv": "2268331221bobobo",
-                "deviceId": "",
-                "version": "105"
-            }
-        },
-        {
             "key": "云速",
             "name": "云速｜APP",
             "type": 3,
@@ -353,11 +362,11 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://appcms.htsp4k.top",
-                "dataKey": "7CYQQzwchRQpHCOj",
-                "dataIv": "7CYQQzwchRQpHCOj",
+                "url": "http://getapp.hiapp.com.cn",
+                "dataKey": "2268331221bobobo",
+                "dataIv": "2268331221bobobo",
                 "deviceId": "",
-                "version": ""
+                "version": "107"
             }
         },
         {
@@ -479,7 +488,7 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://v.tkbot.fun",
+                "url": "https://new.tkbot.fun",
                 "dataKey": "d032c12876bc6848",
                 "dataIv": "d032c12876bc6848",
                 "deviceId": "",
@@ -594,6 +603,19 @@
                 "dataKey": "6a482a70b80eefc9",
                 "dataIv": "c995826a3e86fedd",
                 "jxurl": "https://www.ququkan.cc"
+            }
+        },
+        {
+            "key": "火猫",
+            "name": "火猫｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://154.12.22.168:14988",
+                "dataKey": "531f6082a43ac5d7",
+                "dataIv": "531f6082a43ac5d7",
+                "jxurl": "http://app.789dd.cn"
             }
         },
         {
@@ -834,6 +856,21 @@
             "ext": "./json/kf.json"
         },
         {
+            "key": "123",
+            "name": "123｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShareCloud123",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./json/123.json"
+        },
+        {
             "key": "趣盘",
             "name": "趣盘｜4K弹幕",
             "type": 3,
@@ -934,12 +971,29 @@
             }
         },
         {
+            "key": "移动",
+            "name": "移动｜4K",
+            "type": 3,
+            "api": "csp_YD",
+            "searchable": 1,
+            "quickSearch": 1,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "糖果",
             "name": "糖果｜搜索",
             "type": 3,
             "api": "csp_TGSou",
             "searchable": 1,
             "changeable": 0
+        },
+        {
+            "key": "米搜",
+            "name": "米搜｜搜索",
+            "type": 3,
+            "api": "csp_MiSou"
         },
         {
             "key": "聚搜",
@@ -1371,7 +1425,8 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://pzoap.moedot.net",
+                "url": "",
+                "site": "./txt/getapp.txt",
                 "dataKey": "1yZ2Spn9krnzVKoC",
                 "dataIv": "1yZ2Spn9krnzVKoC",
                 "deviceId": "",
@@ -1489,13 +1544,6 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/QMDM.js"
-        },
-        {
-            "key": "怡萱动漫",
-            "name": "怡萱｜动漫",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/YXDM.js"
         },
         {
             "key": "花子动漫",
@@ -2154,34 +2202,6 @@
             "type": 0,
             "url": "./lives/Guovin.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
-        },
-        {
-            "name": "虎牙一起看",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "./lives/虎牙一起看.txt",
-            "ua": "okhttp/3.15"
-        },
-        {
-            "name": "斗鱼一起看",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "./lives/斗鱼一起看.txt",
-            "ua": "okhttp/3.15"
-        },
-        {
-            "name": "YY轮播",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "./lives/YY轮播.txt",
-            "ua": "okhttp/3.15"
-        },
-        {
-            "name": "B站直播",
-            "type": 3,
-            "api": "csp_Feiyang",
-            "url": "./lives/B站直播.txt",
-            "ua": "okhttp/3.15"
         },
         {
             "name": "电视Live",

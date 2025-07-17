@@ -1,5 +1,5 @@
 {
-    "wallpaper": "https://xn--dkw0c.v.nxog.top/m/t/",
+    "wallpaper": "https://xn--lzr-mf3g9f.v.nxog.top/m/t/",
     "logo": "https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
     "spider": "./spider.jar",
     "lives": [
@@ -26,13 +26,13 @@
         },
         {
             "key": "豆瓣1",
-            "name": "📢公众号【光歌软件分享】严谨用于任何商业用途！公告❤更新:7/11❤",
+            "name": "📢公众号【光歌软件分享】严谨用于任何商业用途！公告❤更新:7/15❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
             "changeable": 0,
             "jar": "./jars/豆瓣1.jar",
-            "ext": "https://xn--dkw0c.v.nxog.top/m/公告.php?b=公众号【光歌软件分享】严谨用于任何商业用途！"
+            "ext": "https://xn--lzr-mf3g9f.v.nxog.top/m/公告.php?b=公众号【光歌软件分享】严谨用于任何商业用途！"
         },
         {
             "key": "csp_woog",
@@ -51,7 +51,7 @@
                 ],
                 "url_key": "woog",
                 "threadinfo": {
-                    "chunksize": 293,
+                    "chunksize": 280,
                     "threads": 16
                 }
             }
@@ -80,7 +80,7 @@
                 ],
                 "url_key": "UC",
                 "threadinfo": {
-                    "chunksize": 260,
+                    "chunksize": 278,
                     "threads": 60
                 }
             }
@@ -111,7 +111,7 @@
                 ],
                 "url_key": "woog2",
                 "threadinfo": {
-                    "chunksize": 215,
+                    "chunksize": 265,
                     "threads": 16
                 }
             }

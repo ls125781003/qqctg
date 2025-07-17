@@ -142,6 +142,20 @@
             "api": "csp_HBqkDj"
         },
         {
+            "key": "窈窕",
+            "name": "窈窕|4K弹幕",
+            "type": 3,
+            "api": "csp_HBT4",
+            "ext": "http://154.219.113.13:12121/test.php?site=wogg###wogg"
+        },
+        {
+            "key": "淑女",
+            "name": "淑女|4K弹幕",
+            "type": 3,
+            "api": "csp_HBT4",
+            "ext": "http://154.219.113.13:12121/test.php?site=mihdr###mihdr"
+        },
+        {
             "key": "小猫",
             "name": "小猫|自定",
             "type": 3,
@@ -518,11 +532,6 @@
             "name": "Json轮询",
             "type": 2,
             "url": "Sequence"
-        },
-        {
-            "name": "ccehsi",
-            "type": 1,
-            "url": "http://zling.online:20202/hbanbox/json/T4jiexi.php?url="
         },
         {
             "name": "自定：请先设置",
