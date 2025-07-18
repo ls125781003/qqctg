@@ -345,6 +345,16 @@
             "ext": "https://www.fantuan.vip"
         },
         {
+            "key": "ZXZJ",
+            "name": "🏠在线",
+            "api": "csp_Zxzj",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "7lj763gg402i7942463j9j9jgg449698khhh845ki38473"
+        },
+        {
             "key": "csp_Ddys",
             "name": "📺低端",
             "type": 3,
@@ -378,7 +388,8 @@
             "api": "csp_Jianpian",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "./json/jianpian.json"
         },
         {
             "key": "csp_xlys",
@@ -490,15 +501,6 @@
             "type": 3,
             "api": "csp_YGP",
             "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_AppXY",
-            "name": "🎀️星牙短剧",
-            "type": 3,
-            "api": "csp_AppXY",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
