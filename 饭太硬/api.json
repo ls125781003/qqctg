@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆",
-            "name": "修复厂长【神秘的哥哥们】",
+            "name": "修复926看球【神秘的哥哥们】",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -292,7 +292,8 @@
             "changeable": 0,
             "style": {
                 "type": "list"
-            }
+            },
+            "ext": "uqGL1fpJNAUa4uUHi9iMsef1+C/R"
         },
         {
             "key": "88",

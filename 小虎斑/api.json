@@ -77,12 +77,12 @@
             "playerType": 2,
             "api": "csp_Mogg",
             "ext": {
-                "tyitoken": "",
-                "dutoken": "",
-                "p123token": "",
-                "token": "",
-                "cookie": "",
-                "uccookie": "",
+                "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
+                "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
+                "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
+                "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
                 "site": "http://xsayang.fun:12512/"
             }
         },
@@ -93,13 +93,13 @@
             "playerType": 2,
             "api": "csp_Mogg",
             "ext": {
-                "tyitoken": "",
-                "dutoken": "",
-                "p123token": "",
-                "token": "",
-                "cookie": "",
-                "uccookie": "",
-                "site": "http://666.666291.xyz/"
+                "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
+                "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
+                "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
+                "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
+                "site": "http://xsayang.fun:12512/"
             }
         },
         {
@@ -109,7 +109,23 @@
             "playerType": 2,
             "api": "csp_Mogg",
             "ext": {
-                "site": "https://mihdr.top"
+                "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
+                "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
+                "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
+                "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
+                "site": "http://xsayang.fun:12512/"
+            }
+        },
+        {
+            "key": "米",
+            "name": "小米|4k网盘",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_Mogg",
+            "ext": {
+                "site": "http://xiaomi666.fun"
             }
         },
         {
@@ -124,10 +140,36 @@
         },
         {
             "key": "盼盼",
-            "name": "虎翼|盼盼",
+            "name": "海棉|盘搜",
             "type": 3,
             "playerType": 2,
-            "api": "csp_HBhaiM"
+            "api": "csp_HBhaiM",
+            "ext": {
+                "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
+                "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
+                "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
+                "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
+                "hmianck": "",
+                "site": "https://www.haimianxz.com"
+            }
+        },
+        {
+            "key": "雷静",
+            "name": "雷静|盘搜",
+            "type": 3,
+            "playerType": 2,
+            "api": "csp_HBleiJing",
+            "ext": {
+                "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
+                "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
+                "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
+                "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
+                "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
+                "site": "https://leijing.xyz/"
+            }
         },
         {
             "key": "短剧夸克2",
@@ -242,6 +284,20 @@
             "name": "0°|弹幕",
             "type": 3,
             "api": "csp_HBlingDu"
+        },
+        {
+            "key": "橘汁",
+            "name": "橘汁|弹幕",
+            "type": 3,
+            "api": "csp_HBmoou",
+            "ext": "https://ajuzi.top"
+        },
+        {
+            "key": "123",
+            "name": "123|弹幕",
+            "type": 3,
+            "api": "csp_HBmoou",
+            "ext": "https://123ysw.com"
         },
         {
             "key": "演员",

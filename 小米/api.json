@@ -53,6 +53,8 @@
             "filterable": 1,
             "ext": {
                 "site_urls": [
+                    "https://www.wexwp.cc",
+                    "https://wexwp.cc",
                     "https://www.2xiaopan.fun/",
                     "https://2xiaopan.fun/",
                     "https://www.2xiaoyun.fun/",
@@ -166,7 +168,7 @@
         },
         {
             "key": "csp_nongmin",
-            "name": "💯农民┃明天修",
+            "name": "💯农民┃极速",
             "type": 3,
             "api": "csp_Wwys",
             "searchable": 1,
@@ -191,6 +193,20 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": "rP+4azM8YFgp3eAhyeALtUUEFpbkqmzGj2V5VZryxRbpkSjlsHbarRCZPOInvId4s3WK9rZ2YJsDy8NvMqQKQXowVmh33j+qD55VxmvMzzfiJ2fHkCRZg4+8NFWs+b1X"
+        },
+        {
+            "key": "幕启",
+            "name": "🌉幕启┃影视",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": "iUYplHbim/qVptUBrzCuqk72erYn+xHvZVGawkGUOqtLGtiWlDcWpUagYzdfPYeECbG+IjVf7Mhz2ZqZ70k6X72tkUhQDNEpIN/XScTGlUE="
+        },
+        {
+            "key": "追忆",
+            "name": "🍯追忆┃影视",
+            "type": 3,
+            "api": "csp_AppSy",
+            "ext": "9rfWRaAx60J+W5F+j6agt6AHU3NkRl7m8WqfWIBU/MebSZgzY2wnsXwmAIMEYVqMzsnqr46bOn1q4JV/UJAKUVF6NUo2Xg8qcHgXrA63RWM="
         },
         {
             "key": "麻花",
@@ -218,7 +234,7 @@
             "quickSearch": 1,
             "searchable": 1,
             "api": "csp_AppGet",
-            "ext": "kzWGWFofGVJ3C/RF+lgwJ2duecy3bVUlIwiw6yr3vD1a1VenykG71Lx0iDGhqS6msfs2NS2llsxT5Z93XTR5ow=="
+            "ext": "kzWGWFofGVJ3C/RF+lgwJ225/vdiYNl/bMUZBlrk0nrC8OB1JmokCpa08vXuGowW"
         },
         {
             "key": "顾我",
@@ -398,10 +414,11 @@
         },
         {
             "key": "push_agent",
-            "name": "⚠️接口开源免费，仅供测试，请测试完删除!",
+            "name": "🛴推送┃播放接口免费，请测试完删除处理",
             "type": 3,
             "api": "csp_Push",
-            "searchable": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "ext": ""
         }
     ],

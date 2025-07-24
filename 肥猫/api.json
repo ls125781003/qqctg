@@ -215,7 +215,8 @@
             "key": "csp_Lkdy",
             "name": "🏔️┃来看┃影视",
             "type": 3,
-            "api": "csp_Lkdy"
+            "api": "csp_Lkdy",
+            "ext": "https://lkvod.com"
         },
         {
             "key": "csp_Tvyb",
@@ -286,10 +287,49 @@
             "ext": "https://www.czzymovie.com"
         },
         {
+            "key": "猎手影视",
+            "name": "🐆┃猎手┃影视",
+            "type": 3,
+            "api": "./api/LSYS.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "零度",
+            "name": "🥶┃零度┃影视",
+            "type": 3,
+            "api": "./api/lingdu.py"
+        },
+        {
             "key": "csp_AppXY",
             "name": "🎀️┃星牙┃短剧",
             "type": 3,
             "api": "csp_AppXY"
+        },
+        {
+            "key": "河马短剧",
+            "name": "🦛┃河马┃短剧",
+            "type": 3,
+            "api": "./api/HMDJ.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "偷乐短剧",
+            "name": "☺️┃偷乐┃短剧",
+            "type": 3,
+            "api": "./api/TLDJ.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "csp_SP360",
@@ -319,6 +359,27 @@
             "playerType": "2",
             "api": "csp_Dm84",
             "ext": "https://dm84.net"
+        },
+        {
+            "key": "56动漫",
+            "name": "5️⃣┃56┃动漫",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/56DM.js"
+        },
+        {
+            "key": "NT动漫",
+            "name": "🧬┃NT┃动漫",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/NTDM.js"
+        },
+        {
+            "key": "Anime1",
+            "name": "🌏┃️Anime┃动漫",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/Anime1.js"
         },
         {
             "key": "csp_FourK",
