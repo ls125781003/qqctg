@@ -145,12 +145,12 @@
             "playerType": 2,
             "api": "csp_HBhaiM",
             "ext": {
-                "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
-                "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
-                "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
-                "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
-                "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
+                "tyitoken": "http://127.0.0.1:9978/file/HBTV/tyitoken.txt",
+                "dutoken": "http://127.0.0.1:9978/file/HBTV/dutoken.txt",
+                "p123token": "http://127.0.0.1:9978/file/HBTV/p123token.txt",
+                "token": "http://127.0.0.1:9978/file/HBTV/Altoken.txt",
+                "cookie": "http://127.0.0.1:9978/file/HBTV/qkcookie.txt",
+                "uccookie": "http://127.0.0.1:9978/file/HBTV/uccookie.txt",
                 "hmianck": "",
                 "site": "https://www.haimianxz.com"
             }
@@ -161,15 +161,7 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_HBleiJing",
-            "ext": {
-                "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
-                "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
-                "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
-                "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
-                "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
-                "site": "https://leijing.xyz/"
-            }
+            "ext": {}
         },
         {
             "key": "短剧夸克2",
@@ -188,7 +180,7 @@
             "name": "窈窕|4K弹幕",
             "type": 3,
             "api": "csp_HBT4",
-            "ext": "http://154.219.113.13:12121/test.php?site=wogg###wogg"
+            "ext": "http://154.219.113.13:12121/test.php?site=labi###labi"
         },
         {
             "key": "淑女",
@@ -196,6 +188,27 @@
             "type": 3,
             "api": "csp_HBT4",
             "ext": "http://154.219.113.13:12121/test.php?site=mihdr###mihdr"
+        },
+        {
+            "key": "君子",
+            "name": "君子|4K弹幕",
+            "type": 3,
+            "api": "csp_HBT4",
+            "ext": "http://154.219.113.13:12121/test.php?site=erxiao###erxiao"
+        },
+        {
+            "key": "好逑",
+            "name": "好逑|4K弹幕",
+            "type": 3,
+            "api": "csp_HBT4",
+            "ext": "http://154.219.113.13:12121/test.php?site=ouge###ouge"
+        },
+        {
+            "key": "琴瑟",
+            "name": "琴瑟|4K弹幕",
+            "type": 3,
+            "api": "csp_HBT4",
+            "ext": "http://154.219.113.13:12121/test.php?site=qingying###qingying"
         },
         {
             "key": "小猫",
@@ -458,6 +471,13 @@
             "type": 3,
             "api": "csp_HBcms10",
             "ext": "https://cj.rycjapi.com/api.php/provide/vod/"
+        },
+        {
+            "key": "maoyan",
+            "name": "摩崖|弹幕",
+            "type": 3,
+            "api": "csp_HBcms10",
+            "ext": "https://api.maoyanapi.top/api.php/provide/vod/"
         },
         {
             "key": "木耳",
