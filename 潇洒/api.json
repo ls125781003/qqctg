@@ -128,6 +128,35 @@
             }
         },
         {
+            "key": "小野",
+            "name": "小野｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.xy4k.com",
+                "site": "",
+                "dataKey": "7SDWjknU34zqFbVr",
+                "dataIv": "7SDWjknU34zqFbVr",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "爱看",
+            "name": "爱看丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://154.37.220.65",
+                "dataKey": "uI1TkPJC8B46AyN3",
+                "dataIv": "uI1TkPJC8B46AyN3",
+                "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+                "version": "120"
+            }
+        },
+        {
             "key": "稀饭",
             "name": "稀饭｜APP",
             "type": 3,
@@ -2041,42 +2070,7 @@
             ]
         }
     ],
-    "lives": [
-        {
-            "name": "AI直播",
-            "type": 0,
-            "url": "./lives/AI直播.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
-        },
-        {
-            "name": "Guovin",
-            "type": 0,
-            "url": "./lives/Guovin.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
-        },
-        {
-            "name": "电视Live",
-            "type": 0,
-            "url": "./lives/电视Live.txt"
-        },
-        {
-            "name": "网络Live",
-            "type": 0,
-            "url": "./lives/网络Live.txt"
-        },
-        {
-            "name": "范明明",
-            "type": 0,
-            "url": "./lives/范明明.txt"
-        },
-        {
-            "name": "APTV",
-            "type": 0,
-            "url": "./lives/APTV.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0"
-        }
-    ],
+    "lives": [],
     "hosts": [
         "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
         "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",

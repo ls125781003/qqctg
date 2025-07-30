@@ -65,16 +65,6 @@
         },
         {
             "key": "天天",
-            "name": "💢天天",
-            "type": 3,
-            "api": "csp_TTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "7lj763gg09397919456493i0h44j8681highi4"
-        },
-        {
-            "key": "天天",
             "name": "⛅天天",
             "type": 3,
             "api": "csp_TTian",
@@ -102,16 +92,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "7lj763gg0939791h1l2681i6g94li291li"
-        },
-        {
-            "key": "狂风",
-            "name": "🌪狂风",
-            "type": 3,
-            "api": "csp_Qiji",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "7lj763gg402i79425k2785j5g552i29kljg4855ki38l3g24570l0lkhkj0h4g191k8449gk8j5h9i942g0gh891k2l104l6k765664gljg7i2l336942gl67jh9405ighg592"
         },
         {
             "key": "巧技二",
@@ -398,15 +378,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Kuaikan",
-            "name": "👀快看",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Ikanbot",
             "name": "👾Ikanbot",
             "type": 3,
@@ -443,7 +414,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://v.xlys.ltd.ua"
+            "ext": "https://xl01.com.de/"
         },
         {
             "key": "csp_New6v",
