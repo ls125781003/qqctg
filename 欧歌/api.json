@@ -1,32 +1,32 @@
 {
-    "wallpaper": "https://tv.nxog.top/m/t/",
+    "wallpaper": "https://xn--dkw0c.v.nxog.top/m/t/",
     "logo": "https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
     "spider": "./spider.jar",
     "lives": [
         {
-            "name": "公众号欧歌app",
+            "name": "祝国庆中秋，月圆人安康，家国同兴旺，岁岁福绵长",
             "type": 0,
-            "url": "./lives/公众号欧歌app.txt",
+            "url": "./lives/祝国庆中秋，月圆人安康，家国同兴旺，岁岁福绵长.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}"
         }
     ],
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "📢公众号欧歌app",
+            "name": "📢祝国庆中秋，月圆人安康，家国同兴旺，岁岁福绵长",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "豆瓣1",
-            "name": "📢公告❤更新:9/25",
+            "name": "📢公告❤更新:9/28",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 0,
             "changeable": 0,
             "jar": "./jars/豆瓣1.jar",
-            "ext": "https://tv.nxog.top/m/公告.php?b=公众号欧歌app"
+            "ext": "https://xn--dkw0c.v.nxog.top/m/公告.php?b=祝国庆中秋，月圆人安康，家国同兴旺，岁岁福绵长"
         },
         {
             "key": "config",
@@ -63,7 +63,7 @@
                 ],
                 "url_key": "woog",
                 "threadinfo": {
-                    "chunksize": 288,
+                    "chunksize": 222,
                     "threads": 16
                 }
             }
@@ -83,7 +83,7 @@
                 ],
                 "url_key": "欧哥",
                 "threadinfo": {
-                    "chunksize": 294,
+                    "chunksize": 292,
                     "threads": 16
                 }
             }
@@ -215,7 +215,7 @@
         },
         {
             "key": "夸克盘搜",
-            "name": "❤夸克｜搜索",
+            "name": "❤夸父｜搜索",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -227,7 +227,7 @@
         },
         {
             "key": "UC盘搜",
-            "name": "❤UC｜搜索",
+            "name": "❤优夕｜搜索",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -239,7 +239,7 @@
         },
         {
             "key": "百度盘搜",
-            "name": "❤百度｜搜索",
+            "name": "❤肚盘｜搜索",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -251,7 +251,7 @@
         },
         {
             "key": "阿里云盘",
-            "name": "❤我的｜阿里",
+            "name": "❤我的｜阿离",
             "type": 3,
             "api": "csp_PanAli",
             "searchable": 0,
@@ -265,7 +265,7 @@
         },
         {
             "key": "夸克云盘",
-            "name": "❤我的｜夸克",
+            "name": "❤我的｜夸父",
             "type": 3,
             "api": "csp_PanQuark",
             "searchable": 0,
@@ -279,7 +279,7 @@
         },
         {
             "key": "UC",
-            "name": "❤我的｜UC",
+            "name": "❤我的｜优夕",
             "type": 3,
             "api": "csp_PanUc",
             "searchable": 0,
@@ -293,7 +293,7 @@
         },
         {
             "key": "百度云盘",
-            "name": "❤我的｜百度",
+            "name": "❤我的｜肚盘",
             "type": 3,
             "api": "csp_PanBaiDu",
             "searchable": 0,
