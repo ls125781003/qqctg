@@ -105,7 +105,7 @@
                 "url": "http://qfys.myqf.asia",
                 "dataKey": "vpsj6z4e7scbjbis",
                 "dataIv": "vpsj6z4e7scbjbis",
-                "token": "cea6598a6f09e3af6d583911a81d37f4070c9007eaf35d72dc3cf81e64357bbf",
+                "token": "7d7bc6b8bd0433079a6aa4f718a38a11945b15fce2875270ab96dd6272358288",
                 "ua": "Mozilla/5.0 (Linux; Android 13; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36"
             }
         },
@@ -311,18 +311,6 @@
             }
         },
         {
-            "key": "坚果",
-            "name": "坚果丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://a.ngdy1.cn",
-                "dataKey": "2015692015692015",
-                "dataIv": "2015692015692015"
-            }
-        },
-        {
             "key": "火花",
             "name": "火花丨APP",
             "type": 3,
@@ -356,18 +344,6 @@
                 "url": "http://www.zjcvod.com",
                 "dataKey": "ab4e9a421675f14b",
                 "dataIv": "ab4e9a421675f14b"
-            }
-        },
-        {
-            "key": "九零",
-            "name": "九零丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://65fs2d9awaa1d2a7ea8.019990.xyz",
-                "dataKey": "5a9w6x58dsq6z3a6",
-                "dataIv": "5a9w6x58dsq6z3a6"
             }
         },
         {
@@ -1713,35 +1689,6 @@
         }
     ],
     "parses": [
-        {
-            "name": "推荐",
-            "type": 1,
-            "url": "http://niiuma.qi-simple.top//nn.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
         {
             "name": "无上",
             "type": "1",
