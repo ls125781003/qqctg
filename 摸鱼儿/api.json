@@ -1,7 +1,7 @@
 {
     "spider": "./spider.jar",
-    "wallpaper": "http://我不是.摸鱼儿.com/wallpaper/",
-    "logo": "https://web.wya6.com/d/super/moyuer.gif",
+    "wallpaper": "https://bing.img.run/rand_uhd.php",
+    "logo": "https://web.wya6.com/d/moyubu/go/moyuer.gif",
     "sites": [
         {
             "key": "豆豆",
@@ -58,7 +58,7 @@
         },
         {
             "key": "MyDrive",
-            "name": "♨️玩偶智能┃云盘配置",
+            "name": "♨️玩偶智能┃我的云盘",
             "type": 3,
             "api": "csp_MyDriveGuard",
             "changeable": 0,
@@ -75,7 +75,7 @@
             "key": "醉挽清风",
             "name": "♨️醉挽清风┃4K纯净",
             "type": 4,
-            "api": "http://我不是.摸鱼儿.com/api/yuyutx.php",
+            "api": "http://我不是.摸鱼儿.com/api/yyutx.php",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
