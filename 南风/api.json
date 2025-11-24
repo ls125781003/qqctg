@@ -19,7 +19,7 @@
         },
         {
             "key": "弹幕",
-            "name": "🅿嗷嗚弹幕┃刷新一下启动",
+            "name": "🅿嗷嗚弹幕┃刷新一下自动启动",
             "type": 3,
             "api": "csp_GoConfigAmnsr",
             "jar": "./jars/弹幕.jar"
@@ -114,6 +114,16 @@
             "ext": "7lj763gg402i7942552h8ljjlj0jjki7g4lg99099jjh6l6l514k08hjl807161j139753h090539gig3604gi80lgl30jk3hk637h53gh9ljkij2lig30k277g50354k2k3jkl1g17i2820ii582l0483g61k6i79k7kk7274h1i5g6jjj833h2390k42396hik71kigl18k613"
         },
         {
+            "key": "趣看",
+            "name": "🎐趣看",
+            "type": 3,
+            "api": "csp_Qiji",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "7lj763gg402i7942552h8ljjlj0jjki7g4lg99099jjh6l6l514k08hjl807161j139753h090539gig3604gi80lgl30jk3hk637h53gh9ljkij2lig30k277g50354k2k3jkl1g17i2820ii582l0483g61k6i79k7kk7274h1i5g6jjj833h2390k42396hik71kigl18k613"
+        },
+        {
             "key": "狂风",
             "name": "🌪狂风",
             "type": 3,
@@ -156,16 +166,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "7lj763gg0939791h1l239kj0g853i291lik7jk45j8i66j6l46590lkli918523h02826lh29i74948i3116h18kkgii17kki579606ik1h6kjlh2k8l36ll62h11k10g8"
-        },
-        {
-            "key": "趣看",
-            "name": "🎐趣看",
-            "type": 3,
-            "api": "csp_Qiji",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "7lj763gg402i7942552h8ljjlj0jjki7g4lg99099jjh6l6l514k08hjl807161j139753h090539gig3604gi80lgl30jk3hk637h53gh9ljkij2lig30k277g50354k2k3jkl1g17i2820ii582l0483g61k6i79k7kk7274h1i5g6jjj833h2390k42396hik71kigl18k613"
         },
         {
             "key": "主角",
@@ -239,14 +239,14 @@
             "filterable": 1
         },
         {
-            "key": "可可",
-            "name": "☕️可可",
+            "key": "csp_Lkdy",
+            "name": "🏔️来看",
             "type": 3,
-            "api": "csp_XYQHiker",
+            "api": "csp_Lkdy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/可可影视.json"
+            "ext": "https://lkvod.com"
         },
         {
             "key": "剧圈圈",
@@ -318,16 +318,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Lkdy",
-            "name": "🏔️来看",
-            "type": 3,
-            "api": "csp_Lkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://lkvod.com"
         },
         {
             "key": "csp_Jianpian",
@@ -529,6 +519,17 @@
             }
         },
         {
+            "key": "pansou|fish",
+            "name": "🅿pansou|fish",
+            "type": 3,
+            "api": "csp_PanSouFish",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "siteUrl": "https://pansou-latest-hv4k.onrender.com"
+            }
+        },
+        {
             "key": "二小",
             "name": "😈二小",
             "type": 3,
@@ -581,6 +582,19 @@
             }
         },
         {
+            "key": "木偶",
+            "name": "🧸木偶",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+                "siteUrl": "http://123.666291.xyz",
+                "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+            }
+        },
+        {
             "key": "欧哥",
             "name": "🅾欧哥",
             "type": 3,
@@ -628,19 +642,6 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
-            }
-        },
-        {
-            "key": "木偶",
-            "name": "🧸木偶",
-            "type": 3,
-            "api": "csp_kongbai",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-                "siteUrl": "http://123.666291.xyz",
-                "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
             }
         },
         {
@@ -708,7 +709,8 @@
                 "password": "23",
                 "ua": "Yamby/1.0.2(Android)",
                 "client": "Yamby",
-                "deviceName": "",
+                "clientVersion": "0.2.3",
+                "deviceName": "oppo find x9 pro",
                 "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
             },
             "changeable": 1
@@ -765,7 +767,7 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "siteUrl": "https://api.muxia.fun",
+                "siteUrl": "https://f1.qilin8.com/api",
                 "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
             }
         },
@@ -825,6 +827,7 @@
             },
             "ext": {
                 "json": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/Bili.json",
+                "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "cookie": ""
             }
         },
@@ -842,6 +845,7 @@
             },
             "ext": {
                 "json": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/Blixs.json",
+                "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "cookie": ""
             }
         },
@@ -859,6 +863,7 @@
             },
             "ext": {
                 "json": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/Blixq.json",
+                "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "cookie": ""
             }
         },
@@ -876,6 +881,7 @@
             },
             "ext": {
                 "json": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/少儿教育.json",
+                "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "cookie": ""
             }
         },
@@ -893,6 +899,7 @@
             },
             "ext": {
                 "json": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/小学课堂.json",
+                "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "cookie": ""
             }
         },
@@ -910,6 +917,7 @@
             },
             "ext": {
                 "json": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/初中课堂.json",
+                "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "cookie": ""
             }
         },
@@ -927,6 +935,7 @@
             },
             "ext": {
                 "json": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/高中课堂.json",
+                "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "cookie": ""
             }
         }
