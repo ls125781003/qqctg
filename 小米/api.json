@@ -48,15 +48,6 @@
             }
         },
         {
-            "key": "csp_LIVING",
-            "name": "🎮游戏┃直播",
-            "type": 3,
-            "api": "csp_Living",
-            "quickSearch": 0,
-            "searchable": 1,
-            "ext": "https://f1.qilin8.com"
-        },
-        {
             "key": "csp_Netfixtv2",
             "name": "🎥二小┃4K网盘",
             "type": 3,
@@ -125,7 +116,16 @@
             "api": "csp_Music",
             "quickSearch": 0,
             "searchable": 0,
-            "ext": "http://www.qeecc.com"
+            "ext": ""
+        },
+        {
+            "key": "csp_LIVING",
+            "name": "🎮游戏┃直播",
+            "type": 3,
+            "api": "csp_Living",
+            "quickSearch": 0,
+            "searchable": 1,
+            "ext": "https://f1.qilin8.com"
         },
         {
             "key": "88看球",
@@ -155,11 +155,18 @@
             }
         },
         {
+            "key": "追番达人",
+            "name": "🐂达人┃影视",
+            "type": 3,
+            "api": "csp_Appfox",
+            "ext": "https://fox.ystva.com"
+        },
+        {
             "key": "爱看fox",
             "name": "👀爱看┃影视",
             "type": 3,
             "api": "csp_Appfox",
-            "ext": "https://snys2.xyz"
+            "ext": "./json/aikan.json"
         },
         {
             "key": "热热",
@@ -178,7 +185,7 @@
             "changeable": "1",
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt|sda1231sasddad21|qiji| "
+            "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt|sda1231sasddad21|okhttp/3.10.0"
         },
         {
             "key": "顾我",
@@ -188,7 +195,7 @@
             "changeable": "1",
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt|ca94b06ca3c7d80e|qiji| "
+            "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/guwo.txt|ca94b06ca3c7d80e|okhttp/3.10.0"
         },
         {
             "key": "AppQi3",
@@ -198,7 +205,7 @@
             "changeable": "1",
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://dtqj1.gg1080.com/dtjp.txt|kecbio48dsq131ed|qiji| "
+            "ext": "https://dtqj1.gg1080.com/dtjp.txt|kecbio48dsq131ed|okhttp/3.10.0"
         },
         {
             "key": "鲸鱼",
@@ -207,7 +214,7 @@
             "searchable": 1,
             "type": 3,
             "api": "csp_AppQi",
-            "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|qiji| "
+            "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|okhttp/3.10.0"
         },
         {
             "key": "仓鼠2",
@@ -216,7 +223,7 @@
             "searchable": 1,
             "type": 3,
             "api": "csp_AppQi",
-            "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt|da61247f5b662597|qiji| "
+            "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt|da61247f5b662597|okhttp/3.10.0"
         },
         {
             "key": "聚搜",
@@ -244,7 +251,7 @@
             "searchable": 1,
             "type": 3,
             "api": "csp_AppQi",
-            "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt|5f2b7ed203a3a581|qiji| "
+            "ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/blurl.txt|5f2b7ed203a3a581|okhttp/3.10.0"
         },
         {
             "key": "荐片",
@@ -283,7 +290,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "api": "csp_AppQi",
-            "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|qiji| "
+            "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|okhttp/3.10.0"
         },
         {
             "key": "花猪",
@@ -292,7 +299,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "api": "csp_AppQi",
-            "ext": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt|seb5tq9mykp2w9ry|qiji| "
+            "ext": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt|seb5tq9mykp2w9ry|okhttp/3.10.0"
         },
         {
             "key": "开心2",
@@ -301,7 +308,18 @@
             "quickSearch": 0,
             "searchable": 1,
             "api": "csp_AppQi",
-            "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|qiji| "
+            "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|okhttp/3.10.0"
+        },
+        {
+            "key": "巧技",
+            "name": "🔍搜搜┃影视",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_qiao2",
+            "playerType": 2,
+            "jar": "./jars/巧技.jar",
+            "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"
         },
         {
             "key": "csp_SaoHuo",
@@ -357,12 +375,10 @@
             "api": "csp_MiSou"
         },
         {
-            "key": "csp_BookTing",
+            "key": "csp_TingBook",
             "name": "📕有声┃听书",
-            "api": "csp_BookTing",
             "type": 3,
-            "quickSearch": 0,
-            "ext": "https://m.i275.com"
+            "api": "csp_TingBook"
         },
         {
             "key": "Aid",
