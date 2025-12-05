@@ -1,6 +1,6 @@
 {
     "spider": "./spider.jar",
-    "wallpaper": "https://api.fw1028.top/scenery.php?return=img",
+    "wallpaper": "https://www.wexwp.cc/bizhi.php",
     "sites": [
         {
             "key": "豆豆",
@@ -186,6 +186,16 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj3.txt|sda1231sasddad21|okhttp/3.10.0"
+        },
+        {
+            "key": "若曦",
+            "name": "💣若曦┃小米",
+            "type": 3,
+            "api": "csp_AppQi",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt|sjvlwnhk6h9znl61|okhttp/3.10.0"
         },
         {
             "key": "顾我",
@@ -451,7 +461,7 @@
             "url": ""
         }
     ],
-    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752137757797/ab67656300005f1f66fff1b2f972193c3d6433eb.jpg",
+    "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",
     "lives": [
         {
             "name": "平台直播",
