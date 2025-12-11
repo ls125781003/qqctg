@@ -98,8 +98,8 @@
             "key": "玩偶哥哥",
             "name": "♨️玩偶备用┃4K弹幕",
             "type": 3,
-            "api": "csp_PanWebShare",
-            "jar": "./jars/玩偶哥哥.jar",
+            "api": "csp_Wogg",
+            "jar": "./jars/config.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -116,7 +116,7 @@
             "name": "🍁优汐木偶┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -134,7 +134,7 @@
             "name": "🐂小二资源┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
@@ -153,7 +153,7 @@
             "name": "🖍︎蜡笔资源┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
@@ -171,7 +171,7 @@
             "name": "🏆️夸克至臻┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
@@ -192,7 +192,7 @@
             "name": "🍡多多网盘┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShare",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 1,
             "filterable": 0,
             "changeable": 0,
@@ -206,21 +206,11 @@
             }
         },
         {
-            "key": "QuarkTZ",
-            "name": "✊️团长网盘┃4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebTz",
-            "jar": "./jars/玩偶哥哥.jar",
-            "searchable": 1,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
             "key": "cloudLJ",
             "name": "🐋天翼雷鲸┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShareCloudLJ",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
@@ -235,7 +225,7 @@
             "name": "🧽海绵资源┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShareCloudHM",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -251,7 +241,7 @@
             "name": "📅数字资源┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShareCloud123",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -263,25 +253,11 @@
             "ext": "./json/123.json"
         },
         {
-            "key": "盘库",
-            "name": "🐼盘库资源┃4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebKuBa",
-            "jar": "./jars/玩偶哥哥.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://panku8.com,https://yipanso.com"
-            }
-        },
-        {
             "key": "夸父",
             "name": "🏃夸父资源┃4K弹幕",
             "type": 3,
             "api": "csp_PanWebShareCloudKF",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -296,21 +272,18 @@
             "key": "金牌",
             "name": "🏅金牌┃超清┃无广",
             "type": 3,
-            "api": "csp_AppMuou",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 1,
             "changeable": 1,
-            "ext": {
-                "site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
-                "name": "金牌影院（请断网再安装）"
-            }
+            "api": "csp_Jpys",
+            "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
         {
             "key": "瓜子影视",
             "name": "🍉瓜子┃超清┃无广",
             "type": 3,
             "api": "csp_Gz360",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -321,7 +294,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "site": "https://mk1080.top/get.txt",
                 "dataKey": "c60d88b2eep53za8",
@@ -336,7 +309,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "",
                 "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
@@ -353,7 +326,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "",
                 "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
@@ -369,7 +342,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw.txt",
                 "dataKey": "ca94b06ca3c7d80e",
@@ -382,7 +355,7 @@
             "name": "🐹仓鼠┃超清┃弹幕",
             "type": 3,
             "quickSearch": 1,
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "api": "csp_AppQi",
             "ext": {
                 "url": "",
@@ -399,7 +372,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
                 "dataKey": "AAdgrdghjfgswerA",
@@ -412,7 +385,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "https://www.rebovod.com",
                 "site": "",
@@ -429,7 +402,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
                 "dataKey": "sada21321sdq231d",
@@ -442,7 +415,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "site": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/tengxunyun.txt",
                 "dataKey": "seb5tq9mykp2w9ry",
@@ -456,7 +429,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "http://app1-0-0.87333.cc",
                 "dataKey": "VwsHxkCViDXEExWa",
@@ -469,7 +442,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "https://ios.hgyx.vip",
                 "dataKey": "062dec75d039980e",
@@ -482,7 +455,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "https://www.appdm.akandm.com",
                 "dataKey": "uI1TkPJC8B46AyN3",
@@ -495,7 +468,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "http://www.zjcvod.com",
                 "site": "",
@@ -512,7 +485,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "http://starani.qcanime.xyz",
                 "site": "",
@@ -529,7 +502,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "https://dy.58ys.vip",
                 "site": "",
@@ -546,7 +519,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "",
                 "site": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt",
@@ -563,7 +536,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "",
                 "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
@@ -579,7 +552,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "http://ys.qist.top",
                 "site": "",
@@ -595,7 +568,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "http://tv.yy-fun.cc",
                 "dataKey": "qkxnwkfjwpcnwycl",
@@ -610,7 +583,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "https://apiapplbys.lbys.app:5678",
                 "dataKey": "apiapplbyskey168",
@@ -622,7 +595,7 @@
         {
             "key": "夕晨踏雪",
             "name": "♨️夕晨踏雪┃4K弹幕",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "type": 3,
             "api": "csp_SP360"
         },
@@ -1167,7 +1140,7 @@
             "name": "🫠漫国┃动漫┃蓝光",
             "type": 3,
             "api": "csp_AppSy",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
                 "siteKey": "rectangleadsadxa",
@@ -1181,7 +1154,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "http://www.drdm.fun",
                 "site": "",
@@ -1198,7 +1171,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "https://www.cyfz.vip",
                 "site": "",
@@ -1215,7 +1188,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "https://new.app.bytegooty.com",
                 "site": "",
@@ -1239,7 +1212,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "https://app.omofun1.top",
                 "dataKey": "66dc309cbeeca454",
@@ -1254,7 +1227,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "",
                 "site": "https://xfapp-1305390065.cos.ap-guangzhou.myqcloud.com/getapp.txt",
@@ -1270,7 +1243,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "https://www.gugu3.com",
                 "dataKey": "nKfZ8KX6JTNWRzTD",
@@ -1285,7 +1258,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "https://get.mymifun.com",
                 "site": "",
@@ -1301,7 +1274,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "ext": {
                 "url": "https://jjjj.nilinili.org",
                 "dataKey": "672263e98f232a05",
@@ -1315,7 +1288,7 @@
             "name": "🌟星芽┃短剧┃热推",
             "type": 3,
             "api": "csp_AppXY",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
@@ -1355,7 +1328,7 @@
             "key": "本地",
             "name": "📁文件┃本地┃资源",
             "type": 3,
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "api": "csp_LocalFile"
         },
         {
@@ -1363,7 +1336,7 @@
             "name": "📁文件┃夸克┃资源",
             "type": 3,
             "api": "csp_PanQuark",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
@@ -1378,7 +1351,7 @@
             "name": "📁文件┃阿里┃资源",
             "type": 3,
             "api": "csp_PanAli",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
@@ -1393,7 +1366,7 @@
             "name": "📁文件┃优视┃资源",
             "type": 3,
             "api": "csp_PanUc",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,
@@ -1408,7 +1381,7 @@
             "name": "📁文件┃百度┃资源",
             "type": 3,
             "api": "csp_PanBaiDu",
-            "jar": "./jars/玩偶哥哥.jar",
+            "jar": "./jars/config.jar",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0,

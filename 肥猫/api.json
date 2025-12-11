@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🐼┃备用公众号┃我不是肥猫",
+            "name": "🐼┃闪电优汐已恢复┃加资源可艾特我",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -41,7 +41,7 @@
             "filterable": 1,
             "ext": {
                 "site_urls": [
-                    "http://1.95.79.193/"
+                    "http://sduc.site/"
                 ],
                 "url_key": "FeiMaoUC"
             }
@@ -54,6 +54,7 @@
             "filterable": 1,
             "ext": {
                 "site_urls": [
+                    "http://xiaocgege.shop",
                     "https://feimao666.fun",
                     "http://feimao888.fun",
                     "https://feimo.fun",
