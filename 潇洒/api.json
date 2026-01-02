@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣｜首页",
+            "name": "二〇｜二六",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -49,15 +49,6 @@
             }
         },
         {
-            "key": "吉米",
-            "name": "吉米｜APP",
-            "type": 3,
-            "api": "csp_AppFox",
-            "ext": {
-                "host": "http://45.207.215.137:8006"
-            }
-        },
-        {
             "key": "恋鱼",
             "name": "恋鱼｜APP",
             "type": 3,
@@ -87,15 +78,14 @@
             }
         },
         {
-            "key": "和友",
-            "name": "和友｜APP",
+            "key": "椰子",
+            "name": "椰子｜APP",
             "type": 3,
-            "api": "csp_AppSy",
+            "changeable": 0,
+            "api": "csp_AppFox",
             "ext": {
-                "site": "http://qcb.sxtzg.com/api.txt",
-                "siteKey": "rectangleadsadxa",
-                "listKey": "gHSLmx3JQRasgztO",
-                "parsesKey": "gHSLmx3JQRasgztO"
+                "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/yzysapp.json",
+                "ver": 2
             }
         },
         {
@@ -206,6 +196,17 @@
             }
         },
         {
+            "key": "雨滴",
+            "name": "雨滴｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "site": "https://appto2-1316376600.cos.ap-beijing.myqcloud.com/gap.txt",
+                "dataKey": "685bf108bc47b67d",
+                "dataIv": "685bf108bc47b67d"
+            }
+        },
+        {
             "key": "白鸽",
             "name": "白鸽｜APP",
             "type": 3,
@@ -229,19 +230,6 @@
                 "url": "http://103.236.61.192:8006",
                 "dataKey": "123456789abcdefg",
                 "dataIv": "123456789abcdefg"
-            }
-        },
-        {
-            "key": "火花",
-            "name": "火花｜APP",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "site": "http://php.itcxo.cn/txt/1.txt",
-                "dataKey": "PoiUytRedFghjklm",
-                "dataIv": "PoiUytRedFghjklm"
             }
         },
         {
@@ -281,17 +269,6 @@
                 "url": "https://www.zipfve.cn",
                 "dataKey": "1234567890987654",
                 "dataIv": "1234567890987654"
-            }
-        },
-        {
-            "key": "冷心",
-            "name": "冷心｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://dy.58ys.vip",
-                "dataKey": "JEWibY1AgWF0V1xx",
-                "dataIv": "JEWibY1AgWF0V1xx"
             }
         },
         {
@@ -403,30 +380,6 @@
                 "url": "http://www.zjcvod.com",
                 "dataKey": "ab4e9a421675f14b",
                 "dataIv": "ab4e9a421675f14b"
-            }
-        },
-        {
-            "key": "稀饭",
-            "name": "稀饭丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://app.xifanys.com",
-                "dataKey": "HM6Ly9yeS4ya3dvL",
-                "dataIv": "HM6Ly9yeS4ya3dvL"
-            }
-        },
-        {
-            "key": "五八",
-            "name": "五八丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://dy.58ys.vip",
-                "dataKey": "JEWibY1AgWF0V1xx",
-                "dataIv": "JEWibY1AgWF0V1xx"
             }
         },
         {
@@ -975,6 +928,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "韩剧看看",
+            "name": "韩剧｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/HJKK.json"
         },
         {
             "key": "莫小影视",
