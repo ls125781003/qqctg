@@ -43,6 +43,14 @@
             }
         },
         {
+            "key": "FishPs",
+            "name": "鱼鱼盘搜",
+            "type": 3,
+            "api": "csp_FishPs",
+            "searchable": 1,
+            "filterable": 0
+        },
+        {
             "key": "zuiWanQingFeng",
             "name": "醉挽清风",
             "type": 4,
@@ -93,6 +101,16 @@
             }
         },
         {
+            "key": "bimoxinghe",
+            "name": "笔墨星河",
+            "type": 3,
+            "changeable": 0,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_AppYsV2",
+            "ext": "wYceOHC6X3P3alhnB4RtmzgFD1Irln8apuUGgGt0cGNu1m3wi32g5216U4VmaeMAakuchzAtkZK4hN76RGX+SgXswlO9BU7AAQg57WGKJIWptJgUaSjRv+dsCFHAMS7NtEkaU8HcHtu3mNmXmiGVLae6KtmpbuT1razd8CkTO1A="
+        },
+        {
             "key": "Jianpian",
             "name": "荐片视频",
             "type": 3,
@@ -131,24 +149,12 @@
             "changeable": 1
         },
         {
-            "key": "lianyu",
-            "name": "恋鱼视频",
+            "key": "huahua",
+            "name": "花花视频",
             "type": 3,
+            "changeable": 0,
             "api": "csp_AppFox",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "uPkpfg9pQ6vPsaEfxxMLT1E5QCM/ban1mPmzGlgR+qIpEZHV3lJwr3Hn1KruHzdwaCEaNSlKHO4ge42AS52duwS3DxjlEBxzCQQwxwx3UGOi8MfpokXLktXJQiJWM5/a"
-        },
-        {
-            "key": "qilin",
-            "name": "麒麟视频",
-            "type": 3,
-            "api": "csp_AppFox",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "uPkpfg9pQ6vPsaEfxxMLTyK6UpWwP2tm9VFRXkiolf7iFd+cT4VJ7sthoEvnpiAz"
+            "ext": "p+FPtr6fYIfomOnA4N4Sl0dFvFqJvfkho3Yem3nNyo6peH9nVFr0wIIfo96V7voEHGrq+0mvfYjwri/nkrWITQ=="
         },
         {
             "key": "jumeng",
@@ -176,7 +182,7 @@
             "searchable": 1,
             "changeable": 1,
             "api": "csp_AppGet",
-            "ext": "N5u2FS3i/elUFAoSVYBznW7BhlbPzFj515UqtpQTdAClxEkP5mLITwH3qQrhWGRmshN+ARK+7XmFD/5KNJAZVEK7jfC+9U/vk87VG36upogQ0HqvNZiucPrO6QyWRytn"
+            "ext": "N5u2FS3i/elUFAoSVYBznUpdVRryouKsxQf9kYCNANyg5U8ytpUW3mDWnqrze8ump3VfnFDqcVljBqcpY21U0K4koXlSRsB5k9tVO1PwDAfS00jmRVOCiIGctiAMykso"
         },
         {
             "key": "baige",
@@ -505,14 +511,6 @@
             "ext": "https://yunpan6.com/"
         },
         {
-            "key": "FishPs",
-            "name": "鱼有盘搜",
-            "type": 3,
-            "api": "csp_FishPs",
-            "searchable": 1,
-            "filterable": 0
-        },
-        {
             "key": "TgApiSearch",
             "name": "群组搜索",
             "type": 3,
@@ -567,6 +565,15 @@
             "ext": "N5u2FS3i/elUFAoSVYBzne8+r0r/kX1E+KdfHQ6FVY6/wHmWZoFfjCv2f3YfjfSbJm0/trORuqYE1PzwW9Z2IT6SnMHG1Beaes3+9Ad9p9Dy7MPFARRTA33haDFOP4SZtpBkd4utjKPyprZNVKMxvA=="
         },
         {
+            "key": "mifun",
+            "name": "米福动漫",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": "GvE9VjZcKAqoJldDfjF/EFjEacvdRgP+DzKluxhIowAt7HBmxO7zYbrt98skapDAKw6Hlx1Iy+mVJuQI6FYGb7NuvCZrhayVbhmr8hS0EeOTcuCxwv7DUtbufpbgslF77hCJqv2EtYD5MpCse/KA1Q=="
+        },
+        {
             "key": "Dmla",
             "name": "动漫啦啦",
             "type": 3,
@@ -610,7 +617,7 @@
         },
         {
             "key": "FishDuanju",
-            "name": "聚合短剧",
+            "name": "超级短剧",
             "type": 3,
             "api": "csp_FishDuanju",
             "searchable": 1,
@@ -705,18 +712,7 @@
             "type": 3,
             "api": "csp_Market",
             "searchable": 0,
-            "ext": {
-                "categories": [
-                    {
-                        "name": "潇洒夸克",
-                        "url": "https://pan.quark.cn/s/fe0080066d18"
-                    },
-                    {
-                        "name": "潇洒优视",
-                        "url": "https://drive.uc.cn/s/ba531661b3eb4"
-                    }
-                ]
-            }
+            "ext": "KeJpmGBHNDNtao15t//le3m1n9Z5ZXrQs8D+mt98HNScmDTy9nipe+1ejIo29HghDD4pfCqWua4Qkg5r0/MnKRwsD05VU7eWVi6rNUa5LHima2FYwW6EGq+rMF4KUUvYw4o87aAGALNwz/9G1sF1KJUOIDTvspHyGeoPJZwdhcFqOYFaAnva+X9/XEo519IWmHO15S20HMt9zg//bmTi9Q=="
         },
         {
             "key": "push_agent",

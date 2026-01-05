@@ -11,17 +11,17 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./txt/douban.txt"
+            "ext": "./txt/1767300502404G_ouRK.txt"
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20251216】🐮",
+            "name": "🐮【更新日期:20260104】🐮",
             "type": 3,
             "api": "csp_DoubanGuard",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./txt/douban.txt"
+            "ext": "./txt/1767300502404G_ouRK.txt"
         },
         {
             "key": "Doubana",
@@ -31,7 +31,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./txt/douban.txt"
+            "ext": "./txt/1767300502404G_ouRK.txt"
         },
         {
             "key": "Wexconfig",
@@ -162,14 +162,6 @@
             "name": "💥韩剧┃秒播💥",
             "type": 3,
             "api": "csp_WexhanxiaoquanGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexrenrenyingshi",
-            "name": "💥人人┃秒播💥",
-            "type": 3,
-            "api": "csp_WexrenrenyingshiGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -398,14 +390,6 @@
             }
         },
         {
-            "key": "Pandalivetv",
-            "name": "😍韩国┃直播😍",
-            "type": 3,
-            "api": "csp_WexPandalivetvGuard",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
             "key": "Iktv",
             "name": "🎤KTV┃音乐🎤",
             "type": 3,
@@ -425,7 +409,7 @@
             "key": "WexDm84",
             "name": "🤡巴士┃动漫🤡",
             "type": 3,
-            "api": "csp_WexDm84Guard",
+            "api": "csp_WexYingGuard",
             "searchable": 1,
             "changeable": 1
         },
