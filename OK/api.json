@@ -619,17 +619,6 @@
             "timeout": 10
         },
         {
-            "key": "甜圈短剧",
-            "name": "🌸甜圈┃短剧",
-            "type": 3,
-            "api": "csp_TianQuanGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "timeout": 10
-        },
-        {
             "key": "yhdm",
             "name": "🌸樱花┃动漫",
             "type": 3,
