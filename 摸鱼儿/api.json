@@ -33,12 +33,29 @@
             "api": "csp_Wogg",
             "searchable": 1,
             "changeable": 1,
+            "filterable": 1,
             "ext": {
                 "site": [
                     "https://www.wogg.one",
                     "https://wogg.333232.xyz",
                     "https://wogg.xxooo.cf",
                     "https://woggpan.888484.xyz"
+                ],
+                "filter": "https://open.wya6.com/d/down/2026/json/wogg.json"
+            }
+        },
+        {
+            "key": "FishMuou",
+            "name": "木偶哥哥",
+            "type": 3,
+            "api": "csp_FishCloud",
+            "searchable": 1,
+            "ext": {
+                "site": [
+                    "https://123.666291.xyz",
+                    "https://666.666291.xyz",
+                    "https://www.muou.site",
+                    "https://www.muou.asia"
                 ]
             }
         },
@@ -99,6 +116,13 @@
             "ext": {
                 "url": "http://v.rbotv.cn"
             }
+        },
+        {
+            "key": "Guazi",
+            "name": "瓜子资源",
+            "type": 3,
+            "api": "csp_Guazi",
+            "searchable": 1
         },
         {
             "key": "bimoxinghe",
@@ -174,15 +198,6 @@
             "quickSearch": 1,
             "api": "csp_AppGet",
             "ext": "ij8RUkhocZ9ruRgraOrV50cdijznPXJjPSmDdoI59PzF/K2UT7pKnau1ohLhZpTHxdrsBe+l0Qca19BaNsP0tMwh5qgX5Vzp8djZcM8TGlBmgxUOngKyNKQe04jcTDCX"
-        },
-        {
-            "key": "mofang",
-            "name": "魔方视频",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": "N5u2FS3i/elUFAoSVYBznUpdVRryouKsxQf9kYCNANyg5U8ytpUW3mDWnqrze8ump3VfnFDqcVljBqcpY21U0K4koXlSRsB5k9tVO1PwDAfS00jmRVOCiIGctiAMykso"
         },
         {
             "key": "baige",
@@ -355,28 +370,6 @@
             "type": 3,
             "api": "csp_SeedHub",
             "searchable": 1
-        },
-        {
-            "key": "Guazi",
-            "name": "瓜子资源",
-            "type": 3,
-            "api": "csp_Guazi",
-            "searchable": 1
-        },
-        {
-            "key": "FishMuou",
-            "name": "木偶资源",
-            "type": 3,
-            "api": "csp_FishCloud",
-            "searchable": 1,
-            "ext": {
-                "site": [
-                    "https://123.666291.xyz",
-                    "https://666.666291.xyz",
-                    "https://www.muou.site",
-                    "https://www.muou.asia"
-                ]
-            }
         },
         {
             "key": "FishLabi",
@@ -557,14 +550,6 @@
             }
         },
         {
-            "key": "fanshu",
-            "name": "番薯动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": "N5u2FS3i/elUFAoSVYBzne8+r0r/kX1E+KdfHQ6FVY6/wHmWZoFfjCv2f3YfjfSbJm0/trORuqYE1PzwW9Z2IT6SnMHG1Beaes3+9Ad9p9Dy7MPFARRTA33haDFOP4SZtpBkd4utjKPyprZNVKMxvA=="
-        },
-        {
             "key": "mifun",
             "name": "米福动漫",
             "type": 3,
@@ -581,7 +566,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "ext": {
-                "SiteUrl": "https://www.dmla8.com"
+                "SiteUrl": "https://www.dmla4.com"
             }
         },
         {
