@@ -656,6 +656,15 @@
             "filterable": 0
         },
         {
+            "key": "aiting",
+            "name": "爱听｜音乐",
+            "type": 3,
+            "api": "csp_AiTingMusic",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
             "key": "Music24bit",
             "name": "无损｜音乐",
             "type": 3,
