@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣｜首页",
+            "name": "灵蛇辞岁去｜金马踏春来",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -187,6 +187,19 @@
             }
         },
         {
+            "key": "优兔",
+            "name": "优兔｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
+                "dataKey": "UrWKPnmQWJA8AQzd",
+                "dataIv": "UrWKPnmQWJA8AQzd"
+            }
+        },
+        {
             "key": "小鸟",
             "name": "小鸟｜APP",
             "type": 3,
@@ -198,6 +211,19 @@
                 "dataKey": "guodan2004031600",
                 "dataIv": "guodan2004031600",
                 "token": "fd035ffa03d62775add295bfbb7d99c131e0bb49bb9451309b0ffc4df1631146"
+            }
+        },
+        {
+            "key": "方源",
+            "name": "方源｜APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "site": "https://fyys9.fytd.top/1.txt",
+                "dataKey": "0ef6fc92a64b4e74",
+                "dataIv": "0ef6fc92a64b4e74"
             }
         },
         {
@@ -224,19 +250,6 @@
                 "site": "https://wsapi.dafenqi.mom/yuming.txt",
                 "dataKey": "bH5mI8iK0tK7aQ5x",
                 "dataIv": "bH5mI8iK0tK7aQ5x"
-            }
-        },
-        {
-            "key": "优兔",
-            "name": "优兔｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
-                "dataKey": "UrWKPnmQWJA8AQzd",
-                "dataIv": "UrWKPnmQWJA8AQzd"
             }
         },
         {
