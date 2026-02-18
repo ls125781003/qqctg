@@ -3,7 +3,7 @@
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
-            "key": "豆",
+            "key": "点我切源",
             "name": "新春大吉 马到成功！新公众号【太太太硬了】",
             "type": 3,
             "api": "csp_DouDouGuard",
@@ -206,23 +206,23 @@
             "key": "光影",
             "name": "🌞光影┃多线",
             "type": 3,
-            "api": "csp_AppSxGuard",
+            "api": "csp_AppNoxGuard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TrS2dv+1y8lL4ryEFdPZxse8yYwoKFyJOlU2M9/q2OcL8NQxT0k4zImBOA4Uobe87udCDvyWafXmuGpRG3z0Vg1KUZQ7ty7UE+qFZ1UBoc16Q=="
+            "ext": "rfOK0+FRORAJ7epFjN2FsOb1+GqQnoi1lWpnKce9V0IZMxpf6yxk9eNgZeUK3MNzrGGcdpZC2H5zoS1uF+soEYzGuuXCAiOuXKzelf2sV2f621J5ZQ4c7pP8BFS7Fs0PEY8lpRhZWwqtPa6rhhvgNctJ9j0sLEz4Mhrtm89EFe48xmFNHps1S/1GchY72uijv7aa/zlQQ6REaL7lUmXCHtnni/jUsIDOSq2XESorCnJKfnEKa/QYtsdAUX9+jckWyvpX3A=="
         },
         {
-            "key": "米团",
-            "name": "🍙米团┃多线",
+            "key": "视界",
+            "name": "🍙视界┃多线",
             "type": 3,
-            "api": "csp_AppSxGuard",
+            "api": "csp_AppNoxGuard",
             "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOK0+FRORAJ7epFjN2F+Lm9o2nF28P91TA4dIy3AAlFKw5JqColrKxydelI2IR6sXTYZ5UR0n0xqycyEeglO8+BuuDECGmuSr7GhKG/QGX42VBkbwIc7pP8BBPxQ51QZuBRwSk3Wmr8OK703W6ZI7Uui11v"
+            "ext": "rfOK0+FRORAJ7epFjN2FsOb0+G+dnI21lWFvI8G1X0oOORAJ9GV87aJ0e7pO1NFrtWjZfNRTjiJz92xnFP1qSozOqvjICH+mT6DW1uW0R2X+2VBkbwRN8JHlF0G6Fd5MCZdG0mBWVATZOKbUiB7mOcxNiEUrUDSBQmHp7MgwFZU4ymgyH+IwTPJPAh4+opPawrLh/T1YM6tDZLjgXhrGY9bs9/7QsIu1PqvuECJRdAZEDnRzG/wRyMxOU3sE8rYTzu0M"
         },
         {
             "key": "播客",
@@ -233,7 +233,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwtCFsra0umqGnpe+lWNtKs6yVR1PMxpf9CY77fshTPNP+c5lnl6CWfxm7XYO7C1p"
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SDcz8rnlT83d5z3FhMaeEUUqDo3pqx1fbpMycIs9SKEeN0FligzxT55OaAlO5qM0+WFfzCsCLA="
         },
         {
             "key": "猫猫",
@@ -255,7 +255,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/Ky8ijlm1jJ8+yU0seIgQe6DRwqrUqYeBZw91iuG3ZcN1Sz2Im+G8mF+shR+eNzbfXXm6lQP/dh6jgV3vuhAU7ZRwc9pSgTUu4VYIbAYdt+2ddGRy/WuLwxQbgQsRBzg=="
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/f39S8zDAiZ5+3AB0bcUIX63E2s7EhOq5X1M8s5yKOeMNFwX1htW9jAal7Rc+duvLCVGCiCPOCxu3v"
         },
         {
             "key": "奥特",
@@ -644,10 +644,9 @@
             "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}"
         },
         {
-            "name": "冰 茶",
+            "name": "Kimentanm",
             "type": 0,
-            "url": "./lives/冰 茶.txt",
-            "ua": "bingcha/1.1(mianfeifenxiang)"
+            "url": "./lives/Kimentanm.txt"
         },
         {
             "name": "范明明（需开启V6网络）",

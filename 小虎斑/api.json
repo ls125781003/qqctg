@@ -65,6 +65,12 @@
             "api": "csp_Duboku"
         },
         {
+            "key": "muxi",
+            "name": "人人|弹幕",
+            "type": 3,
+            "api": "csp_HBrenren"
+        },
+        {
             "key": "fishhxq",
             "name": "韩圈|弹幕",
             "type": 3,
