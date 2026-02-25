@@ -15,7 +15,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260214】🐮",
+            "name": "🐮【更新日期:20260225】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -301,6 +301,14 @@
             "changeable": 1
         },
         {
+            "key": "DuanJuTianQuan",
+            "name": "🍉短剧┃小圈🍉",
+            "type": 3,
+            "api": "csp_DuanJuTianQuanGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "DuanJuXingYa",
             "name": "🍉短剧┃星星🍉",
             "type": 3,
@@ -317,10 +325,26 @@
             "changeable": 1
         },
         {
+            "key": "DuanJuWeiGuan",
+            "name": "🍉短剧┃小薇🍉",
+            "type": 3,
+            "api": "csp_DuanJuWeiGuanGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
             "key": "DuanJuJinLi",
             "name": "🍉短剧┃小丽🍉",
             "type": 3,
             "api": "csp_DuanJuJinLiGuard",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "AnimeMoDu",
+            "name": "🤡魔都┃动漫🤡",
+            "type": 3,
+            "api": "csp_AnimeMoDuGuard",
             "searchable": 1,
             "changeable": 1
         },
