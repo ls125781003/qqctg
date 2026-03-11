@@ -11,7 +11,7 @@
             "indexs": 1,
             "searchable": 0,
             "filterable": 1,
-            "ext": "./txt/doudou.txt"
+            "ext": "./json/douban.json"
         },
         {
             "key": "FishConfig",
@@ -87,7 +87,7 @@
             "api": "csp_Zwqf",
             "searchable": 1,
             "ext": {
-                "url": "https://fishapi.wya6.com/fish/zui/moyu.php",
+                "url": "https://fishapi.wya6.com/fish/qingfeng/moyu.php",
                 "token": "moyu996"
             }
         },
