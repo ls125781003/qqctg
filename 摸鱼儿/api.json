@@ -1,6 +1,6 @@
 {
     "spider": "./spider.jar",
-    "logo": "https://open.wya6.com/d/down/2026/logo.gif",
+    "logo": "https://pubali.oss-cn-hangzhou.aliyuncs.com/20260313/150900_/m69fVxgaodm7/logo.gif",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "sites": [
         {
@@ -60,6 +60,13 @@
                     "https://www.muou.asia"
                 ]
             }
+        },
+        {
+            "key": "ALLLive",
+            "name": "星河｜共影",
+            "type": 3,
+            "api": "csp_ALLLive",
+            "searchable": 1
         },
         {
             "key": "FishPs",
@@ -135,6 +142,15 @@
             "ext": "AS489lHIPXXnFM64nq+j83AKsZBAWHJxiolcdAQhVx+XVHnaLVj3OiTSytruFyLqxsmm1AhgdalU+scPnz4hkUu01Ppy9Ttysn+LieUGod/lwmSMJ4CVW/EDO33YUhidr+lqJcnx7APcA2mG4Y+5AmEYH2Wol6qcFUo1sogtH+iYZ/YXtoPKCywF1JMyBjfj7Pn83+MTjKTUrb53bT4gJlw="
         },
         {
+            "key": "明玦",
+            "name": "明玦｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "AaIkDkIeL0bF5foLGJpX+cbUjv1IbY05okz9VBt5znOYXxZtodjbPHHdcEg6FdVbb9WW7sl623Wj49ZNOxTIHR9cruqS3Rcl5VJPgjC/JLvofUwvzUraVUMLTIxvs2j5L4vg/hN1o5TDRbWkq8SrCRxY2QopBTqPw75C/ECyvBQlV3NZjWlbu5YUr8jGhJJfdJ7o1gh6Xeg0pGMngVpBeDuQDhdUmkvCl658cEP/Oics"
+        },
+        {
             "key": "厌离",
             "name": "厌离｜APP",
             "type": 3,
@@ -153,13 +169,6 @@
             "ext": "ASeCaY5Xxcx0BdbJGIqllhkRBuCPwC/Kv1uDvURkfncW+fNupjJjBKERvDuCKL7Nc8bCYJ/Fboktq3geJgU0aE2SxOjoiU03IEtvv1np76XEOBn7dBJNwW8toIqv9PBY9T18yzCX3DoyksVEv01kRtBDqSTgbilbqOHhtNEm+L3ti2PLM08SEhkA/nE//PAwfIVtUWhsYKorNLuB7RxQ2Egqj4D7q7Tw3sH/yNbHthqw"
         },
         {
-            "key": "琼林",
-            "name": "琼林｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "AbxTsrfXTR/X02mKKEFlZ2mWBxkBXDz8hy/1cKUHgVgXe7rjelHgtwVvIUbOOUsniZ2R2mEZVcH1l2nV6ocpV/LkgiCf7uP+GGfv4UBgx4LJ7J9wcc3rHbSA8Fs+DAWFykFa1o37Y/mwDRr/ikbof52Zs7e+qldp4sT/ixG0tvBw7V9zMA0YD8q3rQFc0TZf83MLE+P1y7/q4J8msjy3jx4="
-        },
-        {
             "key": "思追",
             "name": "思追丨APP",
             "type": 3,
@@ -167,6 +176,29 @@
             "changeable": 1,
             "api": "csp_AppGet",
             "ext": "AZMWjtBVHqg1eqc24zPBCnp+8nUMJ1DhABffeziVNB/hZ1AHDr9HynmQ7Hea0MJa9TQvImvwo+VcBjCulptXIj6796jroFgU16XtcGODMtfDJ8RJjrEa+2QJ1eVamXkB+N3GrowCHjQsVd5GK4QAxVeW7oVMa/kmxFpF4XWFHhz5YGcXOSxIhznhRlZln5Ap8sol6sjWUfBhblNbLgjDBzKdTxu/NjbUZFhO8y6IP8SZhvrY0CxMo8/Kp6AnCYGRyA=="
+        },
+        {
+            "key": "琼林",
+            "name": "琼林｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "AW8zc43nkd9VeK5DW/DjDZZyQ8CitfFSJkst0xRXhXKcj6hD8v1lusJ6ESqiEdq4U9Sr7SwyYTtqa4cJasPcQfIJNNXAbtzzK1SRuX5y5rV0MoS7+vWxG8iPCQvXee+amQTW4IiuoWX3HVnOSd+ViPayPdXO+rvvR+ymyTYToZAW8UikQ/chpFk3HKJ+bLBq/FejMjlZvZdbCyM/3ZYxY9E="
+        },
+        {
+            "key": "金牌",
+            "name": "金牌｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://qj3.ggtvb.cc",
+                "dataKey": "eecbio48dsq13kkk",
+                "dataIv": "eecbio48dsq13kkk",
+                "search": "searchList4",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
         },
         {
             "key": "忘机",
@@ -435,12 +467,12 @@
             "ext": "https://www.czzymovie.com"
         },
         {
-            "key": "Jpys",
-            "name": "金牌｜影视",
+            "key": "wencai",
+            "name": "文才｜影视",
             "type": 3,
-            "api": "csp_Jpys",
+            "api": "csp_WenCai",
             "searchable": 1,
-            "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+            "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
         },
         {
             "key": "Guazi",

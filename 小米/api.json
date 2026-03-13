@@ -174,7 +174,7 @@
             "api": "csp_XBPQ",
             "timeout": 12,
             "jar": "./jars/csp_XBPQ.jar",
-            "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.5\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"15\"}"
+            "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.6\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"16\"}"
         },
         {
             "key": "爱影视",
@@ -192,6 +192,23 @@
             "changeable": 1,
             "api": "csp_AppGet",
             "ext": "https://shangjihuoke.com|8E2DC386FD452D05"
+        },
+        {
+            "key": "暮气",
+            "name": "♨️星河｜1080P",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|122"
+        },
+        {
+            "key": "仓鼠APP",
+            "name": "🐭仓鼠｜1080P",
+            "type": 3,
+            "timeout": 15,
+            "api": "csp_AppGet",
+            "ext": "https://cs450appcms.cs4k.top|cD7wZ7iY6qN3sU1z"
         },
         {
             "key": "金牌影院GET",
@@ -218,7 +235,7 @@
             "changeable": "1",
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "http://117.50.204.35:520|ca94b06ca3c7d80e|122"
+            "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw7.txt|ca94b06ca3c7d80e|122"
         },
         {
             "key": "秒看",

@@ -27,13 +27,6 @@
             "filterable": 1
         },
         {
-            "key": "弹幕",
-            "name": "🅿弹幕┃刷新自动启动",
-            "type": 3,
-            "api": "csp_GoConfigAmnsr",
-            "jar": "./jars/弹幕.jar"
-        },
-        {
             "key": "ConfigCenter",
             "name": "🅿网盘配置中心",
             "type": 3,
@@ -147,15 +140,25 @@
             "ext": "7lj763gg402i79425l2l9j9jh14i9ijil0h1jk58ih8633354h0l18lil40h755g029i0ghhil4gh89i133hk9i9l1k604i9g4797k09k8k5j3j73kgj1hg725gg575ig9g790"
         },
         {
-            "name": "🏭厂长",
             "key": "厂长",
+            "name": "🏭厂长",
             "type": 3,
             "api": "csp_CzzyAmns",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jars/弹幕.jar"
+            "jar": "./jars/厂长.jar"
+        },
+        {
+            "key": "csp_Jianpian",
+            "name": "✂️荐片",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/jianpian.json"
         },
         {
             "key": "csp_SaoHuo",
@@ -273,16 +276,6 @@
             }
         },
         {
-            "key": "csp_Jianpian",
-            "name": "🧲荐片",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/jianpian.json"
-        },
-        {
             "key": "csp_Dygang",
             "name": "🧲电影港",
             "type": 3,
@@ -386,7 +379,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jars/弹幕.jar"
+            "jar": "./jars/厂长.jar"
         },
         {
             "name": "🍉找短剧",
@@ -398,7 +391,7 @@
             "filterable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "./jars/弹幕.jar"
+            "jar": "./jars/厂长.jar"
         },
         {
             "name": "🍩甜圈短剧",
@@ -409,7 +402,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jars/弹幕.jar"
+            "jar": "./jars/厂长.jar"
         },
         {
             "name": "🎦豪堪短剧",
@@ -420,7 +413,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jars/弹幕.jar"
+            "jar": "./jars/厂长.jar"
         },
         {
             "name": "📺盒马短剧",
@@ -431,7 +424,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jars/弹幕.jar"
+            "jar": "./jars/厂长.jar"
         },
         {
             "name": "🎞️拜拜短剧",
@@ -442,7 +435,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jars/弹幕.jar"
+            "jar": "./jars/厂长.jar"
         },
         {
             "name": "🐠锦鲤短剧",
@@ -453,7 +446,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jars/弹幕.jar"
+            "jar": "./jars/厂长.jar"
         },
         {
             "name": "🐱喵喵短剧",
@@ -464,7 +457,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jars/弹幕.jar"
+            "jar": "./jars/厂长.jar"
         },
         {
             "name": "⭐星星短剧",
@@ -475,7 +468,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jars/弹幕.jar"
+            "jar": "./jars/厂长.jar"
         },
         {
             "name": "🎂岁岁短剧",
@@ -486,7 +479,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jars/弹幕.jar"
+            "jar": "./jars/厂长.jar"
         },
         {
             "key": "豆瓣",
