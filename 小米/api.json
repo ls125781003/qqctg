@@ -4,24 +4,28 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🎬热播｜公众号:搬运分享屋 修复影视仓弹幕",
+            "name": "🎬热播｜公众号:搬运分享屋 ",
             "type": 3,
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
             "api": "csp_Douban",
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            },
             "searchable": 0
         },
         {
             "key": "config",
-            "name": "⚙️网盘｜Cookie配置",
+            "name": "⚙️网盘｜Cookie配置 加群：1023808147",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0
         },
         {
             "key": "csp_Netfixtv",
-            "name": "✨☁️至臻4K｜网盘",
+            "name": "🚀✈️至臻4K｜网盘",
             "type": 3,
             "changeable": "0",
             "quickSearch": 1,
@@ -71,7 +75,7 @@
         },
         {
             "key": "csp_Wogg",
-            "name": "✨☁️玩偶4K｜网盘",
+            "name": "🧁🧀玩偶4K｜网盘",
             "type": 3,
             "api": "csp_Wogg",
             "timeout": 15,
@@ -127,6 +131,10 @@
             "quickSearch": 0,
             "timeout": 12,
             "searchable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            },
             "ext": ""
         },
         {
@@ -134,6 +142,10 @@
             "name": "🏀看球｜直播",
             "type": 3,
             "api": "csp_Kanqiu",
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            },
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
@@ -150,7 +162,7 @@
             "timeout": 12,
             "searchable": 1,
             "ext": {
-                "json": "https://pan-1.vma.cc/pan/down.php/699148f919c79be3493e53c780d8e2a8.txt",
+                "json": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/50e4430df0b5644f/bilibil.json",
                 "cookie": ""
             },
             "style": {
@@ -159,22 +171,23 @@
             }
         },
         {
-            "key": "csp_XBPQ",
-            "name": "📦米口｜测试",
+            "key": "秒看",
+            "name": "🌅秒看｜1080P",
             "type": 3,
-            "api": "csp_XBPQ",
-            "timeout": 12,
-            "jar": "./jars/csp_XBPQ.jar",
-            "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"http://111.170.7.114:8081\",\"xas\":\"3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3\",\"xavn\":\"0.1.5\",\"xap\":\"com.muyuesg.app\",\"xavc\":\"15\"}"
-        },
-        {
-            "key": "csp_XBPQ2",
-            "name": "📦独家｜测试",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "timeout": 12,
-            "jar": "./jars/csp_XBPQ.jar",
-            "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.6\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"16\"}"
+            "timeout": 15,
+            "api": "./api/getapp.py",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "host": "https://mk1080.top/get.txt",
+                "指定域名": "1",
+                "数据密钥": "c60d88b2eep53za8",
+                "数据向量": "c60d88b2eep53za8",
+                "接口版本": "/api.php/getappapi",
+                "登录类型": "token",
+                "认证令牌": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
+            }
         },
         {
             "key": "爱影视",
@@ -182,11 +195,11 @@
             "type": 3,
             "timeout": 15,
             "api": "csp_AppGet",
-            "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q19.txt|fff32466kkfff616|122"
+            "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q20.txt|ada211sdfsff3261|122"
         },
         {
             "key": "段友",
-            "name": "♨️段友｜1080P",
+            "name": "🎪段友｜1080P",
             "type": 3,
             "searchable": 1,
             "changeable": 1,
@@ -238,25 +251,6 @@
             "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw7.txt|ca94b06ca3c7d80e|122"
         },
         {
-            "key": "秒看",
-            "name": "🌅秒看｜1080P",
-            "type": 3,
-            "timeout": 15,
-            "api": "./api/getapp.py",
-            "changeable": "1",
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": {
-                "host": "https://mk1080.top/get.txt",
-                "指定域名": "1",
-                "数据密钥": "c60d88b2eep53za8",
-                "数据向量": "c60d88b2eep53za8",
-                "接口版本": "/api.php/getappapi",
-                "登录类型": "token",
-                "认证令牌": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
-            }
-        },
-        {
             "key": "3QQQ",
             "name": "🍅小米｜大鹅",
             "type": 3,
@@ -272,12 +266,22 @@
             "ext": "https://www.jqqzx.top/"
         },
         {
-            "key": "追忆",
-            "name": "📜小米｜追忆",
+            "key": "csp_XBPQ",
+            "name": "📦米口｜测试",
             "type": 3,
-            "timeout": 15,
-            "api": "csp_AppNox",
-            "ext": "WQvB2Qw4Lp6LvWZcoDzAgWcdOv1mVLeY0zsSUm7bMIsicAsgOHNIjC8Yu9jjcHqnMDGY+94VxdIFzQm2fN7mCdhyQreUnNyGkNwiluieESzk83LDnj0Nwx0dwt1VZDTzYrWoXL55vf7YY1yjMID/C5SZN8uNA08bwHQzDwY8xEtGACOAb6Z/0z9n1NN1qApbyxoouOKKEsekOhSlAhE+czjC+tU+78MSRpA3l+n2+gA="
+            "api": "csp_XBPQ",
+            "timeout": 12,
+            "jar": "./jars/csp_XBPQ.jar",
+            "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"http://111.170.7.114:8081\",\"xas\":\"3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3\",\"xavn\":\"0.1.5\",\"xap\":\"com.muyuesg.app\",\"xavc\":\"15\"}"
+        },
+        {
+            "key": "csp_XBPQ2",
+            "name": "📦独家｜测试",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "timeout": 12,
+            "jar": "./jars/csp_XBPQ.jar",
+            "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.6\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"16\"}"
         },
         {
             "key": "荐片",
@@ -296,7 +300,7 @@
         },
         {
             "key": "番剧2",
-            "name": "💥米口｜动漫",
+            "name": "🧇米口｜番剧",
             "type": 3,
             "searchable": 1,
             "changeable": 1,

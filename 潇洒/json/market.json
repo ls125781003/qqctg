@@ -15,33 +15,33 @@
         "list": [
             {
                 "name": "手机端(64位)",
-                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/mobile-arm64_v8a-3.7.5.apk",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/mobile-arm64_v8a-5.0.0.apk",
                 "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
-                "version": "3.7.5"
+                "version": "5.0.0"
             },
             {
                 "name": "手机端(32位)",
-                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/mobile-armeabi_v7a-3.7.5.apk",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/mobile-armeabi_v7a-5.0.0.apk",
                 "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
-                "version": "3.7.5"
+                "version": "5.0.0"
             },
             {
                 "name": "电视端(64位)",
-                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-arm64_v8a-3.7.5.apk",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-arm64_v8a-5.0.0.apk",
                 "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
-                "version": "3.7.5"
+                "version": "5.0.0"
             },
             {
                 "name": "电视端(32位)",
-                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-armeabi_v7a-3.7.5.apk",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-armeabi_v7a-5.0.0.apk",
                 "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
-                "version": "3.7.5"
+                "version": "5.0.0"
             },
             {
                 "name": "电视端(海信)",
-                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-hisense-3.7.5.apk",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-hisense-5.0.0.apk",
                 "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
-                "version": "3.7.5"
+                "version": "5.0.0"
             },
             {
                 "name": "电视端(64位)安卓5",
@@ -62,27 +62,27 @@
         "list": [
             {
                 "name": "手机端(64位)",
-                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/mobile-arm64_v8a-5.0.6.apk",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/mobile-arm64_v8a-5.0.7.apk",
                 "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
-                "version": "5.0.6"
+                "version": "5.0.7"
             },
             {
                 "name": "手机端(模拟器)",
-                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/mobile-arm64_v8a-5.0.6_x.apk",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/mobile-arm64_v8a-5.0.7_x.apk",
                 "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
-                "version": "5.0.6"
+                "version": "5.0.7"
             },
             {
                 "name": "电视端(64位)",
-                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-arm64_v8a-5.0.6.apk",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-arm64_v8a-5.0.7.apk",
                 "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
-                "version": "5.0.6"
+                "version": "5.0.7"
             },
             {
                 "name": "电视端(32位)",
-                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-armeabi_v7a-5.0.6.apk",
+                "url": "https://gh.nxnow.top/https://github.com/PizazzGY/OK-APP/releases/download/OK影视/leanback-armeabi_v7a-5.0.7.apk",
                 "icon": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260206/w52b/500X500/ok.png",
-                "version": "5.0.6"
+                "version": "5.0.7"
             }
         ]
     },

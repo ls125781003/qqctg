@@ -228,6 +228,20 @@
             "timeout": 25
         },
         {
+            "key": "4K指南",
+            "name": "⭐指南┃4K原盘",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "ext": {
+                "sp": "Zn4k"
+            },
+            "timeout": 30
+        },
+        {
             "key": "盘他",
             "name": "🎸盘他┃4K",
             "type": 3,
@@ -1497,25 +1511,7 @@
             ]
         }
     ],
-    "proxy": [
-        "raw.githubusercontent.com",
-        "googlevideo.com",
-        "cdn.v82u1l.com",
-        "cdn.iz8qkg.com",
-        "cdn.kin6c1.com",
-        "c.biggggg.com",
-        "c.olddddd.com",
-        "haiwaikan.com",
-        "www.histar.tv",
-        "youtube.com",
-        "uhibo.com",
-        ".*boku.*",
-        ".*nivod.*",
-        ".*ulivetv.*",
-        "188766.xyz",
-        "4gtv.tv",
-        "iill.top"
-    ],
+    "proxy": [],
     "rules": [
         {
             "name": "cl",
