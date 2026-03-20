@@ -4,16 +4,12 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🎬热播｜公众号:搬运分享屋 ",
+            "name": "🎬热播｜公众号:搬运分享屋 兼容ISO原盘 播放 ",
             "type": 3,
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
             "api": "csp_Douban",
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            },
             "searchable": 0
         },
         {
@@ -190,6 +186,24 @@
             }
         },
         {
+            "key": "花猪",
+            "name": "🐖花猪｜1080P",
+            "type": 3,
+            "timeout": 15,
+            "api": "./api/getapp.py",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "host": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/wenxintishi.txt",
+                "指定域名": "1",
+                "数据密钥": "h2t8fjo964j2sl6a",
+                "数据向量": "h2t8fjo964j2sl6a",
+                "接口版本": "/api.php/qijiappapi",
+                "启用搜索签名": "1"
+            }
+        },
+        {
             "key": "爱影视",
             "name": "🏞️爱影｜1080P",
             "type": 3,
@@ -207,8 +221,8 @@
             "ext": "https://shangjihuoke.com|8E2DC386FD452D05"
         },
         {
-            "key": "暮气",
-            "name": "♨️星河｜1080P",
+            "key": "星河",
+            "name": "💥星河｜1080P",
             "type": 3,
             "searchable": 1,
             "changeable": 1,
@@ -221,7 +235,7 @@
             "type": 3,
             "timeout": 15,
             "api": "csp_AppGet",
-            "ext": "https://cs450appcms.cs4k.top|cD7wZ7iY6qN3sU1z"
+            "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o|122"
         },
         {
             "key": "金牌影院GET",

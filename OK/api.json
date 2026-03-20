@@ -1,11 +1,11 @@
 {
     "spider": "./spider.jar",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
-    "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/ACB34B_773_photo_2022-09-14_00-00-57_20251204145106336newMediaImage.jpg",
+    "logo": "http://oss4liview.moji.com/thd_file/2026/03/16/8f3aa460979f999455633dc256d27a34.jpg",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🤓公众号┃OK杰克 (关注不迷路)",
+            "name": "🤓公众号┃OK猫开发 (关注不迷路)",
             "type": 3,
             "api": "csp_AweSomeGuard",
             "searchable": 0,
