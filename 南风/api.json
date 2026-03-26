@@ -94,6 +94,20 @@
             "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
         },
         {
+            "key": "爱影",
+            "name": "💖爱影",
+            "type": 3,
+            "api": "csp_Qiji",
+            "ext": "7lj763gg402i7942503399j2g04i989jhig7j94k818g326i51491kljlk134k401g9g54gk8j5i9097751kh28kh9kj4gh7hk746i4gl8h3illj74j46ik06hgh5k46lig490l4g76h237i9k106j0481l34k7574h7g93i71h7j2llj5j9"
+        },
+        {
+            "key": "真不错",
+            "name": "💯真不错",
+            "type": 3,
+            "api": "csp_Xdai",
+            "ext": "7lj763gg402i79424h288987hh518l81hih2i85k98827220425107k5ji43503i4i957hk19261i58k134ghi9lk0j94ikii2377778h2h8l8gg2igj6gl273lk1j12"
+        },
+        {
             "key": "橘子",
             "name": "🍊橘子",
             "type": 3,
@@ -591,7 +605,7 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-                "siteUrl": "https://www.2xiaopan.top",
+                "siteUrl": "https://2xiaopan.top",
                 "filter": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
             }
         },
@@ -604,7 +618,7 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-                "siteUrl": "https://www.mihdr.top",
+                "siteUrl": "https://mihdr.top",
                 "filter": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
             }
         },

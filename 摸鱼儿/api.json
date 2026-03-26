@@ -1,6 +1,6 @@
 {
     "spider": "./spider.jar",
-    "logo": "https://pubali.oss-cn-hangzhou.aliyuncs.com/20260313/150900_/m69fVxgaodm7/logo.gif",
+    "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "sites": [
         {
@@ -43,7 +43,7 @@
                     "https://wogg.xxooo.cf",
                     "https://woggpan.888484.xyz"
                 ],
-                "filter": "https://open.wya6.com/d/down/2026/json/wogg.json"
+                "filter": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260320/oOf4/wogg.json"
             }
         },
         {
@@ -108,7 +108,7 @@
         },
         {
             "key": "Kan360",
-            "name": "倦枕｜星河",
+            "name": "流离｜寒鸦",
             "type": 3,
             "api": "csp_Kan360",
             "searchable": 1,
@@ -139,7 +139,16 @@
             "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
-            "ext": "AS489lHIPXXnFM64nq+j83AKsZBAWHJxiolcdAQhVx+XVHnaLVj3OiTSytruFyLqxsmm1AhgdalU+scPnz4hkUu01Ppy9Ttysn+LieUGod/lwmSMJ4CVW/EDO33YUhidr+lqJcnx7APcA2mG4Y+5AmEYH2Wol6qcFUo1sogtH+iYZ/YXtoPKCywF1JMyBjfj7Pn83+MTjKTUrb53bT4gJlw="
+            "ext": "AR82xQqx10HjI70Heakxd83p0/ricCplph+Pql06xkvsmL0CpktBKIHchfDTKE+RubliRbFaad0hk462N7FPjtaic3oBxvqhcnHgZxvPcvwU0x9/kZ62IEuWBUiSsP2ENmOHL07VPvdCwMSCMS8FpIIOefGpPDQzDOQ4bfR3bA6WDbfU85cA2UXnWMBWuXB62CFFttYxOE6eRGXBLMmiLyk="
+        },
+        {
+            "key": "明玦",
+            "name": "明玦｜APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "AaIkDkIeL0bF5foLGJpX+cbUjv1IbY05okz9VBt5znOYXxZtodjbPHHdcEg6FdVbb9WW7sl623Wj49ZNOxTIHR9cruqS3Rcl5VJPgjC/JLvofUwvzUraVUMLTIxvs2j5L4vg/hN1o5TDRbWkq8SrCRxY2QopBTqPw75C/ECyvBQlV3NZjWlbu5YUr8jGhJJfdJ7o1gh6Xeg0pGMngVpBeDuQDhdUmkvCl658cEP/Oics"
         },
         {
             "key": "厌离",
@@ -182,14 +191,7 @@
             "api": "csp_AppQi",
             "searchable": 1,
             "changeable": 1,
-            "ext": {
-                "url": "https://qj3.ggtvb.cc",
-                "dataKey": "eecbio48dsq13kkk",
-                "dataIv": "eecbio48dsq13kkk",
-                "search": "searchList4",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
+            "ext": "AccPe9U3uwbj1w7xLRB0oQV5Z0KCkW2w7hZ/tzlA8SzK8HYJMQsxSE/8SYpgQQyVkVwndHWiP3Ue8jviK5lNsizNjs1icLOADQ/BW23lhbyWIZF90Cy7ZtBRE80oLWMlAAhT1E/C9L0dyS7v8lD+rMxR4VPFtMMppjgjO2ZZyh6UwfRdncmJvZPpL5F8DxrUpinlJvTBx7u1Y7UlrLSWhFlw09p3xBoLNsZMA8wT08CtArohWJo77bu4jr4WQeHJcA=="
         },
         {
             "key": "忘机",
@@ -212,6 +214,23 @@
             "ext": "AcQgxCZJh0zfuqWhi3EWO0lHZHvcxjcjkSwh/L0j5HEY9Fq3+o2hdqQXb/2viRHayRmBY64JuCWIkKKgRdpy650qa/qp5Yx5LMXbHLNBOw7Y2ZGmPIKIXZw4s07EI1OuOTxg5Jj1a2VvZaGGrWPO5Zx84C6LNBDniS3O/XXNtDexGf7mP03SjlVcLkS00BSjgZJIy7PZA3fuP0lUeIdK+T0JzxKFrX5IxrgxOGYTCb4UUXOKaASBFqPcbpdj1SMNkCxWhqz9lcA8n+r81dRn4TMOKoyFaxJmX3DfKc1UzGgH"
         },
         {
+            "key": "景仪",
+            "name": "景仪｜APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "AXBlmIaXssBpd3Fa+kwjwLQb1/iS17U9n98QF7PrEQQBsrDqGYa/UHvP9eMSQFc7xxy63YaGklVEc+zsxq7CHCQEnNfRoaZdDnwsUwKmWxnYn4lRh3CRnB6gOvpRkamwTzo6Ytzy0enTk/xpedKn+Z8DUSn7CsdzN51bXQA8I2K32X7yAnnIKXwZfslGY5H8Y0eMEYSLh/Ny+xy2UQO2jT7GrWI9Ih8uT6wSdIXGXAnpjySRe5YMMXwVltzCkBw0Ow=="
+        },
+        {
+            "key": "麒麟",
+            "name": "麒麟｜APP",
+            "type": 3,
+            "changeable": 0,
+            "api": "csp_AppFox",
+            "ext": "Ac9bpM2BcSDtRFXJIKv7cKam+MagzI4MRN9VkD0cdbZYR2sdZMY+KrFlbb/4YNndRu8tZ6ryTJc7jJekLp6O4gnnRwzqwP3+4rp/r5A5u/Qt"
+        },
+        {
             "key": "Libvio",
             "name": "立播｜4K",
             "type": 3,
@@ -228,6 +247,33 @@
             }
         },
         {
+            "key": "KZN",
+            "name": "指南｜4K",
+            "type": 3,
+            "api": "csp_KZN",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Qiwei",
+            "name": "七味｜4K",
+            "type": 3,
+            "api": "csp_Qiwei",
+            "searchable": 1,
+            "filterable": 0,
+            "ext": {
+                "site": [
+                    "https://www.qwnull.com",
+                    "https://www.qwmkv.com",
+                    "https://www.qwfilm.com",
+                    "https://www.qnmp4.com",
+                    "https://www.qnnull.com",
+                    "https://www.qnhot.com",
+                    "https://www.qncool.com"
+                ]
+            }
+        },
+        {
             "key": "gying",
             "name": "观影｜4K",
             "type": 3,
@@ -238,14 +284,14 @@
             "ext": {
                 "cookie": "",
                 "site": [
-                    "https://www.gying.si",
-                    "https://www.gying.org",
-                    "https://www.gying.net",
-                    "https://www.gying.in",
-                    "https://www.gying.st",
-                    "https://www.gyg.la",
-                    "https://www.gyg.si",
-                    "https://www.gyg.st"
+                    "https://www.教父.com",
+                    "https://www.星际穿越.com",
+                    "https://www.楚门的世界.com",
+                    "https://www.泰坦尼克号.com",
+                    "https://www.盗梦空间.com",
+                    "https://www.肖申克的救赎.com",
+                    "https://www.阿甘正传.com",
+                    "https://www.黑客帝国.com"
                 ]
             }
         },
@@ -332,7 +378,15 @@
             "type": 3,
             "api": "csp_LeiJing",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.leijing.xyz",
+                    "https://www.leijing1.com",
+                    "https://leijing1.com"
+                ],
+                "cookie": ""
+            }
         },
         {
             "key": "PanTa",
@@ -359,7 +413,7 @@
                 "site": [
                     "https://www.kfjwzz.com"
                 ],
-                "cookie": "bbs_sid=nqj3m4c3jo14hj61o3mtulmbqm; bbs_token=0DJ_2FBrXm3SPQ2qtwzIJd70iM_2BK02F_2BYOzTNOUy4TquXt5l4J"
+                "cookie": ""
             }
         },
         {
@@ -660,6 +714,18 @@
             "filterable": 1,
             "indexs": 0,
             "ext": "http://www.88kanqiu.one",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "Sir88",
+            "name": "超全｜体育",
+            "type": 3,
+            "api": "csp_Sir88",
+            "searchable": 0,
+            "filterable": 1,
+            "indexs": 0,
             "style": {
                 "type": "list"
             }

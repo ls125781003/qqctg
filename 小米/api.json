@@ -167,38 +167,19 @@
             }
         },
         {
-            "key": "秒看",
-            "name": "🌅秒看｜1080P",
-            "type": 3,
-            "timeout": 15,
-            "api": "./api/getapp.py",
-            "changeable": "1",
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": {
-                "host": "https://mk1080.top/get.txt",
-                "指定域名": "1",
-                "数据密钥": "c60d88b2eep53za8",
-                "数据向量": "c60d88b2eep53za8",
-                "接口版本": "/api.php/getappapi",
-                "登录类型": "token",
-                "认证令牌": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
-            }
-        },
-        {
             "key": "花猪",
             "name": "🐖花猪｜1080P",
             "type": 3,
             "timeout": 15,
-            "api": "./api/getapp.py",
+            "api": "./api/avatar%2Fc8b4b784-d720-4c2f-aa09-077c3823482c.py",
             "changeable": "1",
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "host": "https://tiantangyoulu.oss-cn-beijing.aliyuncs.com/wenxintishi.txt",
+                "host": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/axiba.txt",
                 "指定域名": "1",
-                "数据密钥": "h2t8fjo964j2sl6a",
-                "数据向量": "h2t8fjo964j2sl6a",
+                "数据密钥": "h5w3d6g1j9s2h3f6",
+                "数据向量": "h5w3d6g1j9s2h3f6",
                 "接口版本": "/api.php/qijiappapi",
                 "启用搜索签名": "1"
             }
@@ -221,16 +202,23 @@
             "ext": "https://shangjihuoke.com|8E2DC386FD452D05"
         },
         {
+            "key": "幕启星河",
+            "name": "⭐星河┃1080P",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|122|okhttp/3.10.0|Lavf/58.12.100"
+        },
+        {
             "key": "星河",
-            "name": "💥星河｜1080P",
+            "name": "💥可以｜1080P",
             "type": 3,
             "searchable": 1,
             "changeable": 1,
             "api": "csp_AppGet",
-            "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|122"
+            "ext": "https://zbc4kmcs.zbc4k.app|vE4kR7cF6jS6jH7a"
         },
         {
-            "key": "仓鼠APP",
+            "key": "仓鼠1080P",
             "name": "🐭仓鼠｜1080P",
             "type": 3,
             "timeout": 15,
@@ -244,25 +232,6 @@
             "timeout": 15,
             "api": "csp_AppGet",
             "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|122"
-        },
-        {
-            "key": "橘子Get",
-            "name": "🍊橘子｜1080P",
-            "type": 3,
-            "timeout": 15,
-            "api": "csp_AppGet",
-            "ext": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt|jasaFBcdV3zrUDf2|122"
-        },
-        {
-            "key": "顾我",
-            "name": "🖼️顾我｜1080P",
-            "type": 3,
-            "timeout": 15,
-            "api": "csp_AppGet",
-            "changeable": "1",
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw7.txt|ca94b06ca3c7d80e|122"
         },
         {
             "key": "3QQQ",
@@ -280,22 +249,10 @@
             "ext": "https://www.jqqzx.top/"
         },
         {
-            "key": "csp_XBPQ",
-            "name": "📦米口｜测试",
+            "key": "csp_SaoHuo",
+            "name": "🔥火火┃影视",
             "type": 3,
-            "api": "csp_XBPQ",
-            "timeout": 12,
-            "jar": "./jars/csp_XBPQ.jar",
-            "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"http://111.170.7.114:8081\",\"xas\":\"3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3\",\"xavn\":\"0.1.5\",\"xap\":\"com.muyuesg.app\",\"xavc\":\"15\"}"
-        },
-        {
-            "key": "csp_XBPQ2",
-            "name": "📦独家｜测试",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "timeout": 12,
-            "jar": "./jars/csp_XBPQ.jar",
-            "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"https://xdsj.xywla.com\",\"xas\":\"7D:69:AF:92:9A:9F:A6:88:65:07:B2:DB:50:FC:CD:DD:2D:C2:9A:E4:01:9C:ED:56:12:2C:50:6D:E3:CD:38:F6\",\"xavn\":\"1.0.6\",\"xap\":\"com.xiaodoshijie.app\",\"xavc\":\"16\"}"
+            "api": "csp_SaoHuo"
         },
         {
             "key": "荐片",
@@ -310,7 +267,7 @@
                 "type": "rect",
                 "ratio": 1.333
             },
-            "ext": "https://ev2089.zxbwv.com"
+            "ext": "https://fg7q8g.zxesz.com"
         },
         {
             "key": "番剧2",
@@ -462,6 +419,94 @@
             "name": "🌃夜幕",
             "type": 0,
             "url": ""
+        }
+    ],
+    "rules": [
+        {
+            "name": "农民",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "豆瓣图片",
+            "hosts": [
+                "doubanio.com"
+            ],
+            "regex": [
+                "view/photo",
+                "m_ratio_poster",
+                "public",
+                "jpg"
+            ],
+            "referer": "https://www.douban.com/"
+        },
+        {
+            "name": "火山",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "磁力广告",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "更多",
+                "请访问",
+                "example",
+                "社 區",
+                "x u u",
+                "直 播",
+                "更 新",
+                "社 区",
+                "有趣",
+                "有 趣",
+                "英皇体育",
+                "全中文AV在线",
+                "澳门皇冠赌场",
+                "哥哥快来",
+                "美女荷官",
+                "裸聊",
+                "新片首发",
+                "UUE29"
+            ]
+        },
+        {
+            "name": "饭团点击",
+            "hosts": [
+                "dadagui",
+                "freeok",
+                "dadagui"
+            ],
+            "script": [
+                "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();"
+            ]
+        },
+        {
+            "name": "毛驴点击",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
+            ]
         }
     ],
     "logo": "https://wkphoto.bj.bcebos.com/bba1cd11728b47106798119ad3cec3fdfc032335.jpg",

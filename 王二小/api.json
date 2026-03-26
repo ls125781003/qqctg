@@ -15,7 +15,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260318】🐮",
+            "name": "🐮【更新日期:20260326】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -339,6 +339,15 @@
             "api": "csp_BookShiJieGuard",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "BookYueTing",
+            "name": "🎃‍悦庭┃听书🎃",
+            "type": 3,
+            "api": "csp_BookYueTingGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 120
         },
         {
             "key": "BookWuWei",
