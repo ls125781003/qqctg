@@ -12,7 +12,7 @@
         },
         {
             "key": "豆瓣1",
-            "name": "📢公告❤更新03.23❤",
+            "name": "📢公告❤更新04.01❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 1,
@@ -57,7 +57,7 @@
                 ],
                 "url_key": "wogg1",
                 "threadinfo": {
-                    "chunksize": 490,
+                    "chunksize": 421,
                     "threads": 16
                 }
             }
@@ -80,7 +80,7 @@
                 ],
                 "url_key": "woog2",
                 "threadinfo": {
-                    "chunksize": 475,
+                    "chunksize": 411,
                     "threads": 16
                 }
             }
@@ -128,13 +128,6 @@
             "ext": "https://vip.wwgz.cn:5200"
         },
         {
-            "key": "韩圈",
-            "name": "💡韩圈｜影视",
-            "type": 3,
-            "api": "csp_Hxq",
-            "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
-        },
-        {
             "key": "坚果影视",
             "name": "💡坚果｜影视",
             "type": 3,
@@ -157,15 +150,6 @@
             "name": "💡瓜子｜影视",
             "type": 3,
             "api": "csp_Gz360"
-        },
-        {
-            "key": "爱看机器人",
-            "name": "💡爱看｜影视",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "奇优影视",
@@ -276,32 +260,6 @@
             }
         },
         {
-            "key": "优兔",
-            "name": "👑优兔｜影视",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
-                "dataKey": "UrWKPnmQWJA8AQzd",
-                "dataIv": "UrWKPnmQWJA8AQzd"
-            }
-        },
-        {
-            "key": "王子",
-            "name": "👑王子｜影视",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://app.95112475.xyz",
-                "dataKey": "5a9w6x58dsq6z3a6",
-                "dataIv": "5a9w6x58dsq6z3a6"
-            }
-        },
-        {
             "key": "爱盈",
             "name": "👑爱盈｜影视",
             "type": 3,
@@ -346,20 +304,6 @@
             }
         },
         {
-            "key": "爱影",
-            "name": "👑爱影｜影视",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q19.txt",
-                "dataKey": "fff32466kkfff616",
-                "dataIv": "fff32466kkfff616",
-                "ua": "okhttp/3.10.0"
-            }
-        },
-        {
             "key": "小猪",
             "name": "👑小猪｜影视",
             "type": 3,
@@ -370,22 +314,6 @@
                 "site": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/xinjian.txt",
                 "dataKey": "k5t2fp3h9d25hn9y",
                 "dataIv": "k5t2fp3h9d25hn9y",
-                "ua": "okhttp/3.10.0"
-            }
-        },
-        {
-            "key": "橘子",
-            "name": "👑橘子｜影视",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt",
-                "dataKey": "jasaFBcdV3zrUDf2",
-                "dataIv": "jasaFBcdV3zrUDf2",
-                "version": "305",
-                "init": "initV122",
                 "ua": "okhttp/3.10.0"
             }
         },
@@ -1366,7 +1294,7 @@
         {
             "name": "失败手动换",
             "type": "1",
-            "url": "https://by1.nxog.eu.org/jx.php?ou=146&mz=0&url=",
+            "url": "https://by1.nxog.eu.org/jx.php?ou=192&mz=0&url=",
             "ext": {
                 "header": {
                     "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
@@ -1376,17 +1304,17 @@
         {
             "name": "-关注-",
             "type": 1,
-            "url": "https://by1.nxog.eu.org/jx.php?ou=146&mz=1&url="
+            "url": "https://by1.nxog.eu.org/jx.php?ou=192&mz=1&url="
         },
         {
             "name": "-装歌API-",
             "type": 1,
-            "url": "https://by1.nxog.eu.org/jx.php?ou=146&mz=2&url="
+            "url": "https://by1.nxog.eu.org/jx.php?ou=192&mz=2&url="
         },
         {
             "name": "-公众号-",
             "type": 1,
-            "url": "https://by1.nxog.eu.org/jx.php?ou=146&mz=3&url="
+            "url": "https://by1.nxog.eu.org/jx.php?ou=192&mz=3&url="
         },
         {
             "name": "装歌APP",

@@ -139,7 +139,7 @@
             "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
-            "ext": "AR82xQqx10HjI70Heakxd83p0/ricCplph+Pql06xkvsmL0CpktBKIHchfDTKE+RubliRbFaad0hk462N7FPjtaic3oBxvqhcnHgZxvPcvwU0x9/kZ62IEuWBUiSsP2ENmOHL07VPvdCwMSCMS8FpIIOefGpPDQzDOQ4bfR3bA6WDbfU85cA2UXnWMBWuXB62CFFttYxOE6eRGXBLMmiLyk="
+            "ext": "AbJhoE7SW3YVasqvc+pa+G72k+T3ir+2g1NBGIr+WR241wHaXGkPxuTLLy/TnbCftRxStwIpuUfPUpBcYPV+K2fsqe0kFfcGsbLIlXYQBHlHKm77Wg95LgvthL3VdHlpTUAGhCRuKuxGxVbRa1xSwGKcNPw2vOF7dCBBcULoQo9PMTTlPX67HJl7U9L7SErLLQIoKQ6HQPrL6OMRrrbzSZI="
         },
         {
             "key": "明玦",
@@ -148,7 +148,7 @@
             "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
-            "ext": "AaIkDkIeL0bF5foLGJpX+cbUjv1IbY05okz9VBt5znOYXxZtodjbPHHdcEg6FdVbb9WW7sl623Wj49ZNOxTIHR9cruqS3Rcl5VJPgjC/JLvofUwvzUraVUMLTIxvs2j5L4vg/hN1o5TDRbWkq8SrCRxY2QopBTqPw75C/ECyvBQlV3NZjWlbu5YUr8jGhJJfdJ7o1gh6Xeg0pGMngVpBeDuQDhdUmkvCl658cEP/Oics"
+            "ext": "AbG7h4pmDnn/waoolgqc8W4kIhS+tE907yHIEgYckbWEi3wH79nTiAgj7bpB+YqToiFOM9EWVM678o/8wF/l6lmYKRX/nzLpvDy3R0qQPIQqjHln23L5L3+Psnk2XxFC5jCqmTu49ip/+ho2bvZpD3aWEof4ob377XwQS1uZYPh15i51WB128btBmVtAO+RbQwejzHfLdBDRFM/GUyRHwek="
         },
         {
             "key": "厌离",
@@ -185,15 +185,6 @@
             "ext": "AW8zc43nkd9VeK5DW/DjDZZyQ8CitfFSJkst0xRXhXKcj6hD8v1lusJ6ESqiEdq4U9Sr7SwyYTtqa4cJasPcQfIJNNXAbtzzK1SRuX5y5rV0MoS7+vWxG8iPCQvXee+amQTW4IiuoWX3HVnOSd+ViPayPdXO+rvvR+ymyTYToZAW8UikQ/chpFk3HKJ+bLBq/FejMjlZvZdbCyM/3ZYxY9E="
         },
         {
-            "key": "金牌",
-            "name": "金牌｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "AccPe9U3uwbj1w7xLRB0oQV5Z0KCkW2w7hZ/tzlA8SzK8HYJMQsxSE/8SYpgQQyVkVwndHWiP3Ue8jviK5lNsizNjs1icLOADQ/BW23lhbyWIZF90Cy7ZtBRE80oLWMlAAhT1E/C9L0dyS7v8lD+rMxR4VPFtMMppjgjO2ZZyh6UwfRdncmJvZPpL5F8DxrUpinlJvTBx7u1Y7UlrLSWhFlw09p3xBoLNsZMA8wT08CtArohWJo77bu4jr4WQeHJcA=="
-        },
-        {
             "key": "忘机",
             "name": "忘机｜APP",
             "type": 3,
@@ -212,15 +203,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "AcQgxCZJh0zfuqWhi3EWO0lHZHvcxjcjkSwh/L0j5HEY9Fq3+o2hdqQXb/2viRHayRmBY64JuCWIkKKgRdpy650qa/qp5Yx5LMXbHLNBOw7Y2ZGmPIKIXZw4s07EI1OuOTxg5Jj1a2VvZaGGrWPO5Zx84C6LNBDniS3O/XXNtDexGf7mP03SjlVcLkS00BSjgZJIy7PZA3fuP0lUeIdK+T0JzxKFrX5IxrgxOGYTCb4UUXOKaASBFqPcbpdj1SMNkCxWhqz9lcA8n+r81dRn4TMOKoyFaxJmX3DfKc1UzGgH"
-        },
-        {
-            "key": "景仪",
-            "name": "景仪｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "AXBlmIaXssBpd3Fa+kwjwLQb1/iS17U9n98QF7PrEQQBsrDqGYa/UHvP9eMSQFc7xxy63YaGklVEc+zsxq7CHCQEnNfRoaZdDnwsUwKmWxnYn4lRh3CRnB6gOvpRkamwTzo6Ytzy0enTk/xpedKn+Z8DUSn7CsdzN51bXQA8I2K32X7yAnnIKXwZfslGY5H8Y0eMEYSLh/Ny+xy2UQO2jT7GrWI9Ih8uT6wSdIXGXAnpjySRe5YMMXwVltzCkBw0Ow=="
         },
         {
             "key": "麒麟",
@@ -737,7 +719,7 @@
             "api": "csp_TingBook",
             "searchable": 1,
             "indexs": 0,
-            "ext": "http://www.5weiting.com",
+            "ext": "https://app.365ting.com",
             "style": {
                 "type": "list"
             }

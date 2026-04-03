@@ -671,84 +671,31 @@
         {
             "name": "自定：请先设置",
             "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getuserjx&url="
+            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getuserjx&url="
         },
         {
             "name": "布偶",
             "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=hubanjiexi1&url="
+            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi1&url="
         },
         {
             "name": "晴天4K Q1026038872",
             "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=hubanjiexi&url="
+            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
         },
         {
             "name": "虎斑AB",
             "type": 1,
-            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getAbjx&url="
+            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getAbjx&url="
         },
         {
-            "name": "789",
-            "type": 0,
-            "url": " https://jx.789jiexi.com/?url=",
+            "name": "虎斑XM",
+            "type": 1,
+            "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getXmflvjx&url=",
             "ext": {
-                "flag": [
-                    "mgtv",
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "mgtv",
-                    "芒果",
-                    "芒果"
-                ],
                 "header": {
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
-                }
-            }
-        },
-        {
-            "name": "虾米",
-            "type": 0,
-            "url": "https://jx.jiexi.icu/?url=",
-            "ext": {
-                "flag": [
-                    "mgtv",
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "qq",
-                    "腾讯",
-                    "youku",
-                    "优酷",
-                    "pptv",
-                    "PPTV",
-                    "letv",
-                    "乐视",
-                    "leshi",
-                    "bilibili",
-                    "哔哩哔哩",
-                    "哔哩",
-                    "mgtv",
-                    "芒果",
-                    "芒果"
-                ],
-                "header": {
-                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
+                    "Accept": "*/*",
+                    "Origin": "https://jx.xmflv.com"
                 }
             }
         }

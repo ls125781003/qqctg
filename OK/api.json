@@ -232,7 +232,7 @@
             "name": "⭐指南┃4K原盘",
             "type": 3,
             "api": "csp_AweSomeGuard",
-            "searchable": 0,
+            "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
             "filterable": 0,
@@ -354,20 +354,6 @@
             "ext": {
                 "sp": "TianTian",
                 "site": 0
-            },
-            "timeout": 10
-        },
-        {
-            "key": "雄鹰",
-            "name": "🦅雄鹰┃App",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "XiongYing"
             },
             "timeout": 10
         },
@@ -606,7 +592,7 @@
             "filterable": 1,
             "ext": {
                 "sp": "Caiji",
-                "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/"
+                "api": "http://dyttzy5.tv/api.php/provide/vod/from/dyttm3u8/at/m3u8/"
             },
             "timeout": 10
         },
@@ -843,19 +829,6 @@
             "timeout": 10
         },
         {
-            "key": "六月听书",
-            "name": "🎤六月┃听书",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "sp": "WeiTing"
-            },
-            "timeout": 10
-        },
-        {
             "key": "bilimd",
             "name": "🅱哔哩┃影视",
             "type": 3,
@@ -1016,6 +989,24 @@
                 "sp": "Bili",
                 "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/531DD35_773_biligzkt_20251204150243460newMediaFile.bmp"
             }
+        },
+        {
+            "key": "115分享",
+            "name": "🌷115┃分享",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            },
+            "ext": {
+                "sp": "Pan115Share"
+            },
+            "timeout": 30
         },
         {
             "key": "csp_AListGuard",

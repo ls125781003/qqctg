@@ -1,7 +1,6 @@
 {
     "spider": "./spider.jar",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-    "logo": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251224/dJkT/1080X1080/logo.jpg/webp",
     "sites": [
         {
             "key": "豆瓣",
@@ -66,6 +65,16 @@
             "type": 3,
             "api": "csp_Hxq",
             "ext": "https://fishapi.wya6.com/fish/fishhxq.php"
+        },
+        {
+            "key": "久久",
+            "name": "久久｜APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://99cms.jj99.icu:8199/api.php/app/"
         },
         {
             "key": "奴娜",
@@ -153,19 +162,6 @@
             }
         },
         {
-            "key": "火锅",
-            "name": "火锅｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://ios.hgyx.vip",
-                "dataKey": "062dec75d039980e",
-                "dataIv": "062dec75d039980e"
-            }
-        },
-        {
             "key": "云朵",
             "name": "云朵｜APP",
             "type": 3,
@@ -186,10 +182,9 @@
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "site": "https://guwozj-1319364746.cos.ap-guangzhou.myqcloud.com/gw7.txt",
+                "url": "http://117.50.204.35:8090",
                 "dataKey": "ca94b06ca3c7d80e",
                 "dataIv": "ca94b06ca3c7d80e",
-                "init": "initV122",
                 "ua": "okhttp/3.10.0"
             }
         },
@@ -201,26 +196,11 @@
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q20.txt",
-                "dataKey": "ada211sdfsff3261",
-                "dataIv": "ada211sdfsff3261",
+                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q21.txt",
+                "dataKey": "okkfKgnc9JIBISh1",
+                "dataIv": "okkfKgnc9JIBISh1",
                 "init": "initV122",
                 "search": "mineInfo",
-                "ua": "okhttp/3.10.0"
-            }
-        },
-        {
-            "key": "星河",
-            "name": "星河｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
-                "dataKey": "kj37zs29q22jk96t",
-                "dataIv": "kj37zs29q22jk96t",
-                "init": "initV122",
                 "ua": "okhttp/3.10.0"
             }
         },
@@ -232,7 +212,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "url": "https://qj3.ggtvb.cc",
+                "url": "https://qj4.catbb.xyz",
                 "dataKey": "eecbio48dsq13kkk",
                 "dataIv": "eecbio48dsq13kkk",
                 "search": "searchList4",
@@ -299,22 +279,6 @@
             }
         },
         {
-            "key": "橘子",
-            "name": "橘子｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://juziapp-1319209748.cos.ap-chengdu.myqcloud.com/juzi.txt",
-                "dataKey": "jasaFBcdV3zrUDf2",
-                "dataIv": "jasaFBcdV3zrUDf2",
-                "version": "305",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
-        },
-        {
             "key": "优兔",
             "name": "优兔｜APP",
             "type": 3,
@@ -336,7 +300,7 @@
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
+                "site": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
                 "dataKey": "ca94b06ca359d80e",
                 "dataIv": "ca94b06ca359d80e",
                 "init": "initV120",
@@ -375,22 +339,9 @@
             "changeable": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://xkos1.xkgzs.xyz",
-                "dataKey": "77jkcdvdodfcdkjk",
-                "dataIv": "77jkcdvdodfcdkjk"
-            }
-        },
-        {
-            "key": "火狐",
-            "name": "火狐｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "http://huohu.yihn.cc",
-                "dataKey": "huohushipingetap",
-                "dataIv": "huohushipingetap"
+                "url": "http://xk7.xkgzs.xyz",
+                "dataKey": "107jkcdncofcdkjk",
+                "dataIv": "107jkcdncofcdkjk"
             }
         },
         {
@@ -773,28 +724,6 @@
             "timeout": 60
         },
         {
-            "key": "雷鲸",
-            "name": "雷鲸｜4K",
-            "type": 3,
-            "api": "csp_PanWebShareCloudLJ",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": {
-                "site": [
-                    "https://www.leijing.xyz",
-                    "https://www.leijing1.com",
-                    "https://leijing.xyz",
-                    "https://leijing1.com"
-                ]
-            },
-            "timeout": 60
-        },
-        {
             "key": "海绵",
             "name": "海绵｜4K",
             "type": 3,
@@ -829,9 +758,9 @@
             },
             "ext": {
                 "site": [
-                    "https://www.kfjwzz.com"
+                    "https://www.kfzys.net"
                 ],
-                "cookie": "bbs_sid=bi7dpnm6vp31s38rjqlqq8vq84; bbs_token=TWiR3YUrGoVpbdTkjAJ0xMe_2B_2FiaFvd84V3_2FEZJRRSKU_3D"
+                "cookie": "bbs_sid=p5mugcm9r147o1d3qpi0su1ucm; bbs_token=gDMAOehNUQetTJv9Lnet0J_2FGJmgdvnx90iTZqzU_2FnO0_3D"
             },
             "timeout": 60
         },
@@ -1034,17 +963,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "./json/YLYS.json"
-        },
-        {
-            "key": "星辰影视",
-            "name": "星辰｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.sdconglin.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电视剧$2#短剧$36#电影$1#综艺$3#动漫$4",
-                "简介": "display: none;\">&&<"
-            }
         },
         {
             "key": "剧圈影视",
@@ -1256,17 +1174,6 @@
             "ext": {
                 "url": "https://www.pkmp4.xyz,https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
             }
-        },
-        {
-            "key": "雪花",
-            "name": "雪花｜磁力",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/XH.json"
         },
         {
             "key": "80S",
@@ -1516,10 +1423,10 @@
             "api": "./api/爱听音乐.py"
         },
         {
-            "key": "六月听书",
-            "name": "六月｜听书",
+            "key": "世界听书",
+            "name": "世界｜听书",
             "type": 3,
-            "api": "csp_TingBook",
+            "api": "csp_TingShijie",
             "style": {
                 "type": "list"
             }
