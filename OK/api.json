@@ -568,6 +568,24 @@
             "timeout": 30
         },
         {
+            "key": "我的迅雷",
+            "name": "⭐我的┃迅雷",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            },
+            "ext": {
+                "sp": "MyXunLei"
+            },
+            "timeout": 30
+        },
+        {
             "key": "️爱看Bot",
             "name": "⛅️爱看┃直连",
             "type": 3,
@@ -594,6 +612,7 @@
                 "sp": "Caiji",
                 "api": "http://dyttzy5.tv/api.php/provide/vod/from/dyttm3u8/at/m3u8/"
             },
+            "exclude": "34",
             "timeout": 10
         },
         {
@@ -609,6 +628,7 @@
                 "sp": "Caiji",
                 "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/m3u8/"
             },
+            "exclude": "34",
             "timeout": 10
         },
         {
@@ -825,6 +845,19 @@
             "changeable": 0,
             "ext": {
                 "sp": "BookTing"
+            },
+            "timeout": 10
+        },
+        {
+            "key": "听悠听书",
+            "name": "🎤听悠┃听书",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "sp": "TingYou"
             },
             "timeout": 10
         },

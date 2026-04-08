@@ -15,7 +15,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260326】🐮",
+            "name": "🐮【更新日期:20260406】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -115,6 +115,14 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 120
+        },
+        {
+            "key": "原盘",
+            "name": "💓‍原盘┃4K💓‍",
+            "type": 3,
+            "api": "csp_New4KZnGuard",
+            "searchable": 1,
+            "changeable": 1
         },
         {
             "key": "雷鲸",
