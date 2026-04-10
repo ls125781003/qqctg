@@ -54,12 +54,6 @@
             "api": "csp_App3Q"
         },
         {
-            "key": "坚果影视",
-            "name": "坚果｜APP",
-            "type": 3,
-            "api": "csp_AppJg"
-        },
-        {
             "key": "韩圈",
             "name": "韩圈｜APP",
             "type": 3,
@@ -97,16 +91,6 @@
             "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
         },
         {
-            "key": "极影",
-            "name": "极影｜APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://101.201.171.207:802/api.php/app/"
-        },
-        {
             "key": "超前",
             "name": "超前丨APP",
             "type": 3,
@@ -114,8 +98,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playerType": 2,
             "ext": "http://chaoqianys.top:91/api.php/app/"
+        },
+        {
+            "key": "飞飞",
+            "name": "飞飞丨APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://qpcj.69mini.com/api.php/app/"
         },
         {
             "key": "云播",
@@ -259,6 +252,18 @@
             }
         },
         {
+            "key": "坚果",
+            "name": "坚果｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "site": "https://qiliniao-1331306839.cos.ap-chengdu.myqcloud.com/jg.txt",
+                "dataKey": "2015692015692015",
+                "dataIv": "2015692015692015"
+            }
+        },
+        {
             "key": "王子",
             "name": "王子｜APP",
             "type": 3,
@@ -322,19 +327,6 @@
                 "url": "https://shangjihuoke.com",
                 "dataKey": "8E2DC386FD452D05",
                 "dataIv": "8E2DC386FD452D05"
-            }
-        },
-        {
-            "key": "黑猫",
-            "name": "黑猫｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "http://app1-0-0.87333.cc",
-                "dataKey": "VwsHxkCViDXEExWa",
-                "dataIv": "VwsHxkCViDXEExWa"
             }
         },
         {
@@ -600,6 +592,7 @@
             "changeable": 1,
             "ext": {
                 "site": [
+                    "https://shandian.blog",
                     "https://sd.sduc.site"
                 ]
             },
@@ -748,10 +741,10 @@
             "timeout": 60
         },
         {
-            "key": "甜圈短剧",
-            "name": "甜圈｜短剧",
+            "key": "围观短剧",
+            "name": "围观｜短剧",
             "type": 3,
-            "api": "csp_TianquanDJ",
+            "api": "csp_WeiguanDJ",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -759,10 +752,10 @@
             "genre": "shortdrama"
         },
         {
-            "key": "星阁短剧",
-            "name": "星阁｜短剧",
+            "key": "甜圈短剧",
+            "name": "甜圈｜短剧",
             "type": 3,
-            "api": "csp_XinggeDJ",
+            "api": "csp_TianquanDJ",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -792,6 +785,12 @@
             "genre": "shortdrama"
         },
         {
+            "key": "独播影视",
+            "name": "独播｜影视",
+            "type": 3,
+            "api": "csp_Duboku"
+        },
+        {
             "key": "厂长影视",
             "name": "厂长｜影视",
             "type": 3,
@@ -814,12 +813,6 @@
             "type": 3,
             "api": "csp_Tvyb",
             "ext": "http://www.tvyb03.com"
-        },
-        {
-            "key": "饺子影视",
-            "name": "饺子｜影视",
-            "type": 3,
-            "api": "csp_Jiaozi"
         },
         {
             "key": "瓜子影视",
@@ -1181,6 +1174,26 @@
             "timeout": 60
         },
         {
+            "key": "兄弟",
+            "name": "兄弟｜搜索",
+            "type": 3,
+            "api": "csp_XiongdiPan",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "timeout": 60
+        },
+        {
+            "key": "九七",
+            "name": "九七｜搜索",
+            "type": 3,
+            "api": "csp_97Sou",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "timeout": 60
+        },
+        {
             "key": "百酷",
             "name": "百酷｜搜索",
             "type": 3,
@@ -1201,16 +1214,6 @@
             "timeout": 60
         },
         {
-            "key": "酷乐",
-            "name": "酷乐｜搜索",
-            "type": 3,
-            "api": "csp_KuLe",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "timeout": 60
-        },
-        {
             "key": "鬼鬼",
             "name": "鬼鬼｜搜索",
             "type": 3,
@@ -1225,16 +1228,6 @@
             "name": "混合｜搜索",
             "type": 3,
             "api": "csp_HunHePan",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "timeout": 60
-        },
-        {
-            "key": "兄弟",
-            "name": "兄弟｜搜索",
-            "type": 3,
-            "api": "csp_XiongDiPan",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
