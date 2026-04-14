@@ -301,6 +301,20 @@
             "timeout": 25
         },
         {
+            "key": "七味",
+            "name": "🌈七味┃在线",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "sp": "QiWei"
+            },
+            "timeout": 30
+        },
+        {
             "key": "瓜子",
             "name": "🍉瓜子┃App",
             "type": 3,
