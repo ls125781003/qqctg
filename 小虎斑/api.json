@@ -11,7 +11,7 @@
     "sites": [
         {
             "key": "drpy_js_豆瓣",
-            "name": "导航|新春贺喜(虎)",
+            "name": "导航|万事顺遂",
             "type": 3,
             "api": "csp_Douban",
             "ext": "./json/douban.json"
@@ -52,13 +52,6 @@
             }
         },
         {
-            "key": "知秋",
-            "name": "知秋|弹幕",
-            "type": 3,
-            "api": "csp_MYzhiqiu",
-            "ext": "https://fishapi.wya6.com/fish/zhiqiu.php"
-        },
-        {
             "key": "独播",
             "name": "独播|弹幕",
             "type": 3,
@@ -82,13 +75,6 @@
             "name": "全网|短剧",
             "type": 4,
             "api": "https://so.yinpai.xyz/duanju.php?type=dquark"
-        },
-        {
-            "key": "duanju",
-            "name": "破碎|短剧",
-            "type": 3,
-            "api": "csp_HBsuipian",
-            "ext": "https://speed.howdbm.com/papaya/papaya-file/files/download/"
         },
         {
             "key": "B站直播",
