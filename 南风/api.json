@@ -219,15 +219,6 @@
             "ext": "https://saohuody.com"
         },
         {
-            "key": "csp_Qiyou",
-            "name": "🦌奇优",
-            "type": 3,
-            "api": "csp_Qiyou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "农民",
             "name": "👩‍🌾农民",
             "type": 3,
@@ -650,7 +641,7 @@
             "changeable": 0,
             "ext": {
                 "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-                "siteUrl": "https://2xiaopan.top",
+                "siteUrl": "https://www.erxiaozhan.top",
                 "filter": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
             }
         },

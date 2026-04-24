@@ -5,14 +5,14 @@
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "📢免费仅限测试用，如有收费,直接找退款！",
+            "name": "📢网络收集免费仅限测试用内置接口会崩溃！",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "豆瓣1",
-            "name": "📢公告❤更新04.16❤",
+            "name": "📢公告❤更新04.24❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 1,
@@ -57,7 +57,7 @@
                 ],
                 "url_key": "wogg1",
                 "threadinfo": {
-                    "chunksize": 405,
+                    "chunksize": 416,
                     "threads": 16
                 }
             }
@@ -80,7 +80,7 @@
                 ],
                 "url_key": "woog2",
                 "threadinfo": {
-                    "chunksize": 482,
+                    "chunksize": 455,
                     "threads": 16
                 }
             }
@@ -368,19 +368,6 @@
             }
         },
         {
-            "key": "星空",
-            "name": "👑星空｜影视",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "http://xk7.xkgzs.xyz",
-                "dataKey": "107jkcdncofcdkjk",
-                "dataIv": "107jkcdncofcdkjk"
-            }
-        },
-        {
             "key": "茉莉",
             "name": "👑茉莉｜影视",
             "type": 3,
@@ -391,19 +378,6 @@
                 "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
                 "dataKey": "88689667dce61725",
                 "dataIv": "88689667dce61725"
-            }
-        },
-        {
-            "key": "灵虎",
-            "name": "👑灵虎｜影视",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://bind.315999.xyz/89.txt",
-                "dataKey": "#getapp@TMD@2025",
-                "dataIv": "#getapp@TMD@2025"
             }
         },
         {
@@ -586,7 +560,8 @@
                     "https://woog.nxog.fun",
                     "https://ogkk.nxog.de5.net"
                 ]
-            }
+            },
+            "timeout": 60
         },
         {
             "key": "蜡笔",
@@ -599,11 +574,17 @@
             "changeable": 1,
             "ext": {
                 "site": [
-                    "https://www.labi88.sbs",
+                    "http://xiaocge.fun",
+                    "http://feimo.fun",
                     "https://feimao666.fun",
-                    "http://feimao888.fun"
+                    "http://feimao888.fun",
+                    "http://www.labi88.sbs",
+                    "http://fmao.site",
+                    "http://fmao.shop",
+                    "http://xiaocgege.shop"
                 ]
-            }
+            },
+            "timeout": 60
         },
         {
             "key": "至臻",
@@ -623,7 +604,8 @@
                     "https://www.mihdr.top",
                     "https://www.zhizhenpan.fun"
                 ]
-            }
+            },
+            "timeout": 60
         },
         {
             "key": "多多",
@@ -640,7 +622,8 @@
                     "https://tv.yydsys.cc",
                     "https://tv.214521.xyz"
                 ]
-            }
+            },
+            "timeout": 60
         },
         {
             "key": "木偶",
@@ -658,7 +641,8 @@
                     "https://www.muou.site",
                     "https://www.muou.asia"
                 ]
-            }
+            },
+            "timeout": 60
         },
         {
             "key": "虎斑",
@@ -671,9 +655,41 @@
             "changeable": 1,
             "ext": {
                 "site": [
-                    "http://103.45.162.207:20720"
+                    "http://xhban.xyz:20720",
+                    "http://154.222.27.33:20720"
                 ]
-            }
+            },
+            "timeout": 60
+        },
+        {
+            "key": "二小",
+            "name": "❤二小｜4K",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.2xiaopan.top",
+                    "https://2xiaopan.top",
+                    "https://www.erxiaozhan.top",
+                    "https://www.2xiaozhan.top",
+                    "https://wexwp.cc"
+                ]
+            },
+            "timeout": 60
+        },
+        {
+            "key": "盘搜",
+            "name": "❤盘搜｜搜索",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "timeout": 60
         },
         {
             "key": "阿里云盘",
@@ -1341,7 +1357,7 @@
         {
             "name": "失败手动换",
             "type": "1",
-            "url": "https://by1.nxog.eu.org/jx.php?ou=1a2&mz=0&url=",
+            "url": "https://by1.nxog.eu.org/jx.php?ou=1a8&mz=0&url=",
             "ext": {
                 "header": {
                     "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
@@ -1351,17 +1367,17 @@
         {
             "name": "-关注-",
             "type": 1,
-            "url": "https://by1.nxog.eu.org/jx.php?ou=1a2&mz=1&url="
+            "url": "https://by1.nxog.eu.org/jx.php?ou=1a8&mz=1&url="
         },
         {
             "name": "-装歌API-",
             "type": 1,
-            "url": "https://by1.nxog.eu.org/jx.php?ou=1a2&mz=2&url="
+            "url": "https://by1.nxog.eu.org/jx.php?ou=1a8&mz=2&url="
         },
         {
             "name": "-公众号-",
             "type": 1,
-            "url": "https://by1.nxog.eu.org/jx.php?ou=1a2&mz=3&url="
+            "url": "https://by1.nxog.eu.org/jx.php?ou=1a8&mz=3&url="
         },
         {
             "name": "装歌APP",
