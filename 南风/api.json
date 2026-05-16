@@ -21,7 +21,7 @@
             "key": "弹幕",
             "name": "🅿弹幕┃刷新自动启动",
             "type": 3,
-            "api": "csp_AAConfigAmns",
+            "api": "csp_GoConfigAmnsr",
             "jar": "./jars/弹幕.jar"
         },
         {
@@ -102,12 +102,12 @@
             "key": "柚子",
             "name": "🍊柚子",
             "type": 3,
-            "api": "csp_AppV6Amns",
+            "api": "csp_AppV7Amns",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "b1ad288565eb2ea7fcb9caa81e70fa9b13ee58cae5fd8ca46475f447a1cf2369c6a0322594566161508ed7502301f7a5227f3e5beb855d5657962f034992536e4e06ed40eb1fb78d426ed600b12faaad11f4ea19ebb5467e0ea652741400c7620854736b6a41e9ed2c358cae6e5b1756cfca8196250171a70c4dfea850d0a3ad042ed6d6859655c6c942dd200ae2c614359dc99647fa5eb0028c8f3ea2fd2ce9328ff1b7a8d7a3a549df871f7a7a50e6626664a33098f55be0a20a1b6a09596e2ecf7f2434785131186e0cdc772310ee7c85ef4113c8a3cd3187a191973eea03bf2bf6bf38937d1f272d3ccb77e3d68c336df691654bb10537bfa2b958f0fcab7ccf913e1ac8dddc19cea75981264afe3a6f7cd5873c08ee4c7ec6ded5fcae8391488d5ef3d56b77b859d5f0a0dd5be07c770e2c946ef8159e589346eb36ea64cf3bb677e22fe2e49ca1ca10dbac047e0e6e8c7f73f2964be8c9ca710b202f3e3d65d469bb2c27deccdb32921711c8fd73de6a85b6e4e585ea323ef55f234a5908a570ed78a13b07351573dc8824af3b08143c8adffccd2cbdb0eadfb7b59eb449cec2fe304be994899909f31740c79a9a113b551b4941e95cc65734cab65c1e7f0f95d04f031fd01be5284b5c18a16d476e2562bc472f46977a4de2f0be66cfb4382c122941bad2eb21eb293261e1f4c35bf6906e3b1f1f37ede2a88dd585f2fb2b9bee0661b212edda525594753a0ee6536d1df20d88ca0bcc1292255352100fdc415dc31f8823cd4b063cf4656a81e3516b7433b863212e0c6ccc1079e1f46c77eee9681b60e7ac7bfd58f4ee0d4f88d98abffec6058e4997afceef561a17f58258452c63f06da6f309c2cf1f4f06ef8a58cd1858eacb2b8dc7060a39e86dd7a82f7b2418f0339652669bce574131e033abd698b4dbb40ac4a15e64725af9233f749d451ae74b90aa403a6273523135a4176493e49deb44d64a2c725272f9c2507dc4d517b7229e28d4c0a0d77380cbda2283ddbf5e09ff9b5755441b9f9312bdd7600a49a7e5ac01f389fd0fc9fc33f7608b2d91f41cd693471d43fbed6cd00bbcf9a74ce9fc53dc6934526afa54273c4b7d030990a2a9d81a722a80dcf582a8bfa750ca2d764737c4269925cf320dcd31f33e700080f16b46c2ffd6456117bda75f74225f984946f6e94f6092c30c3c7b2b2a809553d8d2afeee6bf9393e3a1af87d60498f2037d4eb525f985ba510fc450037ad0d27c75e54fd3f4258fa369354a3479a98349ce910602aa8362172c9426b4b77437181c1c52b4547fe8c3bbb05fc93c8ac2140d8d2e34684a703ebfdfc93d00f09c6a6725423b6019a85cc7e2583388d405ae98d7514bcaadc2ebb3d7f9204859b9524f6525425a07ff0cdcffe7c8c6c5b4049c1fba5dc21ef6a48b18bbf86fb12d46aca089e617ffe57b2f8b4fccc70d7fe8d1ff973d5b425028c4221b02a1dc8ddad2d9f0e77fd18df12223b52d0118886a6fee8f9f54ca8dc96295569b9c2c76780f348bb53f50f8bc510e1a8ac58d7228643e7a84ce86ba01dd9f2011c056bed10b0bfbce8e5ca8c200eb30dcb6ee9dd9b8d7e89f8c2b39e5d32f0552ea959cc123832f3963e2f50b14d3190aa03e26a5d187473308d1da7c8e884ee3e6e6acfa33267b4272aa2285d8afbeeea754c0f39a3f5b337b08ee747e96ced0cf2e073fb428c2bff5ceb4749e505a4baa5ce83bddffc997d6add2f472cd30f4952c26281dc4e1f0cd4ef8c44b739b773b870a65ce92a08dc4c5dae9121bac3090dceafb317ec4a7c425d63cbc3863db4eb26318cdf2bf3e60a1a232f5628486d505cf9c6976446361ba1b86d8f180fee5c4c554ef110bf27ea013be9b605494a5bc02cdf8e129111128a1745f1b9335b9e69dea62043bb175c97417442d927db26e29b033e4a12e70f2ab218f89de78410ae85bd61a3a844dca150565254afcb733d75c9e7f3419b18b123dcfc70613724258af488b48d9c46d7f060e859ed794bd4df513dd3054004180e92964a5a6f7a4bdfab99a563b498f04df429d763381eb65b0697cb348d0f39383e278b3c82c9a7430657e7d6ab14e78e0eb502422114988218577a59e7c4a40df7acc4843901b",
+            "changeable": 0,
+            "ext": "f1b7288565eb2ea7fcb9caa81e70fa9b13ee58cae5fd8ca46475f447a1cf33e9da402bbd20f3d66498508b1611d833a9247dc6e8b825a87b7e457523caa64448c582e7914d7210086f1e73354ad89bc471757ce3683390ea8290d7360cd2ab63b031ecd127391a10976a04f43e2bf2c341162b0b29c95de80a6cb6476b53a97d2eafea2f6419e92b9e000deac00c0950a7d1e1e70060f21d2dbd40944572207f585625fb06e846d8fb31f697458293a2e2c9a927b27d68af54ccff0733836ddf595c2b4d41c0ab7de613f3411b1827b7fa413b555382838a01c42965e24d91f2dc024bbc266110c69b70f649837c6077ce8bf0df901e19c0e1d1974039fbbc6d46560b8cf5c73d0f7ffd5ab2f61fc77cafd1c1162bb346c0b1bbaa715ca834a9aa09455409b296c22bfd305d31735a10bf4b0b9c4ff854767e35cc708cbd5cb02a1dabffa65f57767e2d66eb06dad512efb340e4f005c9caabe112322213d992d19acff69824801a653fee49136058deb9434bc28d54695907543b530b2048b01294771dd94e5158579ee739a22530c17b97477a94c4a50d0d8ce9d9f72730d72b4da5e118206849677f86bed09ef3854b5e254339b98c9a61f72a3dba0d5f68065e93a6eea72e019f2a462a72b93e09f5dbe779ca64824ab5231e548b7ee2d3b9298e10e1f78cccc1d25fe2a8ad5cee82ea78eba0dd9b2c26e7604311523149c5006df3e03d3a617665d67eb20fc7ca636dc45ee125ca624eae8aa8ae15e7f51ab61232c4b434ff3a5735cb87667a9f99dab1a9c6941396c940d3ee284bb7c55164f61793940b66b6f39ad87713b96db0114b0aa9af4e56057c34a5a6252ae99c12dbf66891d374606fcceef01dc902cf4885ce5d980d7e8ee2ead1077aa8551d6c7e854762ca9c29fdb86faa1dc1da611d6da3ae75525e753f1c24e23dd0da533e5e4c613bc2d4b3ab88882d3b905c2fed58840dda8bcc8b224cfa80de0bae9a2a4e726c93f56d666d6663c436fa95435c2d0bc3246a37ee0beb9ff575224fada3c226a44d9f9c416c04fa06d0335fed59639b2f13d1da91e2f827f20fd9caebc14fca67214a90b371d6e840f08634b85bf3372cc99dc4dbe8102cc4d41ba6a221a4918d4ed74cefe1601b112810ce39cde799071209400d0eeb912fd1f58d2967fc1f2b439fc29388e7cf67598ff25c4cab778a0e4f26f0f94a22bcd7bd1d172e9e366c71b01d1f069b284a603aef72a7a8775a1817c81b8679f500520f402515bde9a0c5c34aa5db3f9567539f24783d4c92ad7740def1d3d75eb1ffa48583528d687a3b1a6e5eee88a8ae8f8b74eed3693b326bf21b7f452b0d03e89ebc1c0cbd1fc316a1039f9a6153a18f73e73a05eb494998ddb48a5263ad48d8bb2d009ce9917f1947e68a42b3072bd393a22a57b59f2701190825e712f46e331070a85b739b6511e9c3f981cf2e9a3ebabd5cc4b7a9de5cff73d8e818ecc6ac16f8220fc586ad859b6cde7a7c233cc153a672c59fb8c85e79cfb90b7b033bab6641d54033ab4e12795f75ad586a92dc03b0f2f98878ac9525395e746c5b8334e23b7805b55f293332f76a07a33fe27ff09553567b1d1baa8ec2e1eb400c399b65c1ab233cfd703978ef02f450dabf3d3ad123751e2c6ab1aebda443c3fec0fc3c2fdebac29e27831b988952bdf9905659febaa9b8217491ab6536771e4c01f25666fef1ea3fc224285947265642b1e7e41dbfebb2e156b84ece31ad5a2a6afb1636c8b0f25769d923f1d28ac71ef13f6277b6433bf3c87c1a20f649f3e786a4fc6bd8f2c8de1f70a055f54373451962b0d5c94a33951fda15e0d4f2d86e3a2bb80d5dfc5202013a72779e9a190af367f8f3ea395e82ff27301fe7d1b7c1055247d831fdd27ed2ce038869c5c1a6c0be1ca87ca57a9ba777021ebd8b67edd094455637b550324448a9b50c2ebed98d962309f791d1e0ce5c0100cda2f8bf80c68decfab98298958c0548754d2dbd3699cde29a7014bc00e25cb04486efa1d08663719850f3970d58bf65d6d829cba56fc2fc52a472f376a3848ce3bb100ce9ed3679be83592caad77bc7a973444a81ae0cb0dad0672da425f223ee6946ba56a2463868454d0c114aaf8369159ba8c6bc4c4eb5a3eaa7ceb66cb9b423e69707b21428e049eb712cf3f493b3dbbfcfade794b4ac039598ff453fa9724f0b6c9a9ebb2b60adc896b5cd4350951aa5e166f1868aa17bcc383ce31eb0126c0c6cece5ee1d356d14ec38cbcb32b80b3d93b567da0c075e53dc057018e052f4a0911f9af3eb8a82c1f8fe0f27ffd210eb69e235a0c3416e1664ea6f9812877accf62613f955b51395681a605ac6e3137d1b43107f3798c8573adaf454e63a6fa4afbe0dd10c576e5c4481363a8f6b1dbda9aeed349f23d78fe08ebc7e4fff9147da6539824c27a5a2bf4e8a4b6626af7a5de33d9252b5736e43e9ef4cf09c5abb3954b02ea144e468eb983672dfbb11738b3fb3266126c73f73b4bf2471067cae4109186f09ff8991288a14492eb07bb6ff20f9b4a312be4a224c1891e4526c3c255200e10d4d344e5a53509f4ced63cec6f5e5fc45f7eba839d48e0d88816a7e1bf377405ec5626c9baf45eff3a41bdbc69f4e77f9147e14e206726071fed10ff29e04515655ccffc775399214f7c9dfe83e6b78f14a74a6b7369b0dd0b1b38008c96ec202bff320ab78f3ecc3533cc6184b1ae12598d2370d5380757f6e8d31ed9624e8851b6e9cf02029729f434c13bcc8d45d38a863f43fe2475fc8c1280e9af7dfad05cfc8370583e48c14b7f3386b72bb0eee22c5df3e9266a8e3faabd0f0a0979d64d65a05dc2da9aeab1ca422ad4e7848b8145cf5b7b82d18f89a32048c4508a955ad49dd2e7a29aa0d957894a8c07600f8ea894964248b05ee4a4c23c35dc8c3f4ec81311d63097729909a6feb9046c94afdb372edaedd73bfac712ebd88e44e4e558e294b2b3b3a599522264b5bf0d6cab139b4716a938b2caec32f5d61abf6bb145e95785ae0d42290ba98",
             "jar": "./jars/弹幕.jar"
         },
         {
@@ -142,14 +142,6 @@
             "type": 3,
             "api": "csp_Xdai",
             "ext": "7lj763gg402i7942532384j7lk0ljji7ghl19313j490266k0g1855k7k103474j1i9349h68842h3h016399jj1g6gk4jlhh367714gk5g2jhji12g819j33jlj1l15k6g492l0"
-        },
-        {
-            "key": "永夜",
-            "name": "🌙永夜",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 2,
-            "ext": "7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"
         },
         {
             "name": "🏭厂长",
@@ -196,6 +188,74 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/农民影视.json"
+        },
+        {
+            "key": "片吧",
+            "name": "🍁片吧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "http://www.pbpbt.com/",
+                "首页": "120",
+                "起始页": "1",
+                "分类url": "/class/{cateId}-{area}-{by}--{lang}-{letter}---{catePg}---{year}.html;;mrc",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "二次截取": "",
+                "数组": "lazyload\"&&</a",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "+text-right\">&&</",
+                "链接": "href=\"&&\"",
+                "影片年代": "年份：&&</p",
+                "影片地区": "地区：&&</p",
+                "影片类型": "类型：&&</p",
+                "状态": "状态：&&</p",
+                "导演": "导演：&&</p",
+                "主演": "主演：&&</p",
+                "简介": "【广告勿信】+style=\"display: none;\"&&</span",
+                "线路二次截取": "",
+                "线路数组": "pull-right1&&/span>",
+                "线路标题": "+>&&<",
+                "播放二次截取": "",
+                "播放数组": "playlist clearfix&&</ul>",
+                "倒序": "0",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "搜索请求头": "UTF-8;{User-Agent@Mozilla/5.0",
+                "搜索url": "http://www.pbpbt.com/sou/{wd}----------{pg}---.html",
+                "搜索模式": "1",
+                "搜索后缀": "",
+                "搜索二次截取": "",
+                "搜索数组": "lazyload\"&&</a",
+                "搜索标题": "title=\"&&\"",
+                "搜索图片": "original=\"&&\"",
+                "搜索副标题": "right\">&&</",
+                "搜索链接": "href=\"&&\"",
+                "排序": "最新上映&超高人气&全网热播&高分好评",
+                "排序值": "time&hits&up&score",
+                "筛选": "1",
+                "类型": "动作片$5#喜剧片$6#恐怖片$7#科幻片$8#爱情片$9#剧情片$10#战争片$11||国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#海外剧$17||节目秀$23#纪录片$12#赛事$26||动画电影$21#动画剧集$22"
+            }
+        },
+        {
+            "key": "茶杯狐",
+            "name": "🍵茶杯狐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "简介": "【广告勿信】+&&",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "数组": "lazyload&&</a>",
+                "标题": "+title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "分类url": "https://www.xmhxdq.com/vodshow/{cateId}--------{catePg}---.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36#"
+            }
         },
         {
             "key": "永乐",
@@ -271,16 +331,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_xlys",
-            "name": "🧲修罗",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
-        },
-        {
             "key": "csp_New6v",
             "name": "🧲新6V",
             "type": 3,
@@ -318,15 +368,6 @@
             "ext": "https://www.meijumi.net/"
         },
         {
-            "key": "csp_BLSGod",
-            "name": "🧲80S影视",
-            "type": 3,
-            "api": "csp_BLSGod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_SP360",
             "name": "💘360",
             "type": 3,
@@ -353,16 +394,6 @@
             "api": "csp_Xdai",
             "playerType": 2,
             "ext": "7lj763gg402i79425l2l9j9jh14i9ijil0h1jk58ih8633354h0l18lil40h755g029i0ghhil4gh89i133hk9i9l1k604i9g4797k09k8k5j3j73kgj1hg725gg575ig9g790"
-        },
-        {
-            "key": "嗷呜动漫",
-            "name": "🙀嗷呜动漫",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/嗷呜动漫.json"
         },
         {
             "name": "☕韩剧",
@@ -600,10 +631,7 @@
                 "siteUrl": [
                     "https://mihdr.top",
                     "https://www.miqk.cc",
-                    "https://xiaomiai.site",
-                    "https://xiaomi666.fun",
-                    "https://www.mihdr.top",
-                    "https://www.zhizhenpan.fun"
+                    "https://www.mihdr.top"
                 ],
                 "filter": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
             }

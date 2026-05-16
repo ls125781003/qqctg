@@ -1,11 +1,11 @@
 {
     "spider": "./spider.jar",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
-    "logo": "http://hello.xn--z7x900a.com/fm.gif",
+    "logo": "http://feimao.pro/fm.gif",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🐼┃公众号：肥猫宝贝┃",
+            "name": "🐼┃公众号：我不是肥猫┃",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -41,9 +41,13 @@
             "filterable": 1,
             "ext": {
                 "site_urls": [
-                    "https://shandian.blog/",
-                    "https://sd.sduc.site"
+                    "http://shandian.blog/",
+                    "http://sd.sduc.site/"
                 ],
+                "threadinfo": {
+                    "chunksize": 512,
+                    "threads": 16
+                },
                 "url_key": "FeiMaoUC"
             }
         },
