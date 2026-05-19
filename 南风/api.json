@@ -12,7 +12,7 @@
             "ext": {
                 "siteUrl": "http://127.0.0.1:9999",
                 "count": 4,
-                "channelUsername": "+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,zaihuayun,PanjClub,yunpanpan,Quark_Movies,shareAliyun,BaiduCloudDisk",
+                "channelUsername": "Tgsearchers6,peccxinpd,yunpan139,yggpan,yunpanuc,shareAliyun,yunpan189,BaiduCloudDisk,Channel_Shares_115,gimy115,ydypzyfx,dianying4K,sbsbsnsqq,Q_dongman,ysmffx,XiangxiuNBB,yoyokuakeduanju,yeqingjie_GJG666,TG654TG,PanjClub,guoman4K,alyp_1,kuake_yppan,Baidu_Netdisk,bdwpzhpd,baidu_yppan,zyfb123,xx123pan,zyzhpd123,yp123pan,cloudtianyi,txtyzy,tianyirigeng,tyypzhpd,zaihuayun,ali_yppan",
                 "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "filter": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"
             }
@@ -39,12 +39,15 @@
             "key": "csp_GuaZi",
             "name": "🍉瓜子",
             "type": 3,
-            "api": "csp_GuaZi",
+            "api": "csp_GuaziAmns",
             "searchable": 1,
-            "changeable": 0,
+            "filterable": 1,
+            "quickSearch": 1,
             "ext": {
-                "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
-            }
+                "sites": "",
+                "filters": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/guazi.json"
+            },
+            "jar": "./jars/弹幕.jar"
         },
         {
             "key": "天天",
@@ -121,6 +124,20 @@
             "changeable": 1,
             "ext": "8e87288565eb2ea7fcb9caa81e70fa9b13ee58fa569055a61c9e79bba88fe5c391421b3ca4cd95f22c4525ebb86572f18cb0ba7f0c18c1ca092cfc7924e1c6545d7416dcbf0dcfa46c2fdcf8a895bd3560566d0d31bbde8abb8b794be3e7d6dcb1010be46631da347ed70992759b75471d56735bc14c972c305dad27f2bf34ef0aec02d247fa86c48992f94701827d9fbbc9314dc39625e16a3f4c64b26cc19d4a36fc792c1151490f4c1d323278226fb85955fde03f5fb8daea329b95ce4da83ae500a4706b4a98b119bd07f1174f76a623f617f31d992c886ae4a7701199048f2a1c5a8b04ff1db5e938adc01e2fef147cde98af47cf249e905f6c24e1ee3316142b136173aab5946a15db1d014146f5e9f0c735e354b6343f3c7d9a34682176cd0fdae5ff36b7121dd3b8382b62877115e38fc74c69996915cbf8def6dc3a48bc92f826912d39e8b9d2761a225a96d3a8c270e49ff46598983f7b9486dda2444c03b4d09cdd142f379c86b515894cf5cb8116410a511eff63a697af3f6a675614cd163bbb9e7c98c0d966dcd6db6ca8716e7d9454f1831134c4c08f94f3f54a46d578aa7d4248a7797685879c4b884b54038ae5af46de8112dd662c73a07560afb279b2af34a94cb430cdf527e293eba34a8c37b93c01f561548415aa06b81436eeb9c084d5ea622d545c7903c972a60b5da4465819404db678d375ebee15953a0e0c99a4de7a164e6b2b3489e38beb3184f638abf665461c1db2ee9d8dc4b119cb5699b42467eed9c7503903d9c20b36f629146ac2aa9c50c57ef277ea3576cfbf2192f68422b8eb5a54a18da58bf3037d25ec57b77de001d51021b3ce84b3136583dd86ed457dddd936a4dfe39353c429f350a0d414870a3b4bd32cc83a6885d1ce1f00df52456c96a66871ea4dd5b0c040212910a0c4caff898f748a7a96c2119497369252a7335e8c3f393a81619dc91071713a69f62be6e7c8f4bc85cbb0d2fee0352a77082ef697b78f7df74a9481608a1e31a182386445a1ef84420d145d92dfb4e65dcdb840723a31a0db639531636ab916e05c347ec5751b19e01a5e556a126a223f9890d7e0e07fda9af3496bdbff9d0b604684f9b9ae1f31976b3fe6bf586a6a011f5ea5775250816288ca471233b3a41597d0a7b916024f46ffe920fb4672f08dc9e8f227f4d5ad8563cd4fe268e92e59c52acc5671332a89f9fbd830daf4744775550dbc18fa7cd911462333ea17cf92e339263de4dfbdc561e518d43d034f088780efa9402ad0cce991e1aff0b5462806be0a147b193fd749f418bcf0951d0867b55884c76c20793e9fd7f08efc8404d74893b670e16e0f97f010740c608abc74d53f3bdc04375fa7eb80d6b5df3daf329741a42069da4a7fdf99a0d80cd17a2ebdd008e99df5cd73e5d0f6cef65cc6f3fbda0e33131f00872ab64f1bb0eedb8902db30e2f76c571596b7c96df9ec0b1716c3b62093eb5d258d81f038d1eb6df6c9ef4f5958e7038532746b6ac12bc7f9e9f817298145507df57823d464f843373d0eec6e636807c7ca37fd0e80cd1a2d57952ecad4e323e061b44771815500ff7ba4c96f0be74d5f144d74c23ea83d9852f52f6239c0629828741db3bd7cff82826f35ec45e93bc890173c02586969f6e9aa31ec3db8adf48b693dca2c80ea628de9f9167240e8f241fbc18516413e5e1433954fb884e44c84f119f3ff6cc131ad7213d1e4cc5a05b6f0ff26e36cbfb479c49e77f9846c8eba32b560312aaf4ca43a63c22408e6a4bb02cc9fbe5e3ee8899faee8d7230ff539de7e92deab0b9fe8988857c8450effc377d3bf0fc95a87ba88aec6bc2c1795120b52a32fe2d3a1ab189c256b38492727e4e946ca751907a6d0c65f189142b58381961d68e26d68bd60cb0d00c9fa0a94f9bfd034e8abecabda38e40717c0998a0f84d75e6f316e5d4312a3e744f62265945823f16cd78bc841f2a697c52cf0f9fa515b5a37e904fe20858dcebdbbba8bc90033e9e695337ffc876551b713ffc187a6301b773f90aa8098a587d56456deb109d95ccf64ce80c91881acae7b76c5e1ef2e29b8cdb193195211424fa8d482d1c895d48bc4c9f29ac6b71f6fef22577ba5681157481dece0f78e444fe8ea89113ae4dda5737e6f1c727c1199eae241c306d9a4ec8d0ba6fa2f4a106f8191da4fcc0fda8d024564d4ee489aa3f5923adea0b087753768353e856f934b1ecfb8300519b22e418f1a8d16e3c543f85a3476fbb8cfeb3bc8a0a0773a33aa05d7e828257469b0fb5cceff5fe37dda44b70b734d0bd2db428fc20f4a5bc0a3b3c4e8eabf8806f7fd2c87e1f7a8cdd30c773d0e0c61a116aebc717455f94f41083f3f64db452890c4c300bba13039a80585729cf0a84f69673e0d8d8edf569734203dd64613b294340e74a4373c89b3edaafbba719a040728de78ac9157b83e09fda1c82662c9bdfd4a74843e7cd95b5e77c7d98e0f6af095e3d317ccdf16bffd64375cc2ed9d7d0f97e0683be4d58394b1e9303de2654a2e0e26d4006113c9e2bad3273ddccc854cff792cbd80dc3da7f2239ec055287aa1a4d3ef1773c1eb43e77ba639e41fc1c291802f5d096a08a8bc9bbfbfd84c578871addaf62013c954558cb169bcc58d542527a69fefb5d6dc69bfa2b17621fa2388020b320208c7d251465d125140f10d8d600ea200102f715e669456a995053678055b8497cc5bd849eed0b0986e80c4436c048c45f066b10a46a371925641b034b79a18917e20091fde61c37d9bd50a4d44b3cf4dc8a3d561075b4ab1d7855cedbb522c349bfd234eb4e0c78d36129851347e239c2ed8044d8457dcbf1567f71c3ec6860d3a6ac9417cfe81d5b4541e77f58016f3add61c6dc5a947c9cc2da7e4dbb707095ac94a25b7c2967f09e133d09a99e8283302c0a3db719dcd74c21aefc98fb8988e13884b1ebd89e78f43c021af2ad59deefcfbac091d3c2c5be9f382202e9d6f03e13b085c3bcb3d11f1738e6a0e",
             "jar": "./jars/弹幕.jar"
+        },
+        {
+            "key": "首发",
+            "name": "🚀首发",
+            "type": 3,
+            "api": "csp_Qiji",
+            "ext": "7lj763gg402i7942483l849kk10ljji4g6li98059ijj72225j5255l2k95g5i1h1g985ggj905j86ig3604gi80lgl30jk3hk637h53ghk49hgi689125k7738h7947igg3k5h3gk6j12718k402802hlkh6k527581gk4936hkj49i8i9g2hh53l320l3i3197"
+        },
+        {
+            "key": "小鹿",
+            "name": "🦄小鹿",
+            "type": 3,
+            "api": "csp_Qiji",
+            "ext": "7lj763gg402i794249238hjihi49i282k5hli248828g323j4g1439l6k9416g5943g07kh2g15ig3h72705k8g1l3ki4kj6g738427jk18hi5ii15996kg33j"
         },
         {
             "key": "趣看",
@@ -646,8 +663,7 @@
             "ext": {
                 "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "siteUrl": [
-                    "http://xhban.xyz:20720",
-                    "http://154.222.27.33:20720"
+                    "http://38.76.197.172:16969/"
                 ],
                 "filter": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
             }
@@ -662,8 +678,7 @@
             "ext": {
                 "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "siteUrl": [
-                    "http://103.45.162.207:12512",
-                    "http://154.201.83.50:12512"
+                    "http://38.76.197.172:12521/"
                 ],
                 "filter": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
             }
@@ -720,8 +735,9 @@
                 "siteUrl": [
                     "https://woog.nxog.eu.org",
                     "https://woog.nxog.fun",
-                    "https://woog.nxog.eu.org",
-                    "https://woog.430520.xyz"
+                    "https://woog.430520.xyz",
+                    "https://woog.nxog.de5.net",
+                    "https://woog.装歌.de5.net"
                 ],
                 "filter": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
             }
@@ -827,45 +843,6 @@
             }
         },
         {
-            "key": "Emby",
-            "name": "Emby",
-            "type": 3,
-            "api": "csp_Emby",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "server": "http://127.0.0.1:9966/api/proxy/https://lite.cn2gias.uk:443",
-                "username": "23",
-                "password": "23",
-                "ua": "Yamby/1.0.2(Android)",
-                "client": "Yamby",
-                "clientVersion": "0.2.3",
-                "deviceName": "oppo find x9 pro",
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
-            },
-            "changeable": 1
-        },
-        {
-            "key": "肥牛",
-            "name": "Emby肥牛",
-            "type": 3,
-            "api": "csp_Emby",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "server": "http://127.0.0.1:9966/api/proxy/https://emby.feiniu.lol:443",
-                "username": "23",
-                "password": "123",
-                "ua": "",
-                "client": "Yamby",
-                "deviceName": "Yamby",
-                "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
-            },
-            "changeable": 1
-        },
-        {
             "key": "TgYunPan|本地",
             "name": "🅿TgYunPan|本地",
             "type": 3,
@@ -875,7 +852,7 @@
             "switchable": 0,
             "ext": {
                 "count": 4,
-                "channelUsername": "+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,zaihuayun,PanjClub,yunpanpan,Quark_Movies,shareAliyun,BaiduCloudDisk",
+                "channelUsername": "Tgsearchers6,peccxinpd,yunpan139,yggpan,yunpanuc,shareAliyun,yunpan189,BaiduCloudDisk,Channel_Shares_115,gimy115,ydypzyfx,dianying4K,sbsbsnsqq,Q_dongman,ysmffx,XiangxiuNBB,yoyokuakeduanju,yeqingjie_GJG666,TG654TG,PanjClub,guoman4K,alyp_1,kuake_yppan,Baidu_Netdisk,bdwpzhpd,baidu_yppan,zyfb123,xx123pan,zyzhpd123,yp123pan,cloudtianyi,txtyzy,tianyirigeng,tyypzhpd,zaihuayun,ali_yppan",
                 "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
             }
         },
