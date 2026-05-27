@@ -5,7 +5,7 @@
     "sites": [
         {
             "key": "NewDouBan",
-            "name": "🐮【免费分享】🐮",
+            "name": "🐮【王二小放牛娃】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -15,7 +15,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260518】🐮",
+            "name": "🐮【更新日期:20260526】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -356,22 +356,6 @@
             "searchable": 1,
             "changeable": 1,
             "timeout": 120
-        },
-        {
-            "key": "BookWuWei",
-            "name": "🎃‍无忧┃听书🎃",
-            "type": 3,
-            "api": "csp_BookWuWeiGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "BookTingShu",
-            "name": "🎃‍精品┃听书🎃",
-            "type": 3,
-            "api": "csp_BookTingShuGuard",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "Book23TingShu",

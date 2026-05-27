@@ -334,18 +334,6 @@
             }
         },
         {
-            "key": "看球",
-            "name": "⚽手机┃看球",
-            "type": 3,
-            "api": "csp_KanqiuGuard",
-            "timeout": 10,
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
             "key": "MTV",
             "name": "🎶明星┃MV",
             "type": 3,
