@@ -247,22 +247,6 @@
             }
         },
         {
-            "key": "茶杯狐",
-            "name": "🍵茶杯狐",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "简介": "【广告勿信】+&&",
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "数组": "lazyload&&</a>",
-                "标题": "+title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "分类url": "https://www.xmhxdq.com/vodshow/{cateId}--------{catePg}---.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36#"
-            }
-        },
-        {
             "key": "永乐",
             "name": "🍰永乐",
             "type": 3,
@@ -373,12 +357,22 @@
             "ext": "https://dm84.net"
         },
         {
-            "key": "番薯",
-            "name": "💢番薯动漫",
+            "key": "鸭梨",
+            "name": "💢鸭梨动漫（仅搜索）",
             "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 2,
-            "ext": "7lj763gg402i79425l2l9j9jh14i9ijil0h1jk58ih8633354h0l18lil40h755g029i0ghhil4gh89i133hk9i9l1k604i9g4797k09k8k5j3j73kgj1hg725gg575ig9g790"
+            "api": "csp_Qiji",
+            "ext": "7lj763gg402i7942452h85j1h153i28hl3g4i35hj98772225j4i54khl0195l03559i4kh8964kihji6348k580g5lk40h2g630710jh0kgj7g47kjj68gh6ilk4l18glg192g7g5237g64ii126k"
+        },
+        {
+            "name": "🐱嗷嗚",
+            "key": "AowuDmAw",
+            "type": 3,
+            "api": "csp_AowuDmAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "563357143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b78627645980399087f30260707c8613b0ad40dab539ddb35d7ac9f78fcf015b7e10bc9ca2f37e127890269cdd3efdfa6ce6789494fdc5352c9e544f3b048a43885af6fb083f8545f6bfa3d33291ea4210bb397b004f1b5c2660408febda99840eec91efa7142878bb1e553ad0872a0851f903d7748b0bdee1ad7975b8f4c4838fda079f1bdebb0ab77f51da3dfa8eb30ca3c0bf56e584abfd70e025a03aeff2bca60aa9075588a4953a1b7fef021b",
+            "jar": "./jars/弹幕.jar"
         },
         {
             "name": "☕韩剧",
@@ -496,17 +490,50 @@
             "jar": "./jars/弹幕.jar"
         },
         {
-            "key": "csp_Kanqiu",
-            "name": "⚾看球",
+            "name": "🏆瓜子体育",
+            "key": "GuaziLive",
             "type": 3,
-            "api": "csp_Kanqiu",
+            "api": "csp_GuaziLiveAmns",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com",
+            "jar": "./jars/弹幕.jar"
+        },
+        {
+            "name": "🏆飞球体育",
+            "key": "FeiqLive",
+            "type": 3,
+            "api": "csp_FeiqLiveAmns",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "gridview": 3,
+            "jar": "./jars/弹幕.jar"
+        },
+        {
+            "name": "🏆88体育",
+            "key": "BbkqLive",
+            "type": 3,
+            "api": "csp_BbkqLiveAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
+            "jar": "./jars/弹幕.jar"
+        },
+        {
+            "name": "📡虎牙",
+            "key": "HuyaLive",
+            "type": 3,
+            "api": "csp_HuyaLiveAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
             "style": {
-                "type": "list"
-            }
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "jar": "./jars/弹幕.jar"
         },
         {
             "key": "csp_Kugou",
