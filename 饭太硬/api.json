@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "点我切源",
-            "name": "嘟嘟盘容量，到【太太太硬了】领取",
+            "name": "去【太太太硬了】领取嘟嘟盘免费容量",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -104,18 +104,15 @@
             "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="
         },
         {
-            "key": "立播",
-            "name": "🌟立播┃不卡",
+            "key": "原创",
+            "name": "☀原创┃不卡",
             "type": 3,
-            "api": "csp_LibvioGuard",
-            "timeout": 10,
+            "api": "csp_YCyzGuard",
+            "timeout": 15,
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "siteUrl": "https://www.libvio.run"
-            }
+            "changeable": 1
         },
         {
             "key": "厂长",
@@ -124,17 +121,6 @@
             "api": "csp_NewCzGuard",
             "timeout": 10,
             "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "原创",
-            "name": "☀原创┃不卡",
-            "type": 3,
-            "api": "csp_YCyzGuard",
-            "timeout": 15,
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -159,6 +145,20 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
+        },
+        {
+            "key": "立播",
+            "name": "🌟立播┃不卡",
+            "type": 3,
+            "api": "csp_LibvioGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "siteUrl": "https://www.libvio.life/"
+            }
         },
         {
             "key": "糯米",
@@ -204,17 +204,6 @@
             "ext": "uqGL1bNENExT7/hGxpSE5qU="
         },
         {
-            "key": "猫猫",
-            "name": "🐟猫猫┃多线",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+TDC2t/rlTwlcMr+ChdbeV8Q9y9xsKxqfbtO0M05tGWcacFVm2c45jhyH6t1Rt6A6PjICGqxV+uN1uOqS2/x0Vp5J0Vfo8usQADpHg=="
-        },
-        {
             "key": "剧圈",
             "name": "🐻剧圈┃多线",
             "type": 3,
@@ -246,6 +235,17 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
+        },
+        {
+            "key": "柚子",
+            "name": "🐟柚子┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOb1uAWbkRHp7hdxprG9un3+T3C3N68kGpjJMC8VQJRawVBonE2s7EhOq5X1M8s5yLMdsFXyX4lzV9ZNNh6RJzNuvLCVGCiCPOCweLv"
         },
         {
             "key": "奥特",
@@ -322,6 +322,22 @@
             "style": {
                 "type": "list"
             }
+        },
+        {
+            "key": "alllive",
+            "name": "🎮一直播┃直播",
+            "type": 3,
+            "api": "csp_AllliveGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "timeout": 15,
+            "playerType": "2",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="
         },
         {
             "key": "MTV",
