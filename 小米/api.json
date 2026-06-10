@@ -105,9 +105,25 @@
         },
         {
             "key": "88看球",
-            "name": "🏀体育┃1080P",
+            "name": "🏀叭叭┃体育",
             "type": 3,
             "api": "csp_Kanqiu",
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "timeout": 12,
+            "order_num": 0,
+            "changeable": 0
+        },
+        {
+            "key": "瓜子",
+            "name": "🏀瓜子┃体育",
+            "type": 3,
+            "api": "csp_GuaziTY",
             "style": {
                 "type": "rect",
                 "ratio": 1.333

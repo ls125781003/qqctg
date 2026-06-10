@@ -387,19 +387,6 @@
             }
         },
         {
-            "key": "映画",
-            "name": "映画｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://cms140.yhg.one",
-                "dataKey": "bM7iC9eA3oZ1nB7z",
-                "dataIv": "bM7iC9eA3oZ1nB7z"
-            }
-        },
-        {
             "key": "王子",
             "name": "王子｜APP",
             "type": 3,
@@ -792,6 +779,13 @@
             "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
         {
+            "key": "修罗影视",
+            "name": "修罗｜影视",
+            "api": "csp_Xlys",
+            "type": 3,
+            "ext": "https://www.xlysw.ggff.net"
+        },
+        {
             "key": "瓜子影视",
             "name": "瓜子｜影视",
             "type": 3,
@@ -957,13 +951,6 @@
             "type": 3
         },
         {
-            "key": "修罗",
-            "name": "修罗｜磁力",
-            "api": "csp_Xlys",
-            "type": 3,
-            "ext": "https://xl02.com.de"
-        },
-        {
             "key": "七味",
             "name": "七味｜磁力",
             "type": 3,
@@ -971,19 +958,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": {
-                "url": "https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com,https://www.qncool.com"
-            }
-        },
-        {
-            "key": "80S",
-            "name": "80S｜磁力",
-            "type": 3,
-            "api": "csp_BLSGod",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "ext": "https://www.qwshow.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qwfun.com,https://www.qnnull.com,https://www.qnnull.com"
         },
         {
             "key": "New6v",
@@ -1023,15 +998,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/DYG.json"
-        },
-        {
-            "key": "电影天堂",
-            "name": "电影天堂｜磁力",
-            "type": 3,
-            "api": "csp_DyGod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "阿里云盘",
