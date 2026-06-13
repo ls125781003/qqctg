@@ -58,20 +58,6 @@
             "ext": "./json/MTV.json"
         },
         {
-            "key": "酷奇",
-            "name": "🎤酷奇┃MV",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/酷奇MV.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "哔哩哔哩",
             "name": "🅱️哔哩大全",
             "type": 3,

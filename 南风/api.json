@@ -85,13 +85,6 @@
             "ext": "7lj763gg402i7942483l849kk10ljji4g6li98059ijj72225j5255l2k95g5i1h1g985ggj905j86ig3604gi80lgl30jk3hk637h53ghk49hgj689125k7738h7947igg3k5h3gk6j12718k402802hlkh6k527581gk4936hkj49i8i9g2hh53l320l3i3197"
         },
         {
-            "key": "趣看",
-            "name": "🥽趣看",
-            "type": 3,
-            "api": "csp_Qiji",
-            "ext": "7lj763gg402i79425l239ljhg55099jiljhhj910il877129534l1ik9l1184k401g9g54gk8j5i9097751kh28kh9l211l2lk696110l0ggjlk0339j25j768855553lkl8l1g5i05018428357244jh6l0607k61h5l55j20j0k996hl977gl13g"
-        },
-        {
             "key": "王子",
             "name": "🍟王子",
             "type": 3,
@@ -1137,6 +1130,13 @@
             "name": "Yoursmile",
             "type": 0,
             "url": "./lives/Yoursmile.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "ua": "okhttp/3.15"
+        },
+        {
+            "name": "世界杯",
+            "type": 0,
+            "url": "./lives/世界杯.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "ua": "okhttp/3.15"
         }
