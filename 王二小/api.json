@@ -15,7 +15,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260601】🐮",
+            "name": "🐮【更新日期:20260614】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -92,14 +92,6 @@
             "changeable": 1
         },
         {
-            "key": "NewShaYang",
-            "name": "💓傻样┃4K💓",
-            "type": 3,
-            "api": "csp_NewShaYangGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
             "key": "NewMuOu",
             "name": "💓木偶┃4K💓",
             "type": 3,
@@ -121,14 +113,6 @@
             "name": "💓‍原盘┃4K💓‍",
             "type": 3,
             "api": "csp_New4KZnGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "雷鲸",
-            "name": "💓‍雷鲸┃4K💓‍",
-            "type": 3,
-            "api": "csp_NewLeiJingGuard",
             "searchable": 1,
             "changeable": 1
         },
@@ -317,26 +301,26 @@
             "changeable": 1
         },
         {
-            "key": "AnimeGiriGiri",
-            "name": "🤡小爱┃动漫🤡",
+            "key": "AnimeAoWuGuard",
+            "name": "🤡嗷呜┃动漫🤡",
             "type": 3,
-            "api": "csp_AnimeGiriGiriGuard",
+            "api": "csp_AnimeAoWuGuard",
             "searchable": 1,
             "changeable": 1
         },
         {
-            "key": "AnimeFanShu",
-            "name": "🤡番薯┃动漫🤡",
+            "key": "AnimeFanChaGuard",
+            "name": "🤡饭茶┃动漫🤡",
             "type": 3,
-            "api": "csp_AnimeFanShuGuard",
+            "api": "csp_AnimeFanChaGuard",
             "searchable": 1,
             "changeable": 1
         },
         {
-            "key": "AnimeXiFan",
-            "name": "🤡稀饭┃动漫🤡",
+            "key": "AnimeMiaoWuGuard",
+            "name": "🤡喵呜┃动漫🤡",
             "type": 3,
-            "api": "csp_AnimeXiFanGuard",
+            "api": "csp_AnimeMiaoWuGuard",
             "searchable": 1,
             "changeable": 1
         },
