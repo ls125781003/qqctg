@@ -36,18 +36,25 @@
             }
         },
         {
+            "key": "csp_LocalFile",
+            "name": "🏣本地文件",
+            "type": 3,
+            "api": "csp_LocalFile",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "type_flag": 0
+        },
+        {
             "key": "csp_GuaZi",
             "name": "🍉瓜子",
             "type": 3,
-            "api": "csp_GuaziAmns",
+            "api": "csp_GuaZi",
             "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
+            "changeable": 0,
             "ext": {
-                "sites": "",
-                "filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"
-            },
-            "jar": "./jars/弹幕.jar"
+                "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+            }
         },
         {
             "key": "天天",
@@ -361,6 +368,17 @@
             "jar": "./jars/弹幕.jar"
         },
         {
+            "name": "🐱番茶动漫",
+            "key": "AowuDmFc",
+            "type": 3,
+            "api": "csp_AowuDmAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "a2a157143fce50cabe524135fd3fb26e4af09034942cb186addd2360d64a7fb5c9b7ddaede42dd983c638ddd5064f276cfa6afb8c43429de354b19c59f234352d43c095b60cf88bba8346f1b792fdc917ed229f084939e631faf8eed7cc1d53bdfd143be9e1c38ef8228663806c2e74f046ea6dae90f06581eafc6b6a4ee34ae6ac583ae5beb6bc49e710536a49f66feb74afc1950841752c37975c85f1b60cc0408b4f3b4c80e2b187fe843378e7ebfbfcd128e48a2195bfc5d1104cfc58ed98ccf5c17428aafdce4d3b14ada75f28c5c2f8856",
+            "jar": "./jars/弹幕.jar"
+        },
+        {
             "name": "☕韩剧",
             "key": "Hxq",
             "type": 3,
@@ -557,7 +575,7 @@
             "filterable": 0,
             "switchable": 0,
             "ext": {
-                "siteUrl": "https://www.qwnull.com",
+                "siteUrl": "https://www.qwmkv.com",
                 "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
             }
         },

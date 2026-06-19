@@ -173,6 +173,26 @@
             }
         },
         {
+            "key": "宫阁",
+            "name": "宫阁｜APP",
+            "type": 3,
+            "api": "csp_App99",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "host": "https://api.jciyuan.com/api",
+                "LoginPath": "/app/log",
+                "version": "",
+                "appkey": "193856c6f9b844e2b6c55d1ecc744593",
+                "versionName": "6.5.1",
+                "name": "落攻阁",
+                "package": "com.yuaiweiwu.aixue.lggys",
+                "buildNumber": "2001",
+                "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+            }
+        },
+        {
             "key": "天堂",
             "name": "天堂｜APP",
             "type": 3,
@@ -317,40 +337,11 @@
             "ext": "https://www.baidukuaiy.top"
         },
         {
-            "key": "猎鹰",
-            "name": "猎鹰｜APP",
-            "type": 3,
-            "api": "csp_AppFox",
-            "ext": "https://444421.xyz"
-        },
-        {
-            "key": "玫瑰",
-            "name": "玫瑰｜APP",
-            "type": 3,
-            "api": "csp_AppFox",
-            "ext": "http://43.251.227.45:3688"
-        },
-        {
             "key": "峥嵘",
             "name": "峥嵘｜APP",
             "type": 3,
             "api": "csp_AppFox",
             "ext": "https://api2026.hboqy.cn"
-        },
-        {
-            "key": "首发",
-            "name": "首发｜APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt",
-                "dataKey": "FTgP4Gq8zPiqbt7M",
-                "dataIv": "FTgP4Gq8zPiqbt7M",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
         },
         {
             "key": "金牌",
@@ -398,19 +389,6 @@
             }
         },
         {
-            "key": "猎豹",
-            "name": "猎豹｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://444421.xyz",
-                "dataKey": "#getapp@TMD@2025",
-                "dataIv": "#getapp@TMD@2025"
-            }
-        },
-        {
             "key": "王子",
             "name": "王子｜APP",
             "type": 3,
@@ -424,20 +402,6 @@
             }
         },
         {
-            "key": "秒看",
-            "name": "秒看｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://mk1080.top/get.txt",
-                "dataKey": "c60d88b2eep53za8",
-                "dataIv": "c60d88b2eep53za8",
-                "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa"
-            }
-        },
-        {
             "key": "茉莉",
             "name": "茉莉｜APP",
             "type": 3,
@@ -448,19 +412,6 @@
                 "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
                 "dataKey": "88689667dce61725",
                 "dataIv": "88689667dce61725"
-            }
-        },
-        {
-            "key": "灵虎",
-            "name": "灵虎｜APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://bind.315999.xyz/89.txt",
-                "dataKey": "#getapp@TMD@2025",
-                "dataIv": "#getapp@TMD@2025"
             }
         },
         {
