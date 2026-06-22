@@ -15,7 +15,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260619】🐮",
+            "name": "🐮【更新日期:20260621】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -604,6 +604,17 @@
             }
         },
         {
+            "key": "SportFeiQiu",
+            "name": "🌐飞球┃体育🌐",
+            "type": 3,
+            "api": "csp_SportFeiQiuGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "SportGuaZi",
             "name": "🌐瓜子┃体育🌐",
             "type": 3,
@@ -744,6 +755,18 @@
             "name": "💓我的┃115💓‍",
             "type": 3,
             "api": "csp_MyPan115Guard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "Fake115Share",
+            "name": "💓115┃分享💓‍",
+            "type": 3,
+            "api": "csp_Fake115ShareGuard",
             "searchable": 1,
             "changeable": 1,
             "timeout": 50,
