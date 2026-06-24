@@ -1250,7 +1250,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/BLHJ.json",
+                "json": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/json/BLHJ.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
@@ -1263,7 +1263,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLYCH.json",
+                "json": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLYCH.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1280,7 +1280,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLTS.json",
+                "json": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLTS.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1297,7 +1297,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXS.json",
+                "json": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXS.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1314,7 +1314,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXP.json",
+                "json": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXP.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1331,7 +1331,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXQ.json",
+                "json": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/json/BLXQ.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1348,7 +1348,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/education/json/SEJY.json",
+                "json": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/education/json/SEJY.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1365,7 +1365,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/education/json/XXKT.json",
+                "json": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/education/json/XXKT.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1382,7 +1382,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/education/json/CZKT.json",
+                "json": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/education/json/CZKT.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1399,7 +1399,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": {
-                "json": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/education/json/GZKT.json",
+                "json": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/NewTVBox/main/education/json/GZKT.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {

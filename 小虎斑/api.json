@@ -1,13 +1,7 @@
 {
     "spider": "./spider.jar",
     "wallpaper": "https://xn--11x805d.xn--4kq62z5rby2qupq9ub.xyz/",
-    "lives": [
-        {
-            "name": "钵钵鸡(四网通用)",
-            "type": 0,
-            "url": "切换成你自己的地址"
-        }
-    ],
+    "lives": [],
     "sites": [
         {
             "key": "drpy_js_豆瓣",
