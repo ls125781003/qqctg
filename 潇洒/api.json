@@ -173,26 +173,6 @@
             }
         },
         {
-            "key": "宫阁",
-            "name": "宫阁｜APP",
-            "type": 3,
-            "api": "csp_App99",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "host": "https://api.jciyuan.com/api",
-                "LoginPath": "/app/log",
-                "version": "",
-                "appkey": "193856c6f9b844e2b6c55d1ecc744593",
-                "versionName": "6.5.1",
-                "name": "落攻阁",
-                "package": "com.yuaiweiwu.aixue.lggys",
-                "buildNumber": "2001",
-                "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-            }
-        },
-        {
             "key": "天堂",
             "name": "天堂｜APP",
             "type": 3,
