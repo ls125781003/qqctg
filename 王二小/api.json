@@ -15,7 +15,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260621】🐮",
+            "name": "🐮【更新日期:20260627】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -40,7 +40,10 @@
             "api": "csp_WexConfigGuard",
             "searchable": 0,
             "changeable": 0,
-            "indexs": 0
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "二小",
@@ -259,6 +262,22 @@
             "api": "csp_LiveBiLiGuard",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "ManJuHuoLong",
+            "name": "🍉漫剧┃小龙🍉",
+            "type": 3,
+            "api": "csp_ManJuHuoLongGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "ManJuQiMao",
+            "name": "🍉漫剧┃小猫🍉",
+            "type": 3,
+            "api": "csp_ManJuQiMaoGuard",
+            "searchable": 1,
+            "changeable": 0
         },
         {
             "key": "DuanJuHaoKan",
@@ -689,6 +708,17 @@
             "api": "csp_WebDAVGuard",
             "searchable": 1,
             "changeable": 0
+        },
+        {
+            "key": "DiyVod",
+            "name": "👁Vod┃DIY👁️",
+            "type": 3,
+            "api": "csp_DiyVodGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "MyQuark",

@@ -255,7 +255,7 @@
                 "cookie": "",
                 "filters": "http://rihou.cc:88/json/pinglian.json",
                 "sites": "https://pinglian.lol",
-                "proxy": "proxy"
+                "proxy": "noproxy"
             }
         },
         {
@@ -455,6 +455,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
+        },
+        {
+            "key": "csp_DuanJuCen",
+            "name": "😒果果┃[短剧]",
+            "type": 3,
+            "api": "csp_DuanJuCen",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "api": "https://mov.cenguigui.cn/duanju/api.php",
+                "classes": "http://rihou.cc:88/json/duanjucen.json"
+            }
         },
         {
             "key": "csp_Jbdj",
@@ -1141,7 +1154,68 @@
         "schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com"
     ],
     "rules": [],
-    "headers": [],
+    "headers": [
+        {
+            "host": "img\\d+.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img1.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img2.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img3.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img4.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img5.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img6.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img7.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img8.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        },
+        {
+            "host": "img9.doubanio.com",
+            "header": {
+                "Referer": "https://movie.douban.com"
+            }
+        }
+    ],
     "hosts": [],
     "parses": [
         {

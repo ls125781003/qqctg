@@ -292,6 +292,36 @@
             }
         },
         {
+            "key": "追剧吧",
+            "name": "🏃‍♀️追剧吧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "【请不要相信视频中的广告，以免上当受骗！】+&&</div>",
+                "分类url": "https://zjuba.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+                "分类": "追剧全部$0#电影$1#电视剧$2#综艺$3#动漫$4#更新$new"
+            }
+        },
+        {
+            "key": "枫林网",
+            "name": "🌿枫林网",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "【请不要相信视频中的广告，以免上当受骗！】+&&",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "分类url": "https://imaple8.co/type/{cateId}-{catePg}.html"
+            }
+        },
+        {
             "key": "csp_Dygang",
             "name": "🧲电影港",
             "type": 3,
@@ -691,10 +721,9 @@
             "ext": {
                 "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "siteUrl": [
+                    "http://tvpanpan.site",
                     "http://www.xiaocgege.shop",
-                    "http://xiaocge.fun",
-                    "http://feimo.fun",
-                    "http://xiaocgege.shop"
+                    "https://www.xiaocge.fun"
                 ],
                 "filter": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
             }
