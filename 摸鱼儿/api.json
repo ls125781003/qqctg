@@ -5,13 +5,12 @@
     "sites": [
         {
             "key": "Douban",
-            "name": "🌕️┆豆瓣┆推荐",
+            "name": "🌕️┆片单┆精选",
             "type": 3,
             "api": "csp_Douban",
             "indexs": 1,
             "searchable": 0,
-            "filterable": 1,
-            "ext": "./json/douban.json"
+            "filterable": 1
         },
         {
             "key": "YGP",
@@ -39,6 +38,32 @@
             "style": {
                 "type": "list"
             }
+        },
+        {
+            "key": "ALLLive",
+            "name": "🌟┆星河┆共影",
+            "type": 3,
+            "api": "csp_ALLLive",
+            "searchable": 1
+        },
+        {
+            "key": "bili",
+            "name": "🎨┆笔触┆琉璃",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": {
+                "cookie": ""
+            }
+        },
+        {
+            "key": "FishPs",
+            "name": "🐟┆鱼鱼┆盘搜",
+            "type": 3,
+            "api": "csp_FishPs",
+            "searchable": 1,
+            "filterable": 0
         },
         {
             "key": "Wogg",
@@ -160,32 +185,6 @@
             "api": "csp_AppNox",
             "type": 3,
             "ext": "ASjKEhQKe/DZHt0fbLID47aB3aYcWUG5aIPwrmTCgGinaSykux5CZpbz57zl1moRZGFkoEXqk7decpKNU6W/p/6OTfj3JWvZtr89yPZSxNyjJm1Il5upXQT68sXR/0WG392H71MN7Q8NC8xkSOuwAq7EfX2cuHMsiqFeCCugzAiINUiEqvboCFdXiI97C6kqqqiaQIS9d+R1r7krr5vQXWtky7XJNsiK5ACjppyTh68cbONYIcgLp5Kg5woh/wj9xmNT6mFGqF2D3j2RUaLoWYf+K1+ltBiuzZ7THWKwrnpBBig8XUAG3lXNXiFhPILyYWfr+1j/UoInhNITzJJ+SSRc88KmOk5kpch+idGzVMzHIq/bLpRRxE0iV8Qdtc2atKF9QUqPXJLrwv21Dl+nxgPEGOZ+71L+gABeQdvXO7xvyzUnd+rOidPJr1mBsfu9ySbcqHkhL5EIEQpGHwRhG/yN3Y5xj0BU+SdSxnDo+CwMC+g+WCts34c2u8h2tz7G5vuTw8QvDF23kF/BZeD2QaoCBAd3SDG9ObAichfuO1nDa938+Ul+iekNOEPtPFr6k5o+px/JJkE7MKYhekE/2JfmIkbkBHdnewJYckdM37/9EKsnAozbDyFKhfKR06Es52KtuAhGyh1B8uyfsj33qFpreAqGam8kjEHdYA0i832o0BtTU2gS3mf3NoijVH/XNmlJRuNXo9yYxdjuip4Eq4iqIgajM16MGAIJ0rumYhxJ5uJUFDlf55b9iS+DvJ8wotnBvfdINpAaeXPPlVc/1JDp1rIOw0qg2XIRAafLL7kzXnW8djs2dPSQU1+j9LIrfQ6u3k4lqUs9gRMW1JhwC/4iqimnwg0KsVValaplt+fxFHhwCCkS45uLf8BaY+UZtp5ZDffbi3Q0EDAK8F210Bzd5l8W8MokURUSj374Z7y2hAROBAAgZ8qWRrFOmBC+I+LUCm7sV4h7Mwdpe8sDAtxBhxOpBAYyV8eACQsDbnQsBvizlafy16ptRrArViG0uB1VSPqvi8gqcFD1zMl+uRo="
-        },
-        {
-            "key": "ALLLive",
-            "name": "🌟┆星河┆共影",
-            "type": 3,
-            "api": "csp_ALLLive",
-            "searchable": 1
-        },
-        {
-            "key": "FishPs",
-            "name": "🐟┆鱼鱼┆盘搜",
-            "type": 3,
-            "api": "csp_FishPs",
-            "searchable": 1,
-            "filterable": 0
-        },
-        {
-            "key": "bili",
-            "name": "🎨┆笔触┆琉璃",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": {
-                "cookie": ""
-            }
         },
         {
             "key": "zhiqiu",
@@ -459,22 +458,6 @@
             }
         },
         {
-            "key": "LeiJing",
-            "name": "🐳┆雷鲸┆4K",
-            "type": 3,
-            "api": "csp_LeiJing",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://www.leijing.xyz",
-                    "https://www.leijing1.com",
-                    "https://leijing1.com"
-                ],
-                "cookie": ""
-            }
-        },
-        {
             "key": "PanTa",
             "name": "💿┆盘它┆4K",
             "type": 3,
@@ -702,13 +685,6 @@
             "api": "csp_Xb6v",
             "searchable": 1,
             "filterable": 1
-        },
-        {
-            "key": "TGSou",
-            "name": "🍬┆糖果┆搜索",
-            "type": 3,
-            "api": "csp_TGSou",
-            "searchable": 1
         },
         {
             "key": "JSo",
