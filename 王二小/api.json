@@ -15,7 +15,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260627】🐮",
+            "name": "🐮【更新日期:20260705】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -264,9 +264,19 @@
             "changeable": 1
         },
         {
+            "key": "ManJuHongGuo",
+            "name": "🍉漫短┃小红🍉",
+            "type": 3,
+            "类型": "短剧",
+            "api": "csp_ManJuHongGuoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
             "key": "ManJuHuoLong",
             "name": "🍉漫剧┃小龙🍉",
             "type": 3,
+            "类型": "短剧",
             "api": "csp_ManJuHuoLongGuard",
             "searchable": 1,
             "changeable": 0
@@ -275,6 +285,7 @@
             "key": "ManJuQiMao",
             "name": "🍉漫剧┃小猫🍉",
             "type": 3,
+            "类型": "短剧",
             "api": "csp_ManJuQiMaoGuard",
             "searchable": 1,
             "changeable": 0
@@ -283,6 +294,7 @@
             "key": "DuanJuHaoKan",
             "name": "🍉短剧┃好看🍉",
             "type": 3,
+            "类型": "短剧",
             "api": "csp_DuanJuHaoKanGuard",
             "searchable": 1,
             "changeable": 1
@@ -291,6 +303,7 @@
             "key": "DuanJuQiMiao",
             "name": "🍉短剧┃小猫🍉",
             "type": 3,
+            "类型": "短剧",
             "api": "csp_DuanJuQiMiaoGuard",
             "searchable": 1,
             "changeable": 1
@@ -299,6 +312,7 @@
             "key": "DuanJuHeMa",
             "name": "🍉短剧┃小马🍉",
             "type": 3,
+            "类型": "短剧",
             "api": "csp_DuanJuHeMaGuard",
             "searchable": 1,
             "changeable": 1
@@ -307,6 +321,7 @@
             "key": "DuanJuXingYa",
             "name": "🍉短剧┃星星🍉",
             "type": 3,
+            "类型": "短剧",
             "api": "csp_DuanJuXingYaGuard",
             "searchable": 1,
             "changeable": 1
@@ -315,6 +330,7 @@
             "key": "DuanJuWeiGuan",
             "name": "🍉短剧┃小薇🍉",
             "type": 3,
+            "类型": "短剧",
             "api": "csp_DuanJuWeiGuanGuard",
             "searchable": 1,
             "changeable": 1
