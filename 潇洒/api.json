@@ -126,22 +126,6 @@
             }
         },
         {
-            "key": "咕噜",
-            "name": "咕噜 • APP",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://103.45.132.22:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "1a4c69b3c23e4cd2a315c26fb96cbac8",
-                "versionName": "2.0.5",
-                "name": "咕噜咕噜",
-                "package": "com.xiatianxiansheng.gulugulu",
-                "buildNumber": "2001",
-                "buildSignature": "8370FB5A96B50F39CC0FAEDE68759DFF6B0F0B6C6376331D8F22D171331DC96C"
-            }
-        },
-        {
             "key": "顾我99",
             "name": "顾我 • APP",
             "type": 3,
@@ -319,6 +303,34 @@
             }
         },
         {
+            "key": "高清",
+            "name": "高清 • APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt",
+                "dataKey": "FTgP4Gq8zPiqbt7M",
+                "dataIv": "FTgP4Gq8zPiqbt7M",
+                "init": "initV120",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "魔方",
+            "name": "魔方 • APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://www.douy32mf.top",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321"
+            }
+        },
+        {
             "key": "王子",
             "name": "王子 • APP",
             "type": 3,
@@ -431,10 +443,11 @@
             "changeable": 1,
             "ext": {
                 "site": [
-                    "http://www.xiaocgege.shop",
-                    "http://xiaocge.fun",
+                    "http://tvpanpan.site",
                     "http://feimo.fun",
-                    "http://xiaocgege.shop"
+                    "http://xiaocgege.shop",
+                    "http://www.xiaocgege.shop",
+                    "https://www.xiaocge.fun"
                 ]
             },
             "timeout": 60
@@ -505,7 +518,8 @@
             "changeable": 1,
             "ext": {
                 "site": [
-                    "https://2xiaopan.fun ",
+                    "https://www.2xiaopan.top",
+                    "https://2xiaopan.top",
                     "https://www.erxiaozhan.top",
                     "https://www.2xiaozhan.top",
                     "https://wexwp.cc"
@@ -525,6 +539,22 @@
             "ext": {
                 "site": [
                     "http://38.76.197.172:16969"
+                ]
+            },
+            "timeout": 60
+        },
+        {
+            "key": "短木",
+            "name": "短木 • 4K",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://duanmu.laozhangone.top"
                 ]
             },
             "timeout": 60

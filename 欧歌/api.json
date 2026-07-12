@@ -5,14 +5,14 @@
     "sites": [
         {
             "key": "豆瓣2",
-            "name": "📢马到成功、一马当先、马跃千山、马踏祥云！",
+            "name": "📢仅限测试用，请勿演示贩卖购买，谨防上当受骗！",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
         {
             "key": "豆瓣1",
-            "name": "📢公告❤更新0709❤",
+            "name": "📢公告❤更新0711❤",
             "type": 3,
             "api": "csp_Notice",
             "searchable": 1,
@@ -57,7 +57,7 @@
                 ],
                 "url_key": "wogg1",
                 "threadinfo": {
-                    "chunksize": 415,
+                    "chunksize": 475,
                     "threads": 16
                 }
             }
@@ -80,7 +80,7 @@
                 ],
                 "url_key": "woog2",
                 "threadinfo": {
-                    "chunksize": 503,
+                    "chunksize": 429,
                     "threads": 16
                 }
             }
@@ -128,10 +128,10 @@
             "ext": "https://vip.wwgz.cn:5200"
         },
         {
-            "key": "三六零",
-            "name": "💡三六｜视频",
+            "key": "瓜子2影视",
+            "name": "💡瓜子｜影视",
             "type": 3,
-            "api": "csp_SP360"
+            "api": "csp_Gz360"
         },
         {
             "key": "骚火影视",
@@ -149,10 +149,13 @@
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
         {
-            "key": "瓜子2影视",
-            "name": "💡瓜子｜影视",
+            "key": "爱看机器人",
+            "name": "💡爱看｜影视",
             "type": 3,
-            "api": "csp_Gz360"
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "1905",
@@ -1467,22 +1470,22 @@
         {
             "name": "失败手动换",
             "type": "1",
-            "url": "https://by1.nxog.eu.org/jx.php?ou=2c5&mz=0&url="
+            "url": "https://by1.nxog.eu.org/jx.php?ou=2c8&mz=0&url="
         },
         {
             "name": "-关注-",
             "type": 1,
-            "url": "https://by1.nxog.eu.org/jx.php?ou=2c5&mz=1&url="
+            "url": "https://by1.nxog.eu.org/jx.php?ou=2c8&mz=1&url="
         },
         {
             "name": "-装歌API-",
             "type": 1,
-            "url": "https://by1.nxog.eu.org/jx.php?ou=2c5&mz=2&url="
+            "url": "https://by1.nxog.eu.org/jx.php?ou=2c8&mz=2&url="
         },
         {
             "name": "-公众号-",
             "type": 1,
-            "url": "https://by1.nxog.eu.org/jx.php?ou=2c5&mz=3&url="
+            "url": "https://by1.nxog.eu.org/jx.php?ou=2c8&mz=3&url="
         },
         {
             "name": "装歌APP",

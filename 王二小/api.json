@@ -15,7 +15,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260707】🐮",
+            "name": "🐮【更新日期:20260712】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "searchable": 0,
@@ -51,7 +51,8 @@
             "type": 3,
             "api": "csp_NewErXiaoGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "玩偶",
@@ -59,7 +60,8 @@
             "type": 3,
             "api": "csp_NewWoggGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "NewZhiZhen",
@@ -67,7 +69,8 @@
             "type": 3,
             "api": "csp_NewZhiZhenGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "NewGuanYing",
@@ -75,7 +78,8 @@
             "type": 3,
             "api": "csp_NewGuanYingGuard",
             "searchable": 1,
-            "changeable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
             "timeout": 120
         },
         {
@@ -84,7 +88,8 @@
             "type": 3,
             "api": "csp_NewJuTouGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "NewHuBan",
@@ -92,7 +97,8 @@
             "type": 3,
             "api": "csp_NewHuBanGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "NewMuOu",
@@ -100,7 +106,8 @@
             "type": 3,
             "api": "csp_NewMuOuGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "NewDuoDuo",
@@ -108,7 +115,8 @@
             "type": 3,
             "api": "csp_NewDuoDuoGuard",
             "searchable": 1,
-            "changeable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
             "timeout": 120
         },
         {
@@ -117,7 +125,8 @@
             "type": 3,
             "api": "csp_New4KZnGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "NewPanMe123",
@@ -125,15 +134,8 @@
             "type": 3,
             "api": "csp_NewPanMe123Guard",
             "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "盘他",
-            "name": "💓‍盘他┃4K💓‍",
-            "type": 3,
-            "api": "csp_NewPanTaGuard",
-            "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "WexHanXiaoQuan",
@@ -141,7 +143,8 @@
             "type": 3,
             "api": "csp_WexHanXiaoQuanGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "WexGuaZi",
@@ -149,7 +152,8 @@
             "type": 3,
             "api": "csp_WexGuaZiGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "賤賤",
@@ -157,7 +161,8 @@
             "type": 3,
             "api": "csp_WexJianPianGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "WexWenCai",
@@ -165,7 +170,8 @@
             "type": 3,
             "api": "csp_WexWenCaiGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "WexDuBoKu",
@@ -173,7 +179,8 @@
             "type": 3,
             "api": "csp_WexDuBoKuGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "WexYueYue",
@@ -181,7 +188,8 @@
             "type": 3,
             "api": "csp_WexYueYueGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "WexV6DaShiXiong",
@@ -189,7 +197,8 @@
             "type": 3,
             "api": "csp_WexV6DaShiXiongGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "WexV6TeGou",
@@ -197,7 +206,8 @@
             "type": 3,
             "api": "csp_WexV6TeGouGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "WexYiYs",
@@ -205,7 +215,8 @@
             "type": 3,
             "api": "csp_WexYiYsGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "WexReBo",
@@ -213,7 +224,8 @@
             "type": 3,
             "api": "csp_WexReBoGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "WexBoBo",
@@ -221,7 +233,8 @@
             "type": 3,
             "api": "csp_WexBoBoGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "新6V",
@@ -229,6 +242,7 @@
             "type": 3,
             "api": "csp_WexXb6vGuard",
             "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0
         },
         {
@@ -237,7 +251,8 @@
             "type": 3,
             "api": "csp_WexIkanBotGuard",
             "searchable": 1,
-            "changeable": 1
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "LiveHuYa",
@@ -245,7 +260,7 @@
             "type": 3,
             "api": "csp_LiveHuYaGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "LiveDouYu",
@@ -253,7 +268,7 @@
             "type": 3,
             "api": "csp_LiveDouYuGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "LiveBiLi",
@@ -261,7 +276,7 @@
             "type": 3,
             "api": "csp_LiveBiLiGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "ManJuHongGuo",
@@ -306,7 +321,7 @@
             "类型": "短剧",
             "api": "csp_DuanJuHaoKanGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "DuanJuQiMiao",
@@ -315,7 +330,7 @@
             "类型": "短剧",
             "api": "csp_DuanJuQiMiaoGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "DuanJuHeMa",
@@ -324,7 +339,7 @@
             "类型": "短剧",
             "api": "csp_DuanJuHeMaGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "DuanJuXingYa",
@@ -333,7 +348,7 @@
             "类型": "短剧",
             "api": "csp_DuanJuXingYaGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "DuanJuWeiGuan",
@@ -342,7 +357,7 @@
             "类型": "短剧",
             "api": "csp_DuanJuWeiGuanGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "AnimeFanShu",
@@ -350,23 +365,7 @@
             "type": 3,
             "api": "csp_AnimeFanShuGuard",
             "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "AnimeAoWuGuard",
-            "name": "🤡嗷呜┃动漫🤡",
-            "type": 3,
-            "api": "csp_AnimeAoWuGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "AnimeFanChaGuard",
-            "name": "🤡饭茶┃动漫🤡",
-            "type": 3,
-            "api": "csp_AnimeFanChaGuard",
-            "searchable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "AnimeMiaoWuGuard",
@@ -374,7 +373,7 @@
             "type": 3,
             "api": "csp_AnimeMiaoWuGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "AnimeMoDu",
@@ -382,7 +381,7 @@
             "type": 3,
             "api": "csp_AnimeMoDuGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "BookShiJie",
@@ -390,7 +389,7 @@
             "type": 3,
             "api": "csp_BookShiJieGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "BookYueTing",
@@ -398,7 +397,7 @@
             "type": 3,
             "api": "csp_BookYueTingGuard",
             "searchable": 1,
-            "changeable": 1,
+            "changeable": 0,
             "timeout": 120
         },
         {
@@ -407,7 +406,7 @@
             "type": 3,
             "api": "csp_Book23TingShuGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "ChildrenDuoDuo",
@@ -716,7 +715,7 @@
             "type": 3,
             "api": "csp_EmbyGuard",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "AList",
@@ -751,7 +750,7 @@
             "type": 3,
             "api": "csp_MyQuarkGuard",
             "searchable": 1,
-            "changeable": 1,
+            "changeable": 0,
             "timeout": 50,
             "style": {
                 "type": "list"
@@ -763,7 +762,7 @@
             "type": 3,
             "api": "csp_MyBaiDuGuard",
             "searchable": 1,
-            "changeable": 1,
+            "changeable": 0,
             "timeout": 50,
             "style": {
                 "type": "list"
@@ -775,7 +774,7 @@
             "type": 3,
             "api": "csp_MyUcPanGuard",
             "searchable": 1,
-            "changeable": 1,
+            "changeable": 0,
             "timeout": 50,
             "style": {
                 "type": "list"
@@ -787,7 +786,7 @@
             "type": 3,
             "api": "csp_MyGuangYaGuard",
             "searchable": 1,
-            "changeable": 1,
+            "changeable": 0,
             "timeout": 50,
             "style": {
                 "type": "list"
@@ -799,7 +798,7 @@
             "type": 3,
             "api": "csp_MyPan189Guard",
             "searchable": 1,
-            "changeable": 1,
+            "changeable": 0,
             "timeout": 50,
             "style": {
                 "type": "list"
@@ -811,7 +810,7 @@
             "type": 3,
             "api": "csp_MyPan115Guard",
             "searchable": 1,
-            "changeable": 1,
+            "changeable": 0,
             "timeout": 50,
             "style": {
                 "type": "list"
@@ -823,7 +822,7 @@
             "type": 3,
             "api": "csp_Fake115ShareGuard",
             "searchable": 1,
-            "changeable": 1,
+            "changeable": 0,
             "timeout": 50,
             "style": {
                 "type": "list"
@@ -835,7 +834,7 @@
             "type": 3,
             "api": "csp_MyPan123Guard",
             "searchable": 1,
-            "changeable": 1,
+            "changeable": 0,
             "timeout": 50,
             "style": {
                 "type": "list"

@@ -541,6 +541,11 @@
             "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getAbjx&url="
         },
         {
+            "name": "虎斑getSBSjx",
+            "type": 1,
+            "url": "http://127.0.0.1:9978/proxy?do=seachdanmu&go=getSBSjx&url="
+        },
+        {
             "name": "虎斑XM",
             "type": 1,
             "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getXmflvjx&url=",

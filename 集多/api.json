@@ -313,6 +313,15 @@
             "changeable": 0
         },
         {
+            "key": "csp_HDmoli",
+            "name": "🐶HDmoli┃[网盘]",
+            "type": 3,
+            "api": "csp_HDmoli",
+            "timeout": 60,
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
             "key": "csp_Xxzn",
             "name": "🤑指南┃[网盘]",
             "type": 3,
@@ -323,8 +332,7 @@
             "timeout": 60,
             "ext": {
                 "filters": "http://rihou.cc:88/json/xxzn.json",
-                "sites": "https://4kzn.com",
-                "proxy": "proxy"
+                "sites": "https://4kzn.cc"
             }
         },
         {
@@ -448,6 +456,51 @@
             }
         },
         {
+            "key": "短木网盘",
+            "name": "🙄短木┃[网盘]",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": {
+                "sites": "https://duanmu.laozhangone.top",
+                "filters": "http://rihou.cc:88/json/wogg2.json",
+                "proxy": "noproxy"
+            }
+        },
+        {
+            "key": "虎斑网盘",
+            "name": "🤔虎斑┃[网盘]",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": {
+                "sites": "http://38.76.197.172:16969",
+                "filters": "http://rihou.cc:88/json/wogg2.json",
+                "proxy": "noproxy"
+            }
+        },
+        {
+            "key": "快映网盘",
+            "name": "😳快映┃[网盘]",
+            "type": 3,
+            "api": "csp_Wobg",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "ext": {
+                "sites": "http://38.76.197.172:12521",
+                "filters": "http://rihou.cc:88/json/wogg2.json",
+                "proxy": "noproxy"
+            }
+        },
+        {
             "key": "csp_Jianpian",
             "name": "🥺荐片┃[秒播]",
             "type": 3,
@@ -550,14 +603,6 @@
             }
         },
         {
-            "key": "闪影BOX",
-            "name": "🤯臻享┃[APP]",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchTop": true,
-            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
-        },
-        {
             "key": "夸克短剧",
             "name": "🌽夸克┃[短剧]",
             "type": 3,
@@ -606,6 +651,14 @@
             "api": "csp_XBPQ",
             "ext": "./json/啊哈DJ网.json",
             "jar": "./jars/夸克短剧.jar"
+        },
+        {
+            "key": "csp_AiWanMusic",
+            "name": "🎵爱玩┃[音乐]",
+            "type": 3,
+            "api": "csp_AiWanMusic",
+            "searchable": 1,
+            "changeable": 0
         },
         {
             "key": "随身评书",
@@ -657,23 +710,6 @@
             "type": 3,
             "timeout": 60,
             "api": "./api/夸克影院.js"
-        },
-        {
-            "key": "cat_HDmoli",
-            "name": "⛵HDmoli┃[网盘]",
-            "type": 3,
-            "timeout": 60,
-            "api": "./api/HDmoli.js"
-        },
-        {
-            "key": "灯泡网盘",
-            "name": "💡灯泡｜[网盘]",
-            "type": 3,
-            "timeout": 60,
-            "api": "./api/灯泡网盘.js",
-            "ext": {
-                "tabsSet": "磁力&网盘"
-            }
         },
         {
             "key": "人人电影",
