@@ -2,17 +2,17 @@
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="TSN 4K" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos/countries/canada/tsn-4k-ca.png" group-title="4K英文解说",TSN 4K
-https://kan.waiguotai.top/p/e755232a-1c0f-4bd6-bfbd-6ff95e78d29e
+https://kan.waiguotai.top/p/9328de0c-13f0-451b-aad5-5b061e44ca08
 #EXTINF:-1 tvg-name="Fox Sports 4K HDR" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fox.png" group-title="4K英文解说",Fox Sports 4K HDR
 https://watch.yingyujieshuo.top/p/10bf977d-8b5c-4b77-abe7-bfdb45057daa
+#EXTINF:-1 tvg-name="BBC UHD HLG" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/BBC_UHD_HLG.png" group-title="4K英文解说",BBC UHD HLG
+https://kan.waiguotai.top/p/e0db5aef-a574-4eb3-9c67-270ba51d4d32
 #EXTINF:-1 tvg-name="FussBall TV" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fussball.png" group-title="4K杜比视界世界杯正赛",FussBall TV
 https://cdn.staticres.top/p/b1ea7ad7-d641-4c00-8b52-185c98fb9190
-#EXTINF:-1 tvg-name="4tos de Final: Noruega v. Inglaterra" group-title="4K杜比视界世界杯正赛",4tos de Final: Noruega v. Inglaterra_2026-07-12 04:40:00_1783802400000
-https://picture.shenniaokongque.top/event/b0097a9d-01fc-3373-96e8-3c08da404a26
-#EXTINF:-1 tvg-name="4tos de Final: Argentina v. Suiza" group-title="4K杜比视界世界杯正赛",4tos de Final: Argentina v. Suiza_2026-07-12 07:10:00_1783811400000
-https://picture.shenniaokongque.top/event/2df93a77-2bbb-36ee-b2eb-b3046db0fda8
-#EXTINF:-1 tvg-name="El Mundial: Rumbo a la Gran Final" group-title="4K杜比视界世界杯正赛",El Mundial: Rumbo a la Gran Final_2026-07-13 04:10:00_1783887000000
-https://picture.shenniaokongque.top/event/c20fd0cc-6cf6-3c62-a1f5-4e43f40fcdf4
+#EXTINF:-1 tvg-name="Semifinal: Inglaterra v. Argentina" group-title="4K杜比视界世界杯正赛",Semifinal: Inglaterra v. Argentina_2026-07-16 02:40:00_1784140800000
+https://picture.shenniaokongque.top/event/d92181b9-47cd-3aed-a6b5-12905a2449af
+#EXTINF:-1 tvg-name="El Mundial: Rumbo a la Gran Final" group-title="4K杜比视界世界杯正赛",El Mundial: Rumbo a la Gran Final_2026-07-17 01:10:00_1784221800000
+https://picture.shenniaokongque.top/event/2f23cd09-151b-30f3-a50f-c0fc9bc2bce6
 #EXTINF:-1 tvg-name="世界杯4K回放-开幕式&揭幕战_2026-06-12 01:25:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190d27h70069ip3a5i0000000000440f3dmm" group-title="4K世界杯回放",世界杯4K回放-开幕式&揭幕战_2026-06-12 01:25:00
 http://82.156.243.185:34567/xhs/4459820
 #EXTINF:-1 tvg-name="世界杯4K回放-韩国vs捷克_2026-06-12 09:30:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190d98u74069ip3a5i000000000040ihhf18" group-title="4K世界杯回放",世界杯4K回放-韩国vs捷克_2026-06-12 09:30:00
@@ -213,3 +213,7 @@ http://82.156.243.185:34567/xhs/4459809
 http://82.156.243.185:34567/xhs/4459810
 #EXTINF:-1 tvg-name="世界杯4K回放-阿根廷vs瑞士_2026-07-12 08:05:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0322frduvg7ue6k77ao0jp40000000006kkuvqk" group-title="4K世界杯回放",世界杯4K回放-阿根廷vs瑞士_2026-07-12 08:05:00
 http://82.156.243.185:34567/xhs/4459811
+#EXTINF:-1 tvg-name="世界杯4K回放-法国vs西班牙_2026-07-15 02:00:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0322jo2h1j7k06k77ao0jp40000000006ifukpa" group-title="4K世界杯回放",世界杯4K回放-法国vs西班牙_2026-07-15 02:00:00
+http://82.156.243.185:34567/xhs/4459812
+#EXTINF:-1 tvg-name="世界杯4K回放-英格兰vs阿根廷_2026-07-16 02:00:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0322jo9hornk06k77ao0jp4000000000644rho4" group-title="4K世界杯回放",世界杯4K回放-英格兰vs阿根廷_2026-07-16 02:00:00
+http://82.156.243.185:34567/xhs/4459813

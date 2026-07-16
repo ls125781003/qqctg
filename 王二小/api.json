@@ -8,6 +8,7 @@
             "name": "🐮【王二小放牛娃】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
+            "indexs": 1,
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -15,9 +16,10 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260712】🐮",
+            "name": "🐮【更新日期:20260715】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
+            "indexs": 1,
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -329,15 +331,6 @@
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuQiMiaoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "DuanJuHeMa",
-            "name": "🍉短剧┃小马🍉",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_DuanJuHeMaGuard",
             "searchable": 1,
             "changeable": 0
         },

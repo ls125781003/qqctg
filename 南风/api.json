@@ -46,15 +46,18 @@
             "type_flag": 0
         },
         {
-            "key": "csp_GuaZi",
             "name": "🍉瓜子",
+            "key": "Guazi",
             "type": 3,
-            "api": "csp_GuaZi",
+            "api": "csp_GuaziAmns",
             "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
-            }
+                "sites": "",
+                "filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"
+            },
+            "jar": "./jars/弹幕.jar"
         },
         {
             "key": "天天",
@@ -449,22 +452,6 @@
             }
         },
         {
-            "key": "枫林网",
-            "name": "🌿枫林网",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "简介": "【请不要相信视频中的广告，以免上当受骗！】+&&",
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "分类url": "https://imaple8.co/type/{cateId}-{catePg}.html"
-            }
-        },
-        {
             "key": "csp_Dygang",
             "name": "🧲电影港",
             "type": 3,
@@ -597,10 +584,10 @@
             "jar": "./jars/弹幕.jar"
         },
         {
-            "name": "🐱稀饭动漫",
-            "key": "DMxifan",
+            "name": "🐱花海动漫",
+            "key": "DMhhz",
             "type": 3,
-            "api": "csp_DMxifanAmns",
+            "api": "csp_DMhhzAmns",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
