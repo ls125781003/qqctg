@@ -216,24 +216,6 @@
             }
         },
         {
-            "key": "csp_Panta91",
-            "name": "🐹盘Ta┃[网盘]",
-            "type": 3,
-            "api": "csp_Panta91",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 1,
-            "timeout": 60,
-            "style": {
-                "type": "list"
-            },
-            "ext": {
-                "sites": "https://www.91panta.cn",
-                "proxy": "noproxy",
-                "classes": "http://rihou.cc:88/json/panta.json"
-            }
-        },
-        {
             "key": "csp_GuanYing",
             "name": "😂观影┃[网盘]",
             "type": 3,
@@ -566,6 +548,18 @@
                 "package": "com.yingfu.mobile.android.pgsp",
                 "buildNumber": "2003",
                 "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+            }
+        },
+        {
+            "key": "金牌GET",
+            "name": "🥇金牌┃[APP]",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "host": "https://qj4.catbb.xyz",
+                "datakey": "eecbio48dsq13kkk",
+                "init": "V122",
+                "api": 2
             }
         },
         {

@@ -52,6 +52,18 @@
             "api": "csp_Duboku"
         },
         {
+            "key": "HBGuaZi",
+            "name": "瓜子|弹幕",
+            "type": 3,
+            "api": "csp_HBGuaZi"
+        },
+        {
+            "key": "HBPianKu8",
+            "name": "片库|弹幕",
+            "type": 3,
+            "api": "csp_HBPianKu8"
+        },
+        {
             "key": "muxi",
             "name": "人人|弹幕",
             "type": 3,

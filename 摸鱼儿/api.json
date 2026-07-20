@@ -146,6 +146,16 @@
             "ext": "ASrqK2y8hBjF6nWBT4VA6nl6pMHBuUkTFU8G1oArN4pFIRBIK3Koep4Mpa+rHr3EEKPvWTsPKevEKAGNJkBG3jYkvcbsm4uMR4SEGFXEVUK5k5GC1r3GrXXjDgc1ezNOEnVyK6ZdKI+xk/a/S3HSnknsxpSteN1SyaZ76LlkHDg8oTcmvsm6VWIJmoLG+EXXFO47gkwl6Z2cGWF6122DYXd9rqv5d1nPkPmMRFOjZmeIQwGet75HMuUQH2SD6tMhrHwqOVYxsZhaEJyp6C5P7lQgMd2fNfTUjdB8IXkeVnT+wuAKOiT09go+UHAmjghG58OMf/v/2ou2/Ojv5RTxZkUiiLZ5tUfJMSW87nNKi1Ak4w3wJ2h0OBR83irMrQjD68TCU0pG+ecPOjclNg7OFlbYxsLd0PPUBDQOAxFhq9+IpEgRp04Fi5Eb9B2exKN8CXuEoyf6ISv5l7FkIamTpm0="
         },
         {
+            "key": "PianKu8",
+            "name": "🫡┆片库┆4K",
+            "type": 3,
+            "api": "csp_PianKu8",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://qkys.qukanwh.com"
+        },
+        {
             "key": "BuBu",
             "name": "🧸┆布布┆4K",
             "type": 3,
@@ -153,13 +163,6 @@
             "searchable": 1,
             "changeable": 1,
             "filterable": 1
-        },
-        {
-            "key": "咕噜",
-            "name": "🫘┆咕噜┆4K",
-            "type": 3,
-            "api": "csp_App88",
-            "ext": "AUXkLbelPYIFkc6szR+lpXagYN8ZQEJJ5VYeIeycsVIkDfbsf5BqC5J/K5hVe93P4ISTqSwjcK1rN0XXZU7boAdFQZAROv3CFQHDZKSdXsDGtNiCxf80r+n4zVyxCja6f15pvyIFm5rK9SyILyEcCBrirvH1iNDKiFB1BZnv+YAHBCrl8ewnZU8yc7oRhDVp7ggXHRdEBNzMQqAha/Bs3iZpMxH3Vy2uiCHZ0RE22BmMZnD6Suqn8aIpoJKx+/UtZCNQqLu2FpJOR3f4wlkLojvLJzsaYXhZHUErR44FgJoqu1+hAv1EWrqAmn8vZ+y+Fdp9plef4ljVuFO4H8eTD2UqM87XFTv3h3FBE2c67HlCO1lVzvFHygvnm6LpcaJqG+V64Ah868FWNuYhY4uKf/5fbOFKL+51EhUqmyj4nazAGPSu6EItet5FxZHHcMt9IwEdxufehG9DSBRun4ICtRs="
         },
         {
             "key": "huaisang",
@@ -199,13 +202,6 @@
             "type": 3,
             "api": "csp_App88",
             "ext": "Aa+WBBIIxghmbVYkWqlC4wrZvlocl4rSZS9+QyJDF6RgWFfYSb+nEM6WkMHPVbQFva551Srt16FqFroyjNssEXemH+xC5pCMj/ewgFuLEIbY2mXCVJ1bJxWRJAggNgH1f3mjwrBxlZA0kGgfAd0os29Mdi3RNJilSo5VMkPpcQPMeF8/PTbZHNymotiTwtICNcA5Q0WXsqe/wJ3HoLU4gBYQs1lBmYdxtAuvsnte3SbumQEFlaQnygFscx6EGrwKMFZLVcmu9egAXxygsf5PmyzN/xvOr+b+HslccoKqDbHNU/C6yWFwaHBawww0ckXRtoJ8fFbV7Xv4NiRcEf6ePm/cd06xYiZmjRts11gE0r8f7D0vx/TgigmU3v8nrgNYDokUGl/jDdza3o7BXyQumCWRD45wYbmKJ1LKb0ybRvNt"
-        },
-        {
-            "key": "zhiyu",
-            "name": "🍒┆知予┆4K",
-            "type": 3,
-            "api": "csp_App88",
-            "ext": "ATd4LShQaINZxK548ydSGHblHhC3PhXDHgG/wygpIGyPPFfCCChjn/uNS6rJLAPKS3FTdcs3zrEf+BPU0gcQd0HuvlpxX1N9Wf4mgLt6PFRxn7cdk6A0HuRHXBPEMwlxtfUzCP/CN8sqv0yHcoagztVvXimjGjUa3ztVu2NEsc0ktHpeas2tNbdlFgSvNtfvNmiAjauyNgSp/xiDdQTxi7rnYNCMGncQBwbv8aUVV+KvB+rRmPhrVmUhpgLu4NGKMrXnik8d/fmXeFk133EvP2EYhmG+H5v6j1orxRcRELIdvaw+F75c51t3HQej84dZBvGoREddBzhJclMMYIi9KejSLplRpzANlFdl+e60cHUJBsN4FDiBTN6cKcgt0/fzfxiPmDVhh6yl/Nqd2Wf+YJ9IW03zplJYRb23EBHVvT1/s/k2o5l15+K80CgmHH8AHlg466PclkwCzeE8Ya2fZrRQ0/ZLzqycRzfUrlMqjSgj"
         },
         {
             "key": "清沅",
@@ -602,37 +598,36 @@
             "api": "csp_Ikanbot",
             "searchable": 1,
             "filterable": 0,
-            "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
+            "ext": {
+                "box": "TVBox",
+                "danmu": false
+            }
         },
         {
-            "key": "Hema",
-            "name": "🦛┆河马┆短剧",
+            "key": "HonHon",
+            "name": "🍅┆红红┆短剧",
             "type": 3,
-            "api": "csp_Hema",
+            "api": "csp_HonHon",
             "searchable": 1,
             "quickSearch": 1,
             "genre": "shortdrama",
-            "filterable": 1
-        },
-        {
-            "key": "WeiguanDJ",
-            "name": "🔍┆微观┆短剧",
-            "type": 3,
-            "api": "csp_WeiguanDJ",
-            "searchable": 1,
             "filterable": 1,
-            "genre": "shortdrama",
-            "changeable": 1
+            "ext": {
+                "host": "https://short.fishcloud.top",
+                "quality": "1080p",
+                "danmu": false
+            }
         },
         {
-            "key": "HHkk",
-            "name": "😍┆好看┆短剧",
+            "key": "DJHub",
+            "name": "🎭┆短剧┆聚合",
             "type": 3,
-            "api": "csp_HHkk",
+            "api": "csp_DJHub",
             "searchable": 1,
             "quickSearch": 1,
             "genre": "shortdrama",
-            "filterable": 1
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "FanShu",

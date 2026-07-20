@@ -16,7 +16,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260715】🐮",
+            "name": "🐮【更新日期:20260717】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
@@ -317,6 +317,15 @@
             "changeable": 0
         },
         {
+            "key": "ManJuAiHeMa",
+            "name": "🍉漫短┃小马🍉",
+            "type": 3,
+            "类型": "短剧",
+            "api": "csp_DuanJuHeMaGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
             "key": "DuanJuHaoKan",
             "name": "🍉短剧┃好看🍉",
             "type": 3,
@@ -365,6 +374,14 @@
             "name": "🤡喵呜┃动漫🤡",
             "type": 3,
             "api": "csp_AnimeMiaoWuGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "AnimeHuaziGuard",
+            "name": "🤡花海┃动漫🤡",
+            "type": 3,
+            "api": "csp_AnimeHuaziGuard",
             "searchable": 1,
             "changeable": 0
         },
