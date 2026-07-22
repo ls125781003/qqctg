@@ -292,7 +292,10 @@
             "api": "csp_SeedHub",
             "timeout": 60,
             "searchable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "ext": {
+                "host": "https://sidhub.cc"
+            }
         },
         {
             "key": "csp_HDmoli",
@@ -760,7 +763,10 @@
             "type": 3,
             "api": "csp_IkanBot",
             "searchable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "ext": {
+                "host": "https://www1.ikanbot.com/"
+            }
         },
         {
             "key": "csp_Cjhj",

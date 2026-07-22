@@ -16,7 +16,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260717】🐮",
+            "name": "🐮【更新日期:20260721】🐮",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
@@ -30,6 +30,7 @@
             "name": "⬇️【网盘类先扫码】⬇️",
             "type": 3,
             "api": "csp_NewDouBanGuard",
+            "indexs": 1,
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,

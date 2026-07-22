@@ -6,13 +6,7 @@ https://kan.waiguotai.top/p/9328de0c-13f0-451b-aad5-5b061e44ca08
 #EXTINF:-1 tvg-name="Fox Sports 4K HDR" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fox.png" group-title="4K英文解说",Fox Sports 4K HDR
 https://watch.yingyujieshuo.top/p/10bf977d-8b5c-4b77-abe7-bfdb45057daa
 #EXTINF:-1 tvg-name="FussBall TV" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fussball.png" group-title="4K杜比视界世界杯正赛",FussBall TV
-https://cdn.staticres.top/p/b1ea7ad7-d641-4c00-8b52-185c98fb9190
-#EXTINF:-1 tvg-name="Tercer Puesto: Francia v. Inglaterra" group-title="4K杜比视界世界杯正赛",Tercer Puesto: Francia v. Inglaterra_2026-07-19 04:40:00_1784407200000
-https://picture.shenniaokongque.top/event/70aef130-b33d-3d3e-8d1c-513bd7bbba69
-#EXTINF:-1 tvg-name="Camino a la Final" group-title="4K杜比视界世界杯正赛",Camino a la Final_2026-07-19 23:10:00_1784473800000
-https://picture.shenniaokongque.top/event/406008c5-6aae-3d91-b683-71e6360b5cd9
-#EXTINF:-1 tvg-name="Final: España v. Argentina" group-title="4K杜比视界世界杯正赛",Final: España v. Argentina_2026-07-20 02:40:00_1784486400000
-https://picture.shenniaokongque.top/event/b4a33995-a547-31a5-9b9d-cef6582b9dd8
+https://cdn.staticres.top/p/2e78179a-b837-4050-bd1c-a260536c755c
 #EXTINF:-1 tvg-name="世界杯4K回放-开幕式&揭幕战_2026-06-12 01:25:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190d27h70069ip3a5i0000000000440f3dmm" group-title="4K世界杯回放",世界杯4K回放-开幕式&揭幕战_2026-06-12 01:25:00
 http://82.156.243.185:34567/xhs/4459820
 #EXTINF:-1 tvg-name="世界杯4K回放-韩国vs捷克_2026-06-12 09:30:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190d98u74069ip3a5i000000000040ihhf18" group-title="4K世界杯回放",世界杯4K回放-韩国vs捷克_2026-06-12 09:30:00
@@ -219,3 +213,5 @@ http://82.156.243.185:34567/xhs/4459812
 http://82.156.243.185:34567/xhs/4459813
 #EXTINF:-1 tvg-name="世界杯4K回放-法国vs英格兰_2026-07-19 04:00:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0322lje9b8nk06k77ao0jp40000000005drpj98" group-title="4K世界杯回放",世界杯4K回放-法国vs英格兰_2026-07-19 04:00:00
 http://82.156.243.185:34567/xhs/4459814
+#EXTINF:-1 tvg-name="世界杯4K回放-西班牙vs阿根廷_2026-07-20 00:00:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0322pubmvg7k06k77ao0jp400000000020k4rb4" group-title="4K世界杯回放",世界杯4K回放-西班牙vs阿根廷_2026-07-20 00:00:00
+http://82.156.243.185:34567/xhs/4459815

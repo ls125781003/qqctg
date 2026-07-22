@@ -64,6 +64,12 @@
             "api": "csp_HBPianKu8"
         },
         {
+            "key": "HBXingKong4K",
+            "name": "空星|弹幕",
+            "type": 3,
+            "api": "csp_HBXingKong4K"
+        },
+        {
             "key": "muxi",
             "name": "人人|弹幕",
             "type": 3,

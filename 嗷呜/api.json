@@ -16,14 +16,24 @@
             "ext": "https://file.icve.com.cn/file_doc/803/892/C8FDF0894D61FA21A937E21135CB9125.aowu"
         },
         {
-            "name": "更新日期:20260718",
+            "name": "更新日期:20260721",
             "key": "Y360",
             "type": 3,
             "api": "csp_Y360Amns",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "changeable": 0,
             "ext": "https://file.icve.com.cn/file_doc/121/281/1E74668FD5125AA70977BC98A1B297A1.aowu"
+        },
+        {
+            "name": "🔥短剧推荐",
+            "key": "Hgdh",
+            "type": 3,
+            "api": "csp_HgdhAmns",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "https://nos.netease.com/ysf/dac0101040005285380ee886e6e6c660.aowu"
         },
         {
             "name": "⚙️配置|中心",
